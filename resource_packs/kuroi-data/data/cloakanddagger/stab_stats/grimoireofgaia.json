@@ -1,0 +1,66 @@
+{
+  "grimoireofgaia:weapon_book_ender": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:weapon_book_metal": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:weapon_book_buff": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:weapon_book_freezing": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:cursed_metal_sword": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "grimoireofgaia:fan_ice": {
+    "distracted": 1.5,
+    "unaware": 2.0
+  },
+  "grimoireofgaia:weapon_book": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:weapon_book_hunger": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:minotaur_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:fan": {
+    "distracted": 1.5,
+    "unaware": 2.0
+  },
+  "grimoireofgaia:weapon_book_nature": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:weapon_book_wither": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:fan_fire": {
+    "distracted": 1.5,
+    "unaware": 2.0
+  },
+  "grimoireofgaia:weapon_book_nightmare": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:weapon_book_battle": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "grimoireofgaia:metal_club": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

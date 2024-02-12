@@ -1,0 +1,58 @@
+{
+  "goety:cursed_knight_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -5.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "goety:cursed_knight_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "goety:dark_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -8.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "goety:dark_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -6.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "goety:cursed_knight_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "goety:cursed_knight_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "goety:dark_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "goety:dark_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

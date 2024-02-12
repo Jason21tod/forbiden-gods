@@ -1,0 +1,14 @@
+{
+  "create_sa:blazing_cleaver": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "create_sa:portable_drill": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "create_sa:blazing_pickaxe": {
+    "distracted": 1.4,
+    "unaware": 2.0
+  }
+}

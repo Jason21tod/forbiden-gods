@@ -1,0 +1,26 @@
+{
+  "craftvania2:daybreak": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "craftvania2:holy_rod": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "craftvania2:shield_rod": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "craftvania2:claimh_solais": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "craftvania2:heavnessword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "craftvania2:nunchaku": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

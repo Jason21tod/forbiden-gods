@@ -1,0 +1,10 @@
+{
+  "alexscaves:dreadbow": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "alexscaves:desolate_dagger": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  }
+}

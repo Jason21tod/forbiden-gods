@@ -1,0 +1,214 @@
+{
+  "#wardance:wand": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:handgun": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "#wardance:gauntlet": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:mace": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:staff": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:warglaive": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "#wardance:glaive": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:thrown": {
+    "distracted": 1.0,
+    "unaware": 1.0
+  },
+  "#wardance:quarterstaff": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:pike": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:dagger": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "#wardance:spear": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:cleaver": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "#wardance:sai": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "#wardance:shovel": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:greathammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:launcher": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:longbow": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "#wardance:magestaff": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:sword": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "#wardance:cutlass": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "#wardance:flail": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:khopesh": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "#wardance:towershield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:buckler": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:machete": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "#wardance:longsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "#wardance:greatmace": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:battleaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:lance": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "#wardance:shortspear": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "#wardance:sign": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "#wardance:chakram": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "#wardance:katana": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "#wardance:whip": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:greatsword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:bow": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "#wardance:sickle": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "#wardance:rapier": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "#wardance:twinblade": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "#wardance:hoe": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "#wardance:arbalest": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:buster": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:claw": {
+    "distracted": 1.5,
+    "unaware": 2.0
+  },
+  "#wardance:pickaxe": {
+    "distracted": 1.4,
+    "unaware": 2.0
+  },
+  "#wardance:crossbow": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "#wardance:axe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:book": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:halberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "#wardance:rifle": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "#wardance:scythe": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "#wardance:shield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

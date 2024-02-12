@@ -1,0 +1,149 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ageofweapons:trident_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:trident_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:trident_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:trident_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:trident_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:trident_wood",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/pitchfork",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:trident_hayfork",
+      "required": false
+    },
+    {
+      "id": "divinerpg:aquatic_trident",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:aquaman_trident",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:pitchfork",
+      "required": false
+    },
+    {
+      "id": "minecraft:trident",
+      "required": false
+    },
+    {
+      "id": "minestuck:double_ended_trident",
+      "required": false
+    },
+    {
+      "id": "minestuck:meatfork",
+      "required": false
+    },
+    {
+      "id": "minestuck:skaia_fork",
+      "required": false
+    },
+    {
+      "id": "minestuck:skaian_crocker_rocker",
+      "required": false
+    },
+    {
+      "id": "minestuck:wet_meat_shit_throngler",
+      "required": false
+    },
+    {
+      "id": "primalmagick:forbidden_trident",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hallowsteel_trident",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hexium_trident",
+      "required": false
+    },
+    {
+      "id": "primalmagick:primalite_trident",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:bloodtrident",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:darkknighttrident",
+      "required": false
+    },
+    {
+      "id": "hmag:golden_fork",
+      "required": false
+    },
+    {
+      "id": "minestuck:bident",
+      "required": false
+    },
+    {
+      "id": "minestuck:candy_fork",
+      "required": false
+    },
+    {
+      "id": "minestuck:crocker_fork",
+      "required": false
+    },
+    {
+      "id": "minestuck:devil_fork",
+      "required": false
+    },
+    {
+      "id": "minestuck:eating_fork_gem",
+      "required": false
+    },
+    {
+      "id": "minestuck:edisons_fury",
+      "required": false
+    },
+    {
+      "id": "minestuck:electric_fork",
+      "required": false
+    },
+    {
+      "id": "minestuck:fork",
+      "required": false
+    },
+    {
+      "id": "minestuck:golden_spork",
+      "required": false
+    },
+    {
+      "id": "minestuck:spork",
+      "required": false
+    },
+    {
+      "id": "minestuck:terrain_flatenator",
+      "required": false
+    },
+    {
+      "id": "minestuck:tuning_fork",
+      "required": false
+    }
+  ]
+}

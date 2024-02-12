@@ -1,0 +1,616 @@
+{
+
+"block.wood.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk1", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk2", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk3", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk4", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk5", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk6", "volume": 2 },
+	{ "name": "PresenceFootsteps/blocks/step/wood/wood_walk7", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk8", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk9", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk10", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk11", "volume": 2 },
+    
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk1", "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk2", "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk3", "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk4", "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk5", "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk6", "volume": 2, "pitch": 0.8 },
+	{ "name": "PresenceFootsteps/blocks/step/wood/wood_walk7", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk8", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk9", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk10", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk11", "volume": 2 },
+    
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk1", "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk2", "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk3", "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk4", "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk5", "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk6", "volume": 2, "pitch": 1.2 },
+	{ "name": "PresenceFootsteps/blocks/step/wood/wood_walk4", "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk5", "volume": 2, "pitch": 1.2 },
+	{ "name": "PresenceFootsteps/blocks/step/wood/wood_walk3", "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk4", "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk5", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk6", "volume": 2 },
+	{ "name": "PresenceFootsteps/blocks/step/wood/wood_walk7", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk8", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk9", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk10", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/wood/wood_walk11", "volume": 2 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.ladder.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/ladder/ladder1", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/ladder/ladder2", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/ladder/ladder3", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/ladder/ladder4", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/ladder/ladder1", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/ladder/ladder2", "volume": 2 },
+	{ "name": "PresenceFootsteps/blocks/step/ladder/ladder3", "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/ladder/ladder4", "volume": 2 }   
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.stone.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk1", "weight": 10, "volume": 2, "pitch": 1.0 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk2", "weight": 10, "volume": 2, "pitch": 1.0 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk3", "weight": 10, "volume": 2, "pitch": 1.0 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk4", "weight": 10, "volume": 2, "pitch": 1.0 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk5", "weight": 10, "volume": 2, "pitch": 1.0 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk6", "weight": 10, "volume": 2, "pitch": 1.0 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/stone/stone_walk7", "weight": 10, "volume": 2, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk8", "weight": 10, "volume": 2, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk9", "weight": 10, "volume": 2, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk10", "weight": 10, "volume": 2, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk11", "weight": 10, "volume": 2, "pitch": 1 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/stone/stone_run1",  "weight": 10, "volume": 2, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run2",  "weight": 10, "volume": 2.5, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run3",  "weight": 10, "volume": 2.1, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run4",  "weight": 10, "volume": 2.3, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run5",  "weight": 10, "volume": 2.4, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run6",  "weight": 10, "volume": 2.5, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run7",  "weight": 10, "volume": 1.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run8",  "weight": 10, "volume": 2.3, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run9",  "weight": 10, "volume": 2.1, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run10", "weight": 10, "volume": 1.9, "pitch": 1},  
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run11", "weight": 10, "volume": 1.9, "pitch": 1},
+	
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk1", "weight": 10, "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk2", "weight": 10, "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk3", "weight": 10, "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk4", "weight": 10, "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk5", "weight": 10, "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk6", "weight": 10, "volume": 2, "pitch": 1.2 },
+	
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk7", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk8", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk9", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk10", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk11", "weight": 10, "volume": 2, "pitch": 0.8 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/stone/stone_run1",  "weight": 10, "volume": 2, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run2",  "weight": 10, "volume": 2.5, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run3",  "weight": 10, "volume": 2.1, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run4",  "weight": 10, "volume": 2.3, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run5",  "weight": 10, "volume": 2.4, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run6",  "weight": 10, "volume": 2.5, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run7",  "weight": 10, "volume": 1.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run8",  "weight": 10, "volume": 2.3, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run9",  "weight": 10, "volume": 2.1, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run10", "weight": 10, "volume": 1.9, "pitch": 1}, 
+	{ "name": "PresenceFootsteps/blocks/step/stone/stone_run11", "weight": 10, "volume": 1.9, "pitch": 1},
+    
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk1", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk2", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk3", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk4", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk5", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk6", "weight": 10, "volume": 2, "pitch": 0.8 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/stone/stone_walk7", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk8", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk9", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk10", "weight": 10, "volume": 2, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_walk11", "weight": 10, "volume": 2, "pitch": 0.8 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/stone/stone_run1",  "weight": 10, "volume": 2, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run2",  "weight": 10, "volume": 2.5, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run3",  "weight": 10, "volume": 2.1, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run4",  "weight": 10, "volume": 2.3, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run5",  "weight": 10, "volume": 2.4, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run6",  "weight": 10, "volume": 2.5, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run7",  "weight": 10, "volume": 1.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run8",  "weight": 10, "volume": 2.3, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run9",  "weight": 10, "volume": 2.1, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/stone/stone_run10", "weight": 10, "volume": 1.9, "pitch": 1},
+	{ "name": "PresenceFootsteps/blocks/step/stone/stone_run11", "weight": 11, "volume": 1.9, "pitch": 1}
+	
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.grass.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_walk1", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_walk2", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_walk3", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+	{ "name": "PresenceFootsteps/blocks/step/grass/grass_wander1", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_walk4", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_walk5", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+	{ "name": "PresenceFootsteps/blocks/step/grass/grass_wander2", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_walk6", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_walk7", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+	{ "name": "PresenceFootsteps/blocks/step/grass/grass_wander4", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_walk8", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_walk9", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+	{ "name": "PresenceFootsteps/blocks/step/grass/grass_wander5", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+	{ "name": "PresenceFootsteps/blocks/step/grass/grass_walk10", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_run1", "weight": 10, "volume": 1, "pitch": 1.1, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_run2", "weight": 10, "volume": 1, "pitch": 1.1, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_run3", "weight": 10, "volume": 1, "pitch": 1.2, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_run4", "weight": 10, "volume": 1, "pitch": 1.2, "attenuation_distance": 8 },
+	{ "name": "PresenceFootsteps/blocks/step/grass/grass_wander3", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/grass/grass_run1", "weight": 10, "volume": 1, "pitch": 1.3, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_run2", "weight": 10, "volume": 1, "pitch": 1.1, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_run3", "weight": 10, "volume": 1, "pitch": 1.2, "attenuation_distance": 8 },
+	{ "name": "PresenceFootsteps/blocks/step/grass/grass_wander6", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 },
+    { "name": "PresenceFootsteps/blocks/step/grass/grass_run4", "weight": 10, "volume": 1, "pitch": 1.0, "attenuation_distance": 8 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.gravel.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk1",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk2",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk3",  "weight": 10, "volume": 2,  "pitch": 1 },
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_wander1", "weight": 10, "volume": 2,  "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk4",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk5",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk6",  "weight": 10, "volume": 2,  "pitch": 1 },
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_wander3", "weight": 10, "volume": 2,  "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk7",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk8",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk9",  "weight": 10, "volume": 2,  "pitch": 1 },
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_wander2", "weight": 10, "volume": 2,  "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk10", "weight": 10, "volume": 2,  "pitch": 1 },
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk11", "weight": 10, "volume": 2,  "pitch": 1 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_land1", "weight": 10, "volume": 2,  "pitch": 1.1 },
+
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run1",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run2",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run3",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run4",  "weight": 10, "volume": 2,  "pitch": 1 },
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_wander1", "weight": 10, "volume": 2,  "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run5",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run6",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run7",  "weight": 10, "volume": 2,  "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run8",  "weight": 10, "volume": 2,  "pitch": 1.2 },
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_wander2", "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run9",  "weight": 10, "volume": 2,  "pitch": 1.1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_run10", "weight": 10, "volume": 2,  "pitch": 1 },
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_run11", "weight": 10, "volume": 2,  "pitch": 1.1 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_land2", "weight": 10, "volume": 2,  "pitch": 1.1 },
+
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk1",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk2",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk3",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk4",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk5",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk6",  "weight": 10, "volume": 2,  "pitch": 1 },
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_wander3", "weight": 10, "volume": 2,  "pitch": 1.1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk7",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk8",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk9",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk10", "weight": 10, "volume": 2,  "pitch": 1 },
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_walk11", "weight": 10, "volume": 2,  "pitch": 1.1 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/gravel/gravel_land1", "weight": 10, "volume": 2,  "pitch": 1 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.mud.step": { "sounds": [	
+	{ "name": "PresenceFootsteps/blocks/step/mud/mud_walk1",  "weight": 10, "volume": 2,  "pitch": 2 },
+    { "name": "PresenceFootsteps/blocks/step/mud/mud_walk2",  "weight": 10, "volume": 2,  "pitch": 2.2 },
+    { "name": "PresenceFootsteps/blocks/step/mud/mud_walk3",  "weight": 10, "volume": 2,  "pitch": 2.1 },
+    { "name": "PresenceFootsteps/blocks/step/mud/mud_walk4",  "weight": 10, "volume": 2,  "pitch": 2.3 },
+    { "name": "PresenceFootsteps/blocks/step/mud/mud_walk5",  "weight": 10, "volume": 2,  "pitch": 2.1 },
+    { "name": "PresenceFootsteps/blocks/step/mud/mud_walk6",  "weight": 10, "volume": 2,  "pitch": 2 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/mud/mud_wander1",  "weight": 10, "volume": 2,  "pitch": 1 },
+	
+    { "name": "PresenceFootsteps/blocks/step/mud/mud_walk1",  "weight": 10, "volume": 2,  "pitch": 2 },
+    { "name": "PresenceFootsteps/blocks/step/mud/mud_walk2",  "weight": 10, "volume": 2,  "pitch": 2.2 },
+    { "name": "PresenceFootsteps/blocks/step/mud/mud_walk3",  "weight": 10, "volume": 2,  "pitch": 2.1 },
+    { "name": "PresenceFootsteps/blocks/step/mud/mud_walk4", "weight": 10, "volume": 2,  "pitch": 2.3 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/mud/mud_wander2",  "weight": 10, "volume": 2,  "pitch": 1 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk1",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk2",  "weight": 10, "volume": 2,  "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk3",  "weight": 10, "volume": 2,  "pitch": 1.1 },
+    { "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk4",  "weight": 10, "volume": 2,  "pitch": 1.3 },
+    { "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk5",  "weight": 10, "volume": 2,  "pitch": 1.1 },
+    { "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk6",  "weight": 10, "volume": 2,  "pitch": 1 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/mud/mud_wander3",  "weight": 10, "volume": 2,  "pitch": 1 },
+	
+    { "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk1",  "weight": 10, "volume": 2,  "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk2",  "weight": 10, "volume": 2,  "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk3",  "weight": 10, "volume": 2,  "pitch": 1.1 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/mud/mud_wander4",  "weight": 10, "volume": 2,  "pitch": 1 },
+	
+    { "name": "PresenceFootsteps/blocks/step/mud/muffledice_walk_walk4", "weight": 10, "volume": 2,  "pitch": 1.3 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.metal.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk1", "pitch": 0.7, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk2", "pitch": 0.7, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk3", "pitch": 0.7, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk4", "pitch": 0.7, "volume": 4 },
+	{ "name": "PresenceFootsteps/blocks/step/metal/metalbox_wander4", "pitch": 1.1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk5", "pitch": 0.7, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk6", "pitch": 0.7, "volume": 4 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/metal/metalbox_wander1", "pitch": 1, "volume": 4 },
+    
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk1", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk2", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk3", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk4", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk5", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_walk6", "pitch": 0.8, "volume": 4 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/metal/metalbox_wander2", "pitch": 1, "volume": 4 },
+    
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_run1", "pitch": 0.6, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_run2", "pitch": 0.6, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_run3", "pitch": 0.6, "volume": 4 },
+	{ "name": "PresenceFootsteps/blocks/step/metal/metalbox_wander3", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_run4", "pitch": 0.6, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_run5", "pitch": 0.6, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/metal/metalbox_run6", "pitch": 0.6, "volume": 4 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.bamboo_wood.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk1", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk2", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk3", "pitch": 1, "volume": 4 },
+	{ "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_wander2", "pitch": 1.1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk4", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk5", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk9", "pitch": 1, "volume": 4 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_wander1", "pitch": 1.1, "volume": 4 },
+    
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk9", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk8", "pitch": 0.8, "volume": 4 },
+	{ "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_wander3", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk9", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk10", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk11", "pitch": 0.8, "volume": 4 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_wander4", "pitch": 1, "volume": 4 },
+    
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk1", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk2", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk3", "pitch": 1, "volume": 4 },
+	{ "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_wander5", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk4", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk5", "pitch": 1, "volume": 4 },
+	{ "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_wander6", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/bamboo/squeakywood_walk9", "pitch": 1, "volume": 4 }
+	
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.chain.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_1", "pitch": 0.7, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_2", "pitch": 0.7, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_3", "pitch": 0.7, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_4", "pitch": 0.7, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_5", "pitch": 0.7, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_6", "pitch": 0.7, "volume": 4 },
+    
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_7", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_8", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_9", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_10", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_11", "pitch": 0.8, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_12", "pitch": 0.8, "volume": 4 },
+    
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_1", "pitch": 0.6, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_2", "pitch": 0.6, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_3", "pitch": 0.6, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_4", "pitch": 0.6, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_5", "pitch": 0.6, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/chain/chain_6", "pitch": 0.6, "volume": 4 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.moss.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step1",  "weight": 1, "volume": 2, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step2",  "weight": 1, "volume": 2, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step3",  "weight": 1, "volume": 2, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step4",  "weight": 1, "volume": 2, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step5",  "weight": 1, "volume": 2, "pitch": 1.1},
+	
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step6",  "weight": 1, "volume": 2, "pitch": 0.9},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step7",  "weight": 1, "volume": 2, "pitch": 0.9},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step8",  "weight": 1, "volume": 2, "pitch": 0.9},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step9",  "weight": 1, "volume": 2, "pitch": 0.9},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step10", "weight": 1, "volume": 2, "pitch": 0.9},   
+	{ "name": "PresenceFootsteps/blocks/step/moss/moss_step11", "weight": 1, "volume": 2, "pitch": 0.9}, 
+	
+	{ "name": "PresenceFootsteps/blocks/step/moss/moss_step7",  "weight": 1, "volume": 2, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step8",  "weight": 1, "volume": 2, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step9",  "weight": 1, "volume": 2, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step10", "weight": 1, "volume": 2, "pitch": 1},   
+	{ "name": "PresenceFootsteps/blocks/step/moss/moss_step11", "weight": 1, "volume": 2, "pitch": 1},
+ 	
+	{ "name": "PresenceFootsteps/blocks/step/moss/moss_step1",  "weight": 1, "volume": 2, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step2",  "weight": 1, "volume": 2, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step3",  "weight": 1, "volume": 2, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/moss/moss_step4", "weight": 1, "volume": 2, "pitch": 1.2},   
+	{ "name": "PresenceFootsteps/blocks/step/moss/moss_step5", "weight": 1, "volume": 2, "pitch": 1.2}
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+
+"block.soul_sand.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk1",  "weight": 10, "volume": 0.9, "pitch": 0.6},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk2",  "weight": 10, "volume": 0.9, "pitch": 0.6},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk3",  "weight": 10, "volume": 0.9, "pitch": 0.6},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk4",  "weight": 10, "volume": 0.9, "pitch": 0.6},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk5",  "weight": 10, "volume": 0.9, "pitch": 0.6},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk6",  "weight": 10, "volume": 0.9, "pitch": 0.6},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk7",  "weight": 10, "volume": 0.9, "pitch": 0.6},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk8",  "weight": 10, "volume": 0.9, "pitch": 0.6},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk9",  "weight": 10, "volume": 0.9, "pitch": 0.6},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk10", "weight": 10, "volume": 0.9, "pitch": 0.6},
+	{ "name": "PresenceFootsteps/blocks/step/sand/sand_walk11", "weight": 10, "volume": 0.9, "pitch": 0.6}
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.glass.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/glass/glass_hit1",  "volume": 2, "pitch": 1.0 },
+    { "name": "PresenceFootsteps/blocks/step/glass/glass_hit2",  "volume": 2, "pitch": 1.1 },
+    { "name": "PresenceFootsteps/blocks/step/glass/glass_hit3",  "volume": 2, "pitch": 1.0 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/glass/glass_hit1",  "volume": 2, "pitch": 1.0 },
+    { "name": "PresenceFootsteps/blocks/step/glass/glass_hit2",  "volume": 2, "pitch": 1.1 },
+    { "name": "PresenceFootsteps/blocks/step/glass/glass_hit3",  "volume": 2, "pitch": 0.8 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/glass/glass_hit1",  "volume": 2, "pitch": 1.0 },
+    { "name": "PresenceFootsteps/blocks/step/glass/glass_hit2",  "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/glass/glass_hit3",  "volume": 2, "pitch": 0.8 },
+	
+	{ "name": "PresenceFootsteps/blocks/step/glass/glass_hit1",  "volume": 2, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/glass/glass_hit2",  "volume": 2, "pitch": 1.1 },
+    { "name": "PresenceFootsteps/blocks/step/glass/glass_hit3",  "volume": 2, "pitch": 0.9 }
+
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.sand.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk1",  "weight": 10, "volume": 0.9, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk2",  "weight": 10, "volume": 0.9, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk3",  "weight": 10, "volume": 0.9, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk4",  "weight": 10, "volume": 0.9, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk5",  "weight": 10, "volume": 0.9, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk6",  "weight": 10, "volume": 0.9, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk7",  "weight": 10, "volume": 0.9, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk8",  "weight": 10, "volume": 0.9, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk9",  "weight": 10, "volume": 0.9, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk10", "weight": 10, "volume": 0.9, "pitch": 1.1},
+	
+	{ "name": "PresenceFootsteps/blocks/step/sand/sand_run1",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run2",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run3",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run4",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run5",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run6",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run7",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run8",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run9",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run10", "weight": 10, "volume": 0.9, "pitch": 1},  
+	{ "name": "PresenceFootsteps/blocks/step/sand/sand_run11", "weight": 10, "volume": 0.9, "pitch": 1}, 
+    
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk1",  "weight": 10, "volume": 0.9, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk2",  "weight": 10, "volume": 0.9, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk3",  "weight": 10, "volume": 0.9, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk4",  "weight": 10, "volume": 0.9, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk5",  "weight": 10, "volume": 0.9, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk6",  "weight": 10, "volume": 0.9, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk7",  "weight": 10, "volume": 0.9, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk8",  "weight": 10, "volume": 0.9, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk9",  "weight": 10, "volume": 0.9, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk10", "weight": 10, "volume": 0.9, "pitch": 1.2},
+    
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk1",  "weight": 10, "volume": 0.9, "pitch": 1.3},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk2",  "weight": 10, "volume": 0.9, "pitch": 1.3},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk3",  "weight": 10, "volume": 0.9, "pitch": 1.3},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk4",  "weight": 10, "volume": 0.9, "pitch": 1.3},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk5",  "weight": 10, "volume": 0.9, "pitch": 1.3},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk6",  "weight": 10, "volume": 0.9, "pitch": 1.3},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk7",  "weight": 10, "volume": 0.9, "pitch": 1.3},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk8",  "weight": 10, "volume": 0.9, "pitch": 1.3},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk9",  "weight": 10, "volume": 0.9, "pitch": 1.3},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_walk10", "weight": 10, "volume": 0.9, "pitch": 1.3},
+
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run1",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run2",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run3",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run4",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run5",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run6",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run7",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run8",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run9",  "weight": 10, "volume": 0.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/sand/sand_run10", "weight": 10, "volume": 0.9, "pitch": 1}
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.snow.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk1",  "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk2",  "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk3",  "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk4",  "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk5",  "weight": 10, "volume": 3, "pitch": 1.2},
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_wander1", "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk6",  "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk7",  "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk8",  "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk9",  "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk10", "weight": 10, "volume": 3, "pitch": 1.2},
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_walk11", "weight": 10, "volume": 3, "pitch": 1.2},
+	
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_wander2", "weight": 10, "volume": 3, "pitch": 1.2},
+	
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_run1",  "weight": 10, "volume": 2, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_run2",  "weight": 10, "volume": 2.5, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_run3",  "weight": 10, "volume": 2.1, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_run4",  "weight": 10, "volume": 2.3, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_run5",  "weight": 10, "volume": 2.4, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_run6",  "weight": 10, "volume": 2.5, "pitch": 1},
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_wander3", "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_run7",  "weight": 10, "volume": 1.9, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_run8",  "weight": 10, "volume": 2.3, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_run9",  "weight": 10, "volume": 2.1, "pitch": 1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_run10", "weight": 10, "volume": 1.9, "pitch": 1},  
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_run11", "weight": 10, "volume": 1.9, "pitch": 1},
+	
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_wander4", "weight": 10, "volume": 3, "pitch": 1.2},
+    
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk1",  "weight": 10, "volume": 3, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk2",  "weight": 10, "volume": 3, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk3",  "weight": 10, "volume": 3, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk4",  "weight": 10, "volume": 3, "pitch": 1.1},
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_wander5", "weight": 10, "volume": 3, "pitch": 1.2},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk5",  "weight": 10, "volume": 3, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk6",  "weight": 10, "volume": 3, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk7",  "weight": 10, "volume": 3, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk8",  "weight": 10, "volume": 3, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk9",  "weight": 10, "volume": 3, "pitch": 1.1},
+    { "name": "PresenceFootsteps/blocks/step/snow/snow_walk10", "weight": 10, "volume": 3, "pitch": 1.1},
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_walk11", "weight": 10, "volume": 3, "pitch": 1.1},
+	
+	{ "name": "PresenceFootsteps/blocks/step/snow/snow_wander6", "weight": 10, "volume": 3, "pitch": 1.2}
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.slime.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk1", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk2", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk3", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk4", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk5", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk6", "volume": 4, "pitch": 1 },
+    
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk1", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk2", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk3", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk4", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk5", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk6", "volume": 4, "pitch": 0.8 },
+    
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run1", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run2", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run3", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run4", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run5", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run6", "volume": 4, "pitch": 1.2 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.slime_block.hit": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk1", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk2", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk3", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk4", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk5", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk6", "volume": 4, "pitch": 1 },
+    
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk1", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk2", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk3", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk4", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk5", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_walk6", "volume": 4, "pitch": 0.8 },
+    
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run1", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run2", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run3", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run4", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run5", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/slime/slime_run6", "volume": 4, "pitch": 1.2 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.amethyst_block.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk1", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk2", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk3", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk4", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk5", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk6", "volume": 4, "pitch": 1 },
+    
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk1", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk2", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk3", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk4", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk5", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_walk6", "volume": 4, "pitch": 0.8 },
+    
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_run1", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_run2", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_run3", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_run4", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_run5", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/crystal/crystal_run6", "volume": 4, "pitch": 1.2 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.wool.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk1", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk2", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk3", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk4", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk5", "volume": 4, "pitch": 1 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk6", "volume": 4, "pitch": 1 },
+    
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk7", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk8", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk9", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk10", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk11", "volume": 4, "pitch": 0.8 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk10", "volume": 4, "pitch": 0.8 },
+    
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk9", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk8", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk7", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk6", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk5", "volume": 4, "pitch": 1.2 },
+    { "name": "PresenceFootsteps/blocks/step/rug/rug_walk4", "volume": 4, "pitch": 1.2 }
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" },
+
+"block.pink_petals.step": { "sounds": [
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through1", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through2", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through3", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through4", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through5", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through9", "pitch": 1, "volume": 4 },
+	
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through9", "pitch": 1.2, "volume": 1 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through8", "pitch": 1.3, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through9", "pitch": 1.4, "volume": 1 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through10", "pitch": 1, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through11", "pitch": 1, "volume": 4 },  
+	
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through9", "pitch": 1.2, "volume": 3 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through8", "pitch": 1.3, "volume": 4 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through9", "pitch": 1.1, "volume": 2 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through10", "pitch": 1.1, "volume": 3 },
+    { "name": "PresenceFootsteps/blocks/step/petals/leaves_through11", "pitch": 1.1, "volume": 1 }	
+], "replace": true, "subtitle": "subtitles.block.generic.footsteps" }
+ 
+
+
+
+
+}

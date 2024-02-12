@@ -1,0 +1,461 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether:hammer_of_kingbdogz",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "basicweapons:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "basicweapons:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "basicweapons:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "basicweapons:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "basicweapons:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "basicweapons:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "betterendforge:aeternium_hammer",
+      "required": false
+    },
+    {
+      "id": "betterendforge:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "betterendforge:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "betterendforge:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "betterendforge:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "betterendforge:terminite_hammer",
+      "required": false
+    },
+    {
+      "id": "betterendforge:thallasium_hammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:crushing_hammer",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:skullbreaker_hammer",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:mace",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:stormlander",
+      "required": false
+    },
+    {
+      "id": "enigmaticlegacy:astral_breaker",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:deorum_blacksmith_gavel",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:diamond_blacksmith_gavel",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:golden_blacksmith_gavel",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:iron_blacksmith_gavel",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:netherite_blacksmith_gavel",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:reinforced_deorum_blacksmith_gavel",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:stone_blacksmith_gavel",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:wooden_blacksmith_gavel",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_hammer",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_hammer_end",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_hammer_nether",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:abyss_echo",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:dogmatic_punishment",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:eternium_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:fiery_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:gold_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:hammer_of_incarceration",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:ironwood_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:knightmetal_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:poseidite_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:sculkium_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:shulkerate_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:steeleaf_hammer",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:totemic_gold_hammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:blacksmith_hammer",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:hammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:blacksmith_hammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:claw_hammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:democratic_demolitioner",
+      "required": false
+    },
+    {
+      "id": "minestuck:estrogen_empowered_everything_eradicator",
+      "required": false
+    },
+    {
+      "id": "minestuck:fear_no_anvil",
+      "required": false
+    },
+    {
+      "id": "minestuck:lucerne_hammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:lucerne_hammer_of_undying",
+      "required": false
+    },
+    {
+      "id": "minestuck:melt_masher",
+      "required": false
+    },
+    {
+      "id": "minestuck:pogo_hammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:popamatic_vrillyhoo",
+      "required": false
+    },
+    {
+      "id": "minestuck:regi_hammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:scarlet_zillyhoo",
+      "required": false
+    },
+    {
+      "id": "minestuck:sledge_hammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:telescopic_sassacrusher",
+      "required": false
+    },
+    {
+      "id": "minestuck:wrinklefucker",
+      "required": false
+    },
+    {
+      "id": "minestuck:zillyhoo_hammer",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:skeletonking_mace",
+      "required": false
+    },
+    {
+      "id": "reliquary:mercy_cross",
+      "required": false
+    },
+    {
+      "id": "silentgear:hammer",
+      "required": false
+    },
+    {
+      "id": "silentgear:prospector_hammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:frostfall",
+      "required": false
+    },
+    {
+      "id": "simplytools:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "simplytools:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "simplytools:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "simplytools:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "simplytools:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "simplytools:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:hammer_wood",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:nether_hammer",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:tungsten_hammer",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "voidscape:charred_warhammer",
+      "required": false
+    },
+    {
+      "id": "exdeorum:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "exdeorum:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "exdeorum:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "exdeorum:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "exdeorum:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "exdeorum:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:eeeeeeeeeeee",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mjolnir",
+      "required": false
+    },
+    {
+      "id": "simplyswords:soulkeeper",
+      "required": false
+    },
+    {
+      "id": "simplyswords:thunderbrand",
+      "required": false
+    }
+  ]
+}

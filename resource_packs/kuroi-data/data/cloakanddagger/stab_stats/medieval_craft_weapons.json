@@ -1,0 +1,14 @@
+{
+  "medieval_craft_weapons:estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "medieval_craft_weapons:hiddenblade": {
+    "distracted": 2.0,
+    "unaware": 3.0
+  },
+  "medieval_craft_weapons:nodachi": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

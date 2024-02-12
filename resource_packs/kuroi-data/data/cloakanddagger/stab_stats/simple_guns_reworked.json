@@ -1,0 +1,14 @@
+{
+  "simple_guns_reworked:pistol": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "simple_guns_reworked:revolver": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "simple_guns_reworked:submachine_gun": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  }
+}

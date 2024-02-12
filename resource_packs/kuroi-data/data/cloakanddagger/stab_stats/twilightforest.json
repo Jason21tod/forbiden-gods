@@ -1,0 +1,18 @@
+{
+  "twilightforest:giant_pickaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "twilightforest:block_and_chain": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "twilightforest:knightmetal_shield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "twilightforest:giant_sword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

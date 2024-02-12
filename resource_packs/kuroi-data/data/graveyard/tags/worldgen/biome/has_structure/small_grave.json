@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "terralith:brushland", "required": false},
+	{"id": "terralith:highlands", "required": false},
+	{"id": "terralith:rocky_shrubland", "required": false},
+	{"id": "terralith:steppe", "required": false},
+	{"id": "terralith:shrubland", "required": false},
+	{"id": "terralith:yosemite_lowlands", "required": false}
+  ]
+}

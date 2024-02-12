@@ -1,0 +1,74 @@
+{
+  "arsenal_core:golden_chinese_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:diamond_smallsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:wooden_smallsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:golden_smallsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:netherite_smallsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:golden_ancient_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:wooden_chinese_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:diamond_chinese_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:stone_smallsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:xuanyuanjian": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:iron_smallsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:netherite_ancient_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:wooden_ancient_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:stone_chinese_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:iron_ancient_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:netherite_chinese_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:stone_ancient_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "arsenal_core:iron_chinese_sword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  }
+}

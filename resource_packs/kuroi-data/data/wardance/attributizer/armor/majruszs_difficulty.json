@@ -1,0 +1,37 @@
+{
+  "majruszs_difficulty:end_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -5.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszs_difficulty:end_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -5.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszs_difficulty:end_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -7.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszs_difficulty:end_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -9.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszs_difficulty:hermes_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -5.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

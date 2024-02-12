@@ -1,0 +1,150 @@
+{
+  "weaponmaster:wm_rapier": {
+    "attack": 2.2,
+    "defend": 0.85,
+    "shield": false,
+    "sweep": "NONE",
+    "knockback": 1.0,
+    "damage_scale": 1.0,
+    "posture_scale": 0.75,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 0.0,
+    "sweep_scale": 0.0,
+    "standing": {
+      "sweep": "NONE",
+      "posture_scale": 0.75
+    },
+    "falling": {
+      "sweep": "NONE",
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "NONE"
+    },
+    "sprinting": {
+      "sweep": "NONE",
+      "damage_scale": 1.25,
+      "posture_scale": 1.25,
+      "crit": true
+    },
+    "riding": {
+      "sweep": "NONE",
+      "knockback": 1.5,
+      "damage_scale": 1.5,
+      "posture_scale": 1.25,
+      "crit_damage": 2.0
+    }
+  },
+  "weaponmaster:wm_rapierlarge": {
+    "attack": 4.0,
+    "defend": 0.7,
+    "shield": false,
+    "sweep": "NONE",
+    "knockback": 1.0,
+    "damage_scale": 1.0,
+    "posture_scale": 0.75,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 0.0,
+    "sweep_scale": 0.0,
+    "standing": {
+      "sweep": "NONE",
+      "posture_scale": 0.75
+    },
+    "falling": {
+      "sweep": "NONE",
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "NONE"
+    },
+    "sprinting": {
+      "sweep": "NONE",
+      "damage_scale": 1.25,
+      "posture_scale": 1.25,
+      "crit": true
+    },
+    "riding": {
+      "sweep": "NONE",
+      "knockback": 1.5,
+      "damage_scale": 1.5,
+      "posture_scale": 1.25,
+      "crit_damage": 2.0
+    }
+  },
+  "weaponmaster:wm_broadsword": {
+    "attack": 2.6,
+    "defend": 0.9,
+    "shield": false,
+    "sweep": "NONE",
+    "knockback": 1.0,
+    "damage_scale": 1.0,
+    "posture_scale": 0.75,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 0.0,
+    "sweep_scale": 0.0,
+    "standing": {
+      "sweep": "NONE",
+      "posture_scale": 0.75
+    },
+    "falling": {
+      "sweep": "NONE",
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "NONE"
+    },
+    "sprinting": {
+      "sweep": "NONE",
+      "damage_scale": 1.25,
+      "posture_scale": 1.25,
+      "crit": true
+    },
+    "riding": {
+      "sweep": "NONE",
+      "knockback": 1.5,
+      "damage_scale": 1.5,
+      "posture_scale": 1.25,
+      "crit_damage": 2.0
+    }
+  },
+  "weaponmaster:wm_broadswordlarge": {
+    "attack": 3.0,
+    "defend": 0.8,
+    "shield": false,
+    "sweep": "NONE",
+    "knockback": 1.0,
+    "damage_scale": 1.0,
+    "posture_scale": 0.75,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 0.0,
+    "sweep_scale": 0.0,
+    "standing": {
+      "sweep": "NONE",
+      "posture_scale": 0.75
+    },
+    "falling": {
+      "sweep": "NONE",
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "NONE"
+    },
+    "sprinting": {
+      "sweep": "NONE",
+      "damage_scale": 1.25,
+      "posture_scale": 1.25,
+      "crit": true
+    },
+    "riding": {
+      "sweep": "NONE",
+      "knockback": 1.5,
+      "damage_scale": 1.5,
+      "posture_scale": 1.25,
+      "crit_damage": 2.0
+    }
+  }
+}

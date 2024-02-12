@@ -1,0 +1,34 @@
+{
+  "exdeorum:diamond_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exdeorum:stone_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exdeorum:iron_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exdeorum:netherite_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exdeorum:wooden_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exdeorum:golden_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exdeorum:bone_crook": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exdeorum:crook": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

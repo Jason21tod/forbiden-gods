@@ -1,0 +1,22 @@
+{
+  "mod_lavacow:sludge_wand": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "mod_lavacow:moltenhammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "mod_lavacow:war": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "mod_lavacow:famine": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "mod_lavacow:moltenpan": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

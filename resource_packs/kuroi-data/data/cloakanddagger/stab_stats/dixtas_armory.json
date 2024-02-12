@@ -1,0 +1,170 @@
+{
+  "dixtas_armory:diamond_dagger": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "dixtas_armory:iron_twinblade": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "dixtas_armory:golden_dagger": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "dixtas_armory:netherite_halberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:netherite_dagger": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "dixtas_armory:stone_twinblade": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "dixtas_armory:wooden_twinblade": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "dixtas_armory:golden_shortsword": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:golden_battle_axe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:diamond_halberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:netherite_battle_axe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:netherite_katana": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:golden_twinblade": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "dixtas_armory:golden_stiletto": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "dixtas_armory:iron_stiletto": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "dixtas_armory:wooden_halberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:golden_halberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:diamond_twinblade": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "dixtas_armory:netherite_shortsword": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:stone_halberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:iron_katana": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:stone_katana": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:wooden_stiletto": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "dixtas_armory:stone_stiletto": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "dixtas_armory:netherite_stiletto": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "dixtas_armory:wooden_battle_axe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:diamond_battle_axe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:iron_shortsword": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:iron_dagger": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "dixtas_armory:wooden_shortsword": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:iron_battle_axe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:wooden_katana": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:diamond_shortsword": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:stone_dagger": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "dixtas_armory:wooden_dagger": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "dixtas_armory:netherite_twinblade": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "dixtas_armory:diamond_katana": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:diamond_stiletto": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "dixtas_armory:iron_halberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:stone_battle_axe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dixtas_armory:stone_shortsword": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "dixtas_armory:golden_katana": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "born_in_chaos_v1:pumpkin_staff",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:staffof_blindness",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:staffof_magic_arrows",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:staffofthe_summoner",
+      "required": false
+    },
+    {
+      "id": "cyclic:evoker_fang",
+      "required": false
+    },
+    {
+      "id": "cyclic:fire_scepter",
+      "required": false
+    },
+    {
+      "id": "cyclic:ice_scepter",
+      "required": false
+    },
+    {
+      "id": "cyclic:lightning_scepter",
+      "required": false
+    },
+    {
+      "id": "cyclic:teleport_wand",
+      "required": false
+    },
+    {
+      "id": "cyclic:torch_launcher",
+      "required": false
+    },
+    {
+      "id": "cyclic:wand_hypno",
+      "required": false
+    },
+    {
+      "id": "cyclic:wand_missile",
+      "required": false
+    },
+    {
+      "id": "divinerpg:ender_scepter",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:draco_arcanus_scepter",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:draco_arcanus_staff",
+      "required": false
+    },
+    {
+      "id": "goety:nameless_staff",
+      "required": false
+    },
+    {
+      "id": "goety:necro_staff",
+      "required": false
+    },
+    {
+      "id": "goety:ominous_staff",
+      "required": false
+    },
+    {
+      "id": "goety:wind_staff",
+      "required": false
+    },
+    {
+      "id": "graveyard:black_bone_staff",
+      "required": false
+    },
+    {
+      "id": "graveyard:cyan_bone_staff",
+      "required": false
+    },
+    {
+      "id": "graveyard:purple_bone_staff",
+      "required": false
+    },
+    {
+      "id": "graveyard:red_bone_staff",
+      "required": false
+    },
+    {
+      "id": "graveyard:white_bone_staff",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:cave_spider_staff",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:magic_staff",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:skeleton_staff",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:zombie_staff",
+      "required": false
+    },
+    {
+      "id": "hexerei:mahogany_broom",
+      "required": false
+    },
+    {
+      "id": "hexerei:willow_broom",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:mystic_staff",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:spatial_disorientation_staff",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:staff_emrys",
+      "required": false
+    },
+    {
+      "id": "reliquary:ender_staff",
+      "required": false
+    },
+    {
+      "id": "reliquary:glacial_staff",
+      "required": false
+    },
+    {
+      "id": "reliquary:harvest_rod",
+      "required": false
+    },
+    {
+      "id": "reliquary:ice_magus_rod",
+      "required": false
+    },
+    {
+      "id": "reliquary:pyromancer_staff",
+      "required": false
+    },
+    {
+      "id": "reliquary:rending_gale",
+      "required": false
+    },
+    {
+      "id": "reliquary:serpent_staff",
+      "required": false
+    },
+    {
+      "id": "reliquary:sojourner_staff",
+      "required": false
+    },
+    {
+      "id": "rootsclassic:crystal_staff",
+      "required": false
+    },
+    {
+      "id": "rootsclassic:staff",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:copper_healer_wand",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:copper_staff",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:diamon_staff",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:diamond_healer_wand",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:iron_healer_wand",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:iron_staff",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:miphril_healer_wand",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:miphril_staff_2",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:nephris_healer_wand",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:nephris_staff",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:netherite_healer_wand",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:netherite_staff",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:steel_healer_wand",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:steel_staff",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fortification_scepter",
+      "required": false
+    },
+    {
+      "id": "twilightforest:lifedrain_scepter",
+      "required": false
+    },
+    {
+      "id": "twilightforest:twilight_scepter",
+      "required": false
+    },
+    {
+      "id": "twilightforest:zombie_scepter",
+      "required": false
+    }
+  ]
+}

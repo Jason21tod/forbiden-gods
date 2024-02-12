@@ -1,0 +1,1759 @@
+{
+  "#machete": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#quarterstaff": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 4.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#buckler": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 4.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.33,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#katana": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.5,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:stealth",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#crossbow": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#spear": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#arbalest": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_grace",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#hammer": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "#bow": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.35,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 4.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:stealth",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#book": [
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#pike": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#longbow": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.1,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.1,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:stealth",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#staff": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 4.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "#twinblade": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_grace",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#pickaxe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#lance": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.33,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "#shovel": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#battleaxe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 4.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "#scythe": [
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#hoe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#magestaff": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 4.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#shield": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 6.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.5,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:might_grace",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#greatsword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 4.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "#polearm": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "#flail": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:might_grace",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "#halberd": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "#rifle": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.33,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.1,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "#trident": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#warglaive": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_grace",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#khopesh": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#rapier": [
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_grace",
+      "modify": 0.3,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_cooldown_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#longsword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#greathammer": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 4.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "#towershield": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 6.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:might_grace",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#launcher": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.33,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.1,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "#mace": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:max_might",
+      "modify": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:might_grace",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "#handgun": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.33,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.1,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "#chakram": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#sword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:might_gen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "#whip": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:spirit_regen",
+      "modify": 0.2,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

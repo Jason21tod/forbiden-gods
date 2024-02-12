@@ -1,0 +1,18 @@
+{
+  "dungeons_mobs:mountaineer_axe": {
+    "distracted": 1.4,
+    "unaware": 2.0
+  },
+  "dungeons_mobs:wooden_ladle": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "dungeons_mobs:diamond_mountaineer_axe": {
+    "distracted": 1.4,
+    "unaware": 2.0
+  },
+  "dungeons_mobs:gold_mountaineer_axe": {
+    "distracted": 1.4,
+    "unaware": 2.0
+  }
+}

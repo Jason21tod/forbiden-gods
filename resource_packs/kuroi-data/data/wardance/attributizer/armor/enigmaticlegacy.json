@@ -1,0 +1,30 @@
+{
+  "enigmaticlegacy:etherium_helmet": [
+    {
+      "attribute": "footwork:evasion",
+      "modify": 0.8,
+      "operation": "ADDITION"
+    }
+  ],
+  "enigmaticlegacy:etherium_leggings": [
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.2,
+      "operation": "ADDITION"
+    }
+  ],
+  "enigmaticlegacy:etherium_chestplate": [
+    {
+      "attribute": "footwork:evasion",
+      "modify": 1.6,
+      "operation": "ADDITION"
+    }
+  ],
+  "enigmaticlegacy:etherium_boots": [
+    {
+      "attribute": "footwork:evasion",
+      "modify": 0.8,
+      "operation": "ADDITION"
+    }
+  ]
+}

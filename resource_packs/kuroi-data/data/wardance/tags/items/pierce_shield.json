@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#wardance:whip",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:diamond_whip",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_whip",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_whip",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_whip",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/threaded_cane_whip",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:supreme_measure",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:vine_whip",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:whip",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:hiddenblade",
+      "required": false
+    },
+    {
+      "id": "mgrr:dystopia",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:plazma_sword",
+      "required": false
+    }
+  ]
+}

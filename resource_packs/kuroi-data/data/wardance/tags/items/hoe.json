@@ -1,0 +1,581 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether_redux:infused_veridium_hoe",
+      "required": false
+    },
+    {
+      "id": "aether_redux:veridium_hoe",
+      "required": false
+    },
+    {
+      "id": "aether:gravitite_hoe",
+      "required": false
+    },
+    {
+      "id": "aether:holystone_hoe",
+      "required": false
+    },
+    {
+      "id": "aether:skyroot_hoe",
+      "required": false
+    },
+    {
+      "id": "aether:valkyrie_hoe",
+      "required": false
+    },
+    {
+      "id": "aether:zanite_hoe",
+      "required": false
+    },
+    {
+      "id": "alloyed:steel_hoe",
+      "required": false
+    },
+    {
+      "id": "aquaculture:neptunium_hoe",
+      "required": false
+    },
+    {
+      "id": "astral:phantasmal_hoe",
+      "required": false
+    },
+    {
+      "id": "betterendforge:aeternium_hoe",
+      "required": false
+    },
+    {
+      "id": "betterendforge:terminite_hoe",
+      "required": false
+    },
+    {
+      "id": "betterendforge:thallasium_hoe",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_hoe",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_hoe_diamond",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:aquite_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_hoe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone_hoe",
+      "required": false
+    },
+    {
+      "id": "byg:pendorite_hoe",
+      "required": false
+    },
+    {
+      "id": "cataclysm_weaponery:ignitium_hoe",
+      "required": false
+    },
+    {
+      "id": "create_sa:brass_hoe",
+      "required": false
+    },
+    {
+      "id": "create_sa:copper_hoe",
+      "required": false
+    },
+    {
+      "id": "create_sa:zinc_hoe",
+      "required": false
+    },
+    {
+      "id": "cyclic:amethyst_hoe",
+      "required": false
+    },
+    {
+      "id": "cyclic:copper_hoe",
+      "required": false
+    },
+    {
+      "id": "cyclic:crystal_hoe",
+      "required": false
+    },
+    {
+      "id": "cyclic:emerald_hoe",
+      "required": false
+    },
+    {
+      "id": "cyclic:netherbrick_hoe",
+      "required": false
+    },
+    {
+      "id": "cyclic:sandstone_hoe",
+      "required": false
+    },
+    {
+      "id": "deep_aether:skyjade_hoe",
+      "required": false
+    },
+    {
+      "id": "deep_aether:stratus_hoe",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_hoe",
+      "required": false
+    },
+    {
+      "id": "doom:argent_hoe",
+      "required": false
+    },
+    {
+      "id": "druidcraft:bone_hoe",
+      "required": false
+    },
+    {
+      "id": "druidcraft:moonstone_hoe",
+      "required": false
+    },
+    {
+      "id": "eidolon:silver_hoe",
+      "required": false
+    },
+    {
+      "id": "embers:dawnstone_hoe",
+      "required": false
+    },
+    {
+      "id": "embers:lead_hoe",
+      "required": false
+    },
+    {
+      "id": "embers:silver_hoe",
+      "required": false
+    },
+    {
+      "id": "endrem:end_crystal_hoe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:arclight_hoe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:bloodstone_hoe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:cryorium_hoe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:jade_hoe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:moonlight_hoe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:sculk_hoe",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:draco_arcanus_hoe",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:reinforced_deorum_hoe",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_hoe",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_hoe_end",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_hoe_nether",
+      "required": false
+    },
+    {
+      "id": "goety:dark_hoe",
+      "required": false
+    },
+    {
+      "id": "grimreaper:spectral_hoe",
+      "required": false
+    },
+    {
+      "id": "ic2:advanced_hoe",
+      "required": false
+    },
+    {
+      "id": "ic2:electric_hoe",
+      "required": false
+    },
+    {
+      "id": "ic2:mowing_tool",
+      "required": false
+    },
+    {
+      "id": "ic2:tool_hoe_aluminium",
+      "required": false
+    },
+    {
+      "id": "ic2:tool_hoe_bronze",
+      "required": false
+    },
+    {
+      "id": "iceandfire:copper_hoe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone_hoe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_fire_hoe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_ice_hoe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_hoe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:myrmex_desert_hoe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:myrmex_jungle_hoe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:silver_hoe",
+      "required": false
+    },
+    {
+      "id": "illagerrevolutionmod:illagium_hoe",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:hoe_steel",
+      "required": false
+    },
+    {
+      "id": "l2complements:eternium_hoe",
+      "required": false
+    },
+    {
+      "id": "l2complements:poseidite_hoe",
+      "required": false
+    },
+    {
+      "id": "l2complements:sculkium_hoe",
+      "required": false
+    },
+    {
+      "id": "l2complements:shulkerate_hoe",
+      "required": false
+    },
+    {
+      "id": "l2complements:totemic_gold_hoe",
+      "required": false
+    },
+    {
+      "id": "lost_aether_content:phoenix_hoe",
+      "required": false
+    },
+    {
+      "id": "majruszsdifficulty:enderium_hoe",
+      "required": false
+    },
+    {
+      "id": "material_elements_armor_tools_weapons:copper_hoe",
+      "required": false
+    },
+    {
+      "id": "material_elements_armor_tools_weapons:steel_hoe",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_hoe",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_hoe",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_hoe",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_hoe",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_hoe",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_hoe",
+      "required": false
+    },
+    {
+      "id": "minestuck:emerald_hoe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:cactus_hoe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:copper_hoe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:lead_hoe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:quicksilver_hoe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:sapphire_hoe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:silver_hoe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:tin_hoe",
+      "required": false
+    },
+    {
+      "id": "nethers_exoticism:kiwano_hoe",
+      "required": false
+    },
+    {
+      "id": "ogres:ogre_hoe",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hallowsteel_hoe",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hexium_hoe",
+      "required": false
+    },
+    {
+      "id": "primalmagick:primal_hoe",
+      "required": false
+    },
+    {
+      "id": "primalmagick:primalite_hoe",
+      "required": false
+    },
+    {
+      "id": "rats:ratlantis_hoe",
+      "required": false
+    },
+    {
+      "id": "rootsclassic:living_hoe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:miphrilhoe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:steelhoe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:electrum_hoe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:fiery_hoe",
+      "required": false
+    },
+    {
+      "id": "sons_of_sins:osseous_hoe",
+      "required": false
+    },
+    {
+      "id": "sons_of_sins:sinful_hoe",
+      "required": false
+    },
+    {
+      "id": "spirit:soul_steel_hoe",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:chorundum_hoe",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:tungsten_hoe",
+      "required": false
+    },
+    {
+      "id": "theabyss:aberythe_hoe",
+      "required": false
+    },
+    {
+      "id": "theabyss:bone_hoe",
+      "required": false
+    },
+    {
+      "id": "theabyss:fusion_hoe",
+      "required": false
+    },
+    {
+      "id": "theabyss:garnite_hoe",
+      "required": false
+    },
+    {
+      "id": "theabyss:incorythe_hoe",
+      "required": false
+    },
+    {
+      "id": "theabyss:phantom_hoe",
+      "required": false
+    },
+    {
+      "id": "theabyss:unorithe_hoe",
+      "required": false
+    },
+    {
+      "id": "tropicraft:eudialyte_hoe",
+      "required": false
+    },
+    {
+      "id": "tropicraft:zircon_hoe",
+      "required": false
+    },
+    {
+      "id": "tropicraft:zirconium_hoe",
+      "required": false
+    },
+    {
+      "id": "twilightforest:ironwood_hoe",
+      "required": false
+    },
+    {
+      "id": "twilightforest:steeleaf_hoe",
+      "required": false
+    },
+    {
+      "id": "underground_jungle:temple_hoe",
+      "required": false
+    },
+    {
+      "id": "voidscape:titanite_hoe",
+      "required": false
+    },
+    {
+      "id": "werewolves:silver_hoe",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:blue_geode_hoe",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:platinum_hoe",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:purple_geode_hoe",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:red_geode_hoe",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:mithril_hoe",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:foolsgold_hoe",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:osmium_hoe_1",
+      "required": false
+    },
+    {
+      "id": "minestuck:hellbringers_hoe_active",
+      "required": false
+    },
+    {
+      "id": "minestuck:hellbringers_hoe_inactive",
+      "required": false
+    }
+  ]
+}

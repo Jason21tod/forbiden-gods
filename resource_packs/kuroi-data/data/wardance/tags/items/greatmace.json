@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexscaves:primitive_club",
+      "required": false
+    },
+    {
+      "id": "atum:iron_club",
+      "required": false
+    },
+    {
+      "id": "atum:stoneguard_club",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:bone_cudgel",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:boneclub",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:tetsubo",
+      "required": false
+    },
+    {
+      "id": "greekfantasy:iron_club",
+      "required": false
+    },
+    {
+      "id": "greekfantasy:stone_club",
+      "required": false
+    },
+    {
+      "id": "greekfantasy:wooden_club",
+      "required": false
+    },
+    {
+      "id": "meetyourfight:depth_star",
+      "required": false
+    },
+    {
+      "id": "spore:mace",
+      "required": false
+    }
+  ]
+}

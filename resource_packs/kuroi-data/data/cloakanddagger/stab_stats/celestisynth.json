@@ -1,0 +1,22 @@
+{
+  "celestisynth:rainfall_serenity": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "celestisynth:aquaflora": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "celestisynth:crescentia": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "celestisynth:breezebreaker": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "celestisynth:poltergeist": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

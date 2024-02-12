@@ -1,0 +1,10 @@
+{
+  "musketmod:musket": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "musketmod:musket_with_bayonet": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  }
+}

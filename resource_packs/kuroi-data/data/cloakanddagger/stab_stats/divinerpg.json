@@ -1,0 +1,58 @@
+{
+  "divinerpg:corrupted_maul": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:crabclaw_maul": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:aquatic_maul": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:palavence": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:massivence": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:frozen_maul": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:shadow_saber": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "divinerpg:aquatooth_maul": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:arcanium_saber": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "divinerpg:fury_maul": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:aquaton": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:frossivence": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:bedrock_maul": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "divinerpg:poison_saber": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  }
+}

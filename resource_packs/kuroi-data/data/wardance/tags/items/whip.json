@@ -1,0 +1,117 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexsmobs:tendon_whip",
+      "required": false
+    },
+    {
+      "id": "craftvania2:chain_w_hip",
+      "required": false
+    },
+    {
+      "id": "craftvania2:diamond_whip",
+      "required": false
+    },
+    {
+      "id": "craftvania2:fire_whip",
+      "required": false
+    },
+    {
+      "id": "craftvania2:gold_chain_whip",
+      "required": false
+    },
+    {
+      "id": "craftvania2:icewhip",
+      "required": false
+    },
+    {
+      "id": "craftvania2:leather_whip",
+      "required": false
+    },
+    {
+      "id": "craftvania2:morning_star_w_hip",
+      "required": false
+    },
+    {
+      "id": "craftvania2:retrovampirekiller",
+      "required": false
+    },
+    {
+      "id": "craftvania2:thornwhip",
+      "required": false
+    },
+    {
+      "id": "craftvania2:vampire_killer_whip",
+      "required": false
+    },
+    {
+      "id": "infernalexp:blindsight_tongue_whip",
+      "required": false
+    },
+    {
+      "id": "infernalexp:kinetic_tongue_whip",
+      "required": false
+    },
+    {
+      "id": "mgrr:nano_cable",
+      "required": false
+    },
+    {
+      "id": "minecells:tentacle",
+      "required": false
+    },
+    {
+      "id": "mobs_of_sins:tentacle_sickle_of_struggle",
+      "required": false
+    },
+    {
+      "id": "pyromancer:hogwip",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:diamond_whip",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_whip",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_whip",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_whip",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/threaded_cane_whip",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:vine_whip",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:whip",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:chained_darkness_dagger",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:chained_ender_dagger",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:chained_fire_dagger",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:chained_foolsgold_dagger",
+      "required": false
+    }
+  ]
+}

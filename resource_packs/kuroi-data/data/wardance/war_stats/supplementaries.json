@@ -1,0 +1,39 @@
+{
+  "supplementaries:wrench": {
+    "attack": 2.0,
+    "defend": 1.0,
+    "shield": false,
+    "sweep": "NONE",
+    "knockback": 1.0,
+    "damage_scale": 1.0,
+    "posture_scale": 1.0,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 0.0,
+    "sweep_scale": 0.0,
+    "standing": {
+      "sweep": "NONE"
+    },
+    "falling": {
+      "sweep": "NONE",
+      "posture_scale": 1.25,
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "NONE"
+    },
+    "sprinting": {
+      "sweep": "NONE",
+      "damage_scale": 1.25,
+      "posture_scale": 1.25,
+      "crit": true
+    },
+    "riding": {
+      "sweep": "NONE",
+      "knockback": 1.5,
+      "damage_scale": 1.5,
+      "posture_scale": 1.25,
+      "crit_damage": 2.0
+    }
+  }
+}

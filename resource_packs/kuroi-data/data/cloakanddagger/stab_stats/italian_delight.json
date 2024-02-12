@@ -1,0 +1,10 @@
+{
+  "italian_delight:iron_pizza_peel": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "italian_delight:rolling_pin": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

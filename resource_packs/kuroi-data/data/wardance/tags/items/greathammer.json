@@ -1,0 +1,561 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ageofweapons:warhammer_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:warhammer_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:warhammer_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:warhammer_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:warhammer_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:warhammer_wood",
+      "required": false
+    },
+    {
+      "id": "blue_skies:aquite/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_wood/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_wood/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_wood/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_wood/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_wood/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_wood/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_wood/greathammer",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone/greathammer",
+      "required": false
+    },
+    {
+      "id": "cataclysm:infernal_forge",
+      "required": false
+    },
+    {
+      "id": "cataclysm:void_forge",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:mjollnir_hammer",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "doom:sentinelhammer",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:anchor",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:encrusted_anchor",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:great_hammer",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:hammer_of_gravity",
+      "required": false
+    },
+    {
+      "id": "embers:grandhammer",
+      "required": false
+    },
+    {
+      "id": "hexerei:warhammer",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:blood_great_hammer",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:harley_quinn_wooden_sledge_hammer",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:squishy_hammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/aeternium/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/terminite/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/thallasium/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite_diamond/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/nether_ruby/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:byg/pendorite/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:deeperdarker/warden/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/deorum/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/draco_arcanus/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/reinforced_deorum/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:plus_the_end/endronium/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:soulsweapons/translucent/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/fiery/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/ironwood/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/knightmetal/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/steeleaf/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/cloggrum/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/forgotten/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/froststeel/greathammer",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/utherium/greathammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "minecells:nutcracker",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:awakened_nephrishammer",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:copper_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:diamond_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:miphril_battle_hammer",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:nephrishammer",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:newgen_hammer",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:steelhammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_greathammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_end/gobber_end_greathammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_nether/gobber_nether_greathammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber/gobber_greathammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_greathammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:hearthflame",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_greathammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_greathammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_greathammer",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:greathammer",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:longhammer",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:warhammer_wood",
+      "required": false
+    },
+    {
+      "id": "atum:gebs_might",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:minotaur_hammer",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_column",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_column_forest",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_column_frost",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_hammer",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_trunk",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_trunk_frost",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:moltenhammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "mutantbeasts:hulk_hammer",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:hulk_hammer",
+      "required": false
+    },
+    {
+      "id": "mutantsbuff:upgraded_hulk_hammer",
+      "required": false
+    },
+    {
+      "id": "pandoras_creatures:arachnon_hammer",
+      "required": false
+    },
+    {
+      "id": "spore:maul",
+      "required": false
+    }
+  ]
+}

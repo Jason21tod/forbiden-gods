@@ -1,0 +1,149 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexscaves:raygun",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:hemolymph_blaster",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:stink_ray",
+      "required": false
+    },
+    {
+      "id": "biomancy:boomling_hive_gun",
+      "required": false
+    },
+    {
+      "id": "biomancy:tooth_gun",
+      "required": false
+    },
+    {
+      "id": "doom:pistol",
+      "required": false
+    },
+    {
+      "id": "doom:plasmagun",
+      "required": false
+    },
+    {
+      "id": "doom:unmaker",
+      "required": false
+    },
+    {
+      "id": "doom:unmaykr",
+      "required": false
+    },
+    {
+      "id": "embers:blazing_ray",
+      "required": false
+    },
+    {
+      "id": "gunswithoutroses:gold_gun",
+      "required": false
+    },
+    {
+      "id": "gunswithoutroses:iron_gun",
+      "required": false
+    },
+    {
+      "id": "hwg:brimstone_gun",
+      "required": false
+    },
+    {
+      "id": "hwg:flare_gun",
+      "required": false
+    },
+    {
+      "id": "hwg:golden_gun",
+      "required": false
+    },
+    {
+      "id": "hwg:hellhorse_revolver",
+      "required": false
+    },
+    {
+      "id": "hwg:luger",
+      "required": false
+    },
+    {
+      "id": "hwg:pistol",
+      "required": false
+    },
+    {
+      "id": "hwg:spistol",
+      "required": false
+    },
+    {
+      "id": "laendli_transport:handgun_2",
+      "required": false
+    },
+    {
+      "id": "more_ranged_items:basic_hand_mortar",
+      "required": false
+    },
+    {
+      "id": "more_ranged_items:ducks_foot_pistol",
+      "required": false
+    },
+    {
+      "id": "more_ranged_items:enhanced_ducks_foot_pistol",
+      "required": false
+    },
+    {
+      "id": "more_ranged_items:enhanced_hand_mortar",
+      "required": false
+    },
+    {
+      "id": "more_ranged_items:high_quality_ducks_foot_pistol",
+      "required": false
+    },
+    {
+      "id": "more_ranged_items:high_quality_hand_mortar",
+      "required": false
+    },
+    {
+      "id": "musketmod:pistol",
+      "required": false
+    },
+    {
+      "id": "nikgubs_blades_plus:blasphemy",
+      "required": false
+    },
+    {
+      "id": "reliquary:handgun",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/flamesprayer",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/hunter_pistol",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:revolver",
+      "required": false
+    },
+    {
+      "id": "simple_guns_reworked:pistol",
+      "required": false
+    },
+    {
+      "id": "simple_guns_reworked:revolver",
+      "required": false
+    },
+    {
+      "id": "simple_guns_reworked:submachine_gun",
+      "required": false
+    },
+    {
+      "id": "wom:ender_blaster",
+      "required": false
+    }
+  ]
+}

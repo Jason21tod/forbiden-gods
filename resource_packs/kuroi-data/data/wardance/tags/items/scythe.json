@@ -1,0 +1,585 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloodandmadness:weapons/burial_blade_extended",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/church_scythe",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:soulscythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:aquite/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_wood/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_wood/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_wood/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_wood/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_wood/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_wood/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_wood/scythe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone/scythe",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:nightmare_scythe",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:frost_scythe",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:jailors_scythe",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:soul_scythe",
+      "required": false
+    },
+    {
+      "id": "eidolon:deathbringer_scythe",
+      "required": false
+    },
+    {
+      "id": "eidolon:reaper_scythe",
+      "required": false
+    },
+    {
+      "id": "enigmaticlegacy:etherium_scythe",
+      "required": false
+    },
+    {
+      "id": "feywild:reaper_scythe",
+      "required": false
+    },
+    {
+      "id": "goety:dark_scythe",
+      "required": false
+    },
+    {
+      "id": "goety:death_scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/aeternium/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/terminite/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/thallasium/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite_diamond/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/nether_ruby/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:byg/pendorite/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:deeperdarker/warden/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/deorum/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/draco_arcanus/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/reinforced_deorum/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:plus_the_end/endronium/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:soulsweapons/translucent/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/fiery/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/ironwood/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/knightmetal/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/steeleaf/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/cloggrum/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/forgotten/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/froststeel/scythe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/utherium/scythe",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:diamond_scythe",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:golden_scythe",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:iron_scythe",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:netherite_scythe",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:stone_scythe",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:wooden_scythe",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:scythe",
+      "required": false
+    },
+    {
+      "id": "minestuck:destiny_decimator",
+      "required": false
+    },
+    {
+      "id": "minestuck:eightball_scythe",
+      "required": false
+    },
+    {
+      "id": "minestuck:green_sun_rayreaper",
+      "required": false
+    },
+    {
+      "id": "minestuck:kissy_cutie_heart_splitter",
+      "required": false
+    },
+    {
+      "id": "minestuck:maraschino_cherry_scythe",
+      "required": false
+    },
+    {
+      "id": "minestuck:prospecting_pickscythe",
+      "required": false
+    },
+    {
+      "id": "minestuck:scythe",
+      "required": false
+    },
+    {
+      "id": "minestuck:skaithe",
+      "required": false
+    },
+    {
+      "id": "minestuck:sunray_harvester",
+      "required": false
+    },
+    {
+      "id": "minestuck:time_flayer",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:reapers_scythe",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:diamond_scythe",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:golden_scythe",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:iron_scythe",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:netherite_scythe",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:stone_scythe",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:wooden_scythe",
+      "required": false
+    },
+    {
+      "id": "rats:plague_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:adamantite_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:corinthium_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:diamond_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:electrum_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:fiery_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:iron_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:ironwood_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:knightmetal_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:netherite_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:pendorite_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:steeleaf_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:stone_scythe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:warden_scythe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_scythe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_end/gobber_end_scythe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_nether/gobber_nether_scythe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber/gobber_scythe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_scythe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_scythe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_scythe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_scythe",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:scythe_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:nightmare_scythe",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:scythe_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:scythe_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:scythe_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:scythe_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:scythe_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:scythe_wood",
+      "required": false
+    },
+    {
+      "id": "celestisynth:crescentia",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:diamond_scythe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:erebus_scythe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:golden_scythe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:iron_scythe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:netherite_scythe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:stone_scythe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:wooden_scythe",
+      "required": false
+    },
+    {
+      "id": "grimreaper:soul_scythe_diamond",
+      "required": false
+    },
+    {
+      "id": "grimreaper:soul_scythe_gold",
+      "required": false
+    },
+    {
+      "id": "grimreaper:soul_scythe_iron",
+      "required": false
+    },
+    {
+      "id": "grimreaper:soul_scythe_netherite",
+      "required": false
+    },
+    {
+      "id": "grimreaper:soul_scythe_spectral",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:golden_scythe",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:plunja_battleaxe",
+      "required": false
+    },
+    {
+      "id": "morbid:morbid_harvester_arm",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:amethist_scythe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:amethysted_nephris_scythe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:ice_scythe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:iron_scythe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:miphril_scythe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:nephris_scythe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:prismarined_nephris_scythe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:soulrender",
+      "required": false
+    },
+    {
+      "id": "spore:scythe",
+      "required": false
+    },
+    {
+      "id": "weaponmaster:wm_broadswordlarge",
+      "required": false
+    },
+    {
+      "id": "wom:antitheus",
+      "required": false
+    },
+    {
+      "id": "wom:moonless",
+      "required": false
+    }
+  ]
+}

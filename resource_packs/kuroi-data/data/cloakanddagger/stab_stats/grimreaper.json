@@ -1,0 +1,22 @@
+{
+  "grimreaper:soul_scythe_diamond": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "grimreaper:soul_scythe_gold": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "grimreaper:soul_scythe_netherite": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "grimreaper:soul_scythe_iron": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "grimreaper:soul_scythe_spectral": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  }
+}

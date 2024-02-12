@@ -1,0 +1,385 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether:phoenix_bow",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:iron_bow",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:recurve_bow",
+      "required": false
+    },
+    {
+      "id": "aquaculture:neptunium_bow",
+      "required": false
+    },
+    {
+      "id": "ars_nouveau:spell_bow",
+      "required": false
+    },
+    {
+      "id": "enderzoology:hunting_bow",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_bow",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_bow_end",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_bow_nether",
+      "required": false
+    },
+    {
+      "id": "goblins:goblin_bow",
+      "required": false
+    },
+    {
+      "id": "goety:hunters_bow",
+      "required": false
+    },
+    {
+      "id": "hmag:crimson_bow",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone_bow",
+      "required": false
+    },
+    {
+      "id": "infernalexp:glowsilk_bow",
+      "required": false
+    },
+    {
+      "id": "ironbows:diamond_bow",
+      "required": false
+    },
+    {
+      "id": "ironbows:emerald_bow",
+      "required": false
+    },
+    {
+      "id": "ironbows:golden_bow",
+      "required": false
+    },
+    {
+      "id": "ironbows:iron_bow",
+      "required": false
+    },
+    {
+      "id": "ironbows:netherite_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:eagle_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:earth_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:ender_aim_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:explosion_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:flame_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:froze_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:gaia_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:glow_aim_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:iron_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:magnify_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:master_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:slow_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:starter_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:storm_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:sun_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:turtle_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:void_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:wind_bow",
+      "required": false
+    },
+    {
+      "id": "l2archery:winter_bow",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:weapon_projectile_bow",
+      "required": false
+    },
+    {
+      "id": "minecraft:bow",
+      "required": false
+    },
+    {
+      "id": "miningmaster:air_malachite_bow",
+      "required": false
+    },
+    {
+      "id": "morebows:diamond_bow",
+      "required": false
+    },
+    {
+      "id": "morebows:ender_bow",
+      "required": false
+    },
+    {
+      "id": "morebows:flame_bow",
+      "required": false
+    },
+    {
+      "id": "morebows:frost_bow",
+      "required": false
+    },
+    {
+      "id": "morebows:gold_bow",
+      "required": false
+    },
+    {
+      "id": "morebows:iron_bow",
+      "required": false
+    },
+    {
+      "id": "morebows:multi_bow",
+      "required": false
+    },
+    {
+      "id": "morebows:stone_bow",
+      "required": false
+    },
+    {
+      "id": "primalmagick:forbidden_bow",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hallowsteel_bow",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hexium_bow",
+      "required": false
+    },
+    {
+      "id": "primalmagick:primalite_bow",
+      "required": false
+    },
+    {
+      "id": "rats:ratlantis_bow",
+      "required": false
+    },
+    {
+      "id": "silentgear:bow",
+      "required": false
+    },
+    {
+      "id": "spirit:soul_steel_bow",
+      "required": false
+    },
+    {
+      "id": "switchbow:switchbow",
+      "required": false
+    },
+    {
+      "id": "totemic:baykok_bow",
+      "required": false
+    },
+    {
+      "id": "twilightforest:ender_bow",
+      "required": false
+    },
+    {
+      "id": "twilightforest:ice_bow",
+      "required": false
+    },
+    {
+      "id": "twilightforest:seeker_bow",
+      "required": false
+    },
+    {
+      "id": "twilightforest:triple_bow",
+      "required": false
+    },
+    {
+      "id": "voidscape:corrupt_bow",
+      "required": false
+    },
+    {
+      "id": "voidscape:ichor_bow",
+      "required": false
+    },
+    {
+      "id": "voidscape:titanite_bow",
+      "required": false
+    },
+    {
+      "id": "voidscape:voidic_crystal_bow",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:compound_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:ancient_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:bonebow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:bow_of_lost_souls",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:burst_gale_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:echo_of_the_valley",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:elite_power_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:haunted_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:hunters_promise",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:hunting_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:love_spell_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:masters_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:mechanical_shortbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:nocturnal_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:power_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:purple_storm",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:sabrewing",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:shivering_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:shortbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:snow_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:soul_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:sugar_rush",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:the_green_menace",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:the_pink_scoundrel",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:trickbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:twin_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:wind_bow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:winters_touch",
+      "required": false
+    },
+    {
+      "id": "spore:infected_bow",
+      "required": false
+    }
+  ]
+}

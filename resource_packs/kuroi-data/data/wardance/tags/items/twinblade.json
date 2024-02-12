@@ -1,0 +1,229 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ageofweapons:double_lightsaber_blue",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:double_lightsaber_green",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:double_lightsaber_red",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:double_lightsaber_yellow",
+      "required": false
+    },
+    {
+      "id": "blue_skies:aquite/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_wood/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_wood/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_wood/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_wood/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_wood/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_wood/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_wood/twinblade",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone/twinblade",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:dancers_sword",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/aeternium/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/terminite/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/thallasium/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite_diamond/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/nether_ruby/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:byg/pendorite/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:deeperdarker/warden/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/deorum/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/draco_arcanus/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/reinforced_deorum/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:plus_the_end/endronium/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:soulsweapons/translucent/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/fiery/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/ironwood/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/knightmetal/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/steeleaf/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/cloggrum/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/forgotten/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/froststeel/twinblade",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/utherium/twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_end/gobber_end_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_nether/gobber_nether_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber/gobber_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:storms_edge",
+      "required": false
+    },
+    {
+      "id": "useless_sword:tooth_glaive",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:diamond_twinblade",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:golden_twinblade",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:iron_twinblade",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:netherite_twinblade",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:stone_twinblade",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:wooden_twinblade",
+      "required": false
+    }
+  ]
+}

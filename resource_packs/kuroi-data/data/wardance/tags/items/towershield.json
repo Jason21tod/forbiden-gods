@@ -1,0 +1,265 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexscaves:resistor_shield",
+      "required": false
+    },
+    {
+      "id": "atum:atems_protection",
+      "required": false
+    },
+    {
+      "id": "druidcraft:moonstone_shield",
+      "required": false
+    },
+    {
+      "id": "dungeons_mobs:royal_guard_shield",
+      "required": false
+    },
+    {
+      "id": "dungeons_mobs:skeleton_vanguard_shield",
+      "required": false
+    },
+    {
+      "id": "epicempires:egyptian_elite_shield",
+      "required": false
+    },
+    {
+      "id": "epicempires:roman_elite_shield",
+      "required": false
+    },
+    {
+      "id": "epicempires:spartan_elite_shield",
+      "required": false
+    },
+    {
+      "id": "hmag:fortress_shield",
+      "required": false
+    },
+    {
+      "id": "ic2:aluminium_shield",
+      "required": false
+    },
+    {
+      "id": "ic2:composite_shield",
+      "required": false
+    },
+    {
+      "id": "ic2:nano_shield",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_pavese",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_pavese",
+      "required": false
+    },
+    {
+      "id": "shieldexex:diamond_tower_shield",
+      "required": false
+    },
+    {
+      "id": "shieldexex:golden_tower_shield",
+      "required": false
+    },
+    {
+      "id": "shieldexex:iron_tower_shield",
+      "required": false
+    },
+    {
+      "id": "shieldexex:netherite_tower_shield",
+      "required": false
+    },
+    {
+      "id": "shieldexex:stone_tower_shield",
+      "required": false
+    },
+    {
+      "id": "shieldexex:wooden_tower_shield",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_constantan",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_copper",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_gold",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_invar",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_iron",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_lead",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_obsidian",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_silver",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_steel",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_stone",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_tin",
+      "required": false
+    },
+    {
+      "id": "spartanshields:shield_tower_wood",
+      "required": false
+    },
+    {
+      "id": "#minecraft:doors",
+      "required": false
+    },
+    {
+      "id": "cataclysm:bulwark_of_the_flame",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:diamond_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:eternium_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:fiery_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:gold_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:iron_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:ironwood_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:knightmetal_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:netherite_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:poseidite_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:sculkium_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:shulkerate_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:steeleaf_plate_shield",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:totemic_gold_plate_shield",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:replica",
+      "required": false
+    },
+    {
+      "id": "mutantmore:mutant_shulker_shield",
+      "required": false
+    }
+  ]
+}

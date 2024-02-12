@@ -1,0 +1,26 @@
+{
+  "extradelight:iron_spoon": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "extradelight:wooden_spoon": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "extradelight:diamond_spoon": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "extradelight:stone_spoon": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "extradelight:gold_spoon": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "extradelight:netherite_spoon": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

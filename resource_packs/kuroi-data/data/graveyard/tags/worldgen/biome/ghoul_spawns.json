@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "terralith:moonlight_valley", "required": false},
+	{"id": "terralith:moonlight_grove", "required": false},
+    {"id": "terralith:cloud_forest", "required": false},
+	{"id": "terralith:orchid_swamp", "required": false},
+	{"id": "terralith:forested_highlands", "required": false},
+	{"id": "terralith:blooming_valley", "required": false},
+	{"id": "terralith:cold_shrubland", "required": false},
+	{"id": "terralith:steppe", "required": false},
+	{"id": "terralith:blooming_plateau", "required": false},
+	{"id": "terralith:haze_mountain", "required": false}
+  ]
+}

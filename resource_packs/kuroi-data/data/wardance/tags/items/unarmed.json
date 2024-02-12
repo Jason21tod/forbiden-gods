@@ -1,0 +1,213 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#wardance:gauntlet",
+      "required": false
+    },
+    {
+      "id": "#wardance:sai",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:nunchuck_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:nunchuck_wood",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:diamond_fist",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_fist",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_fist",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_fist",
+      "required": false
+    },
+    {
+      "id": "cataclysm:gauntlet_of_bulwark",
+      "required": false
+    },
+    {
+      "id": "cataclysm:gauntlet_of_guard",
+      "required": false
+    },
+    {
+      "id": "cataclysm:tidal_claws",
+      "required": false
+    },
+    {
+      "id": "coldsgauntlets:diamond_gauntlet",
+      "required": false
+    },
+    {
+      "id": "coldsgauntlets:golden_gauntlet",
+      "required": false
+    },
+    {
+      "id": "coldsgauntlets:iron_gauntlet",
+      "required": false
+    },
+    {
+      "id": "coldsgauntlets:netherite_gauntlet",
+      "required": false
+    },
+    {
+      "id": "coldsgauntlets:stone_gauntlet",
+      "required": false
+    },
+    {
+      "id": "coldsgauntlets:wooden_gauntlet",
+      "required": false
+    },
+    {
+      "id": "craftvania2:nunchaku",
+      "required": false
+    },
+    {
+      "id": "davespotioneering:netherite_gauntlet",
+      "required": false
+    },
+    {
+      "id": "davespotioneering:potioneer_gauntlet",
+      "required": false
+    },
+    {
+      "id": "davespotioneering:rudimentary_gauntlet",
+      "required": false
+    },
+    {
+      "id": "epicfight:knuckle",
+      "required": false
+    },
+    {
+      "id": "fins:red_claw_gauntlet",
+      "required": false
+    },
+    {
+      "id": "fins:white_claw_gauntlet",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:fan",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:fan_fire",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:fan_ice",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:huge_gorrilla_claw",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:orange_ninja_sickle",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:claw_of_determination",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:diamond_claw",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:eternium_claw",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:gold_claw",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:iron_claw",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:netherite_claw",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:poseidite_claw",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:sculkium_claw",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:shulkerate_claw",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:totemic_gold_claw",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:vampire_desire",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:mystic_code",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:mystic_code_first_sorcery",
+      "required": false
+    },
+    {
+      "id": "minestuck:action_claws_sheathed",
+      "required": false
+    },
+    {
+      "id": "minestuck:atomikitty_katar_sheathed",
+      "required": false
+    },
+    {
+      "id": "minestuck:cat_claws_sheathed",
+      "required": false
+    },
+    {
+      "id": "minestuck:lion_lacerators_sheathed",
+      "required": false
+    },
+    {
+      "id": "minestuck:makeshift_claws_sheathed",
+      "required": false
+    },
+    {
+      "id": "minestuck:skeleton_displacer_sheathed",
+      "required": false
+    },
+    {
+      "id": "minestuck:skeletonizer_sheathed",
+      "required": false
+    },
+    {
+      "id": "minestuck:tears_of_the_enderlich_sheathed",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:endersoul_hand",
+      "required": false
+    },
+    {
+      "id": "rising_uppercut:gauntlet",
+      "required": false
+    }
+  ]
+}

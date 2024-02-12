@@ -1,0 +1,362 @@
+{
+  "magistuarmory:bronze_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:bronze_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:diamond_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:tin_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:stone_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:gold_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:gold_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:copper_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:rusted_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:silver_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:gold_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:silver_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:tin_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:copper_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:bronze_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:bronze_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:silver_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:stone_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:tin_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:copper_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:gold_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:wood_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:stone_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:diamond_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:wood_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:silver_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:diamond_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:iron_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:netherite_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:steel_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:diamond_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:stone_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:gold_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:wood_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:wood_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:bronze_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:tin_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:steel_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:stone_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:stone_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:tin_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:silver_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:steel_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:diamond_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:iron_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:netherite_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:copper_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:bronze_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:netherite_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:silver_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:tin_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:wood_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:silver_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:copper_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:steel_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:iron_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:stone_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:wood_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:bronze_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:stone_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:gold_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:netherite_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:steel_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:steel_chain": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:steel_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:steel_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:wood_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:silver_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:iron_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:gold_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:netherite_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:steel_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:iron_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:wood_shortsword": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "magistuarmory:tin_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:iron_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:copper_stylet": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:netherite_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:bronze_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:netherite_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:diamond_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:copper_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:diamond_concavehalberd": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:iron_ranseur": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:gold_estoc": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "magistuarmory:netherite_roundshield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:tin_bastardsword": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "magistuarmory:copper_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:diamond_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "magistuarmory:iron_lochaberaxe": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

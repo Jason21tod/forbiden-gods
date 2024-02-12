@@ -1,0 +1,205 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether:valkyrie_lance",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:lance_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:lance_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:lance_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:lance_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:lance_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:lance_wood",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:diamond_lance",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_lance",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_lance",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_lance",
+      "required": false
+    },
+    {
+      "id": "alexscaves:ortholance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_chivalrylance",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:lance",
+      "required": false
+    },
+    {
+      "id": "minestuck:cigarette_lance",
+      "required": false
+    },
+    {
+      "id": "minestuck:dragon_lance",
+      "required": false
+    },
+    {
+      "id": "minestuck:fiduspawn_lance",
+      "required": false
+    },
+    {
+      "id": "minestuck:jousting_lance",
+      "required": false
+    },
+    {
+      "id": "minestuck:lancelots_lolly",
+      "required": false
+    },
+    {
+      "id": "minestuck:regilance",
+      "required": false
+    },
+    {
+      "id": "minestuck:sky_piercer",
+      "required": false
+    },
+    {
+      "id": "minestuck:wooden_lance",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:lance_wood",
+      "required": false
+    },
+    {
+      "id": "aquamirae:coral_lance",
+      "required": false
+    },
+    {
+      "id": "minestuck:lanec",
+      "required": false
+    }
+  ]
+}

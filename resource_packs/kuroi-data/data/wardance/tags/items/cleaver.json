@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "medieval_craft_weapons:butcher_knife",
+      "required": false
+    },
+    {
+      "id": "useless_sword:copper_jigsaw_slicer",
+      "required": false
+    },
+    {
+      "id": "butchercraft:bone_saw",
+      "required": false
+    },
+    {
+      "id": "butchercraft:butcher_knife",
+      "required": false
+    },
+    {
+      "id": "silentgear:saw",
+      "required": false
+    }
+  ]
+}

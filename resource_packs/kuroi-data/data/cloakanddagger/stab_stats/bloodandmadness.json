@@ -1,0 +1,42 @@
+{
+  "bloodandmadness:weapons/chikage": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "bloodandmadness:weapons/saw_cleaver_extended": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "bloodandmadness:weapons/lit_torch": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "bloodandmadness:weapons/saw_cleaver": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "bloodandmadness:weapons/chikage_extended": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "bloodandmadness:weapons/flamesprayer": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "bloodandmadness:weapons/hunter_pistol": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "bloodandmadness:weapons/threaded_cane_whip": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "bloodandmadness:weapons/shadow_blade": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "bloodandmadness:weapons/burial_blade": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  }
+}

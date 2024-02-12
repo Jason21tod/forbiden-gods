@@ -1,0 +1,26 @@
+{
+  "atum:gebs_might": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "atum:stoneguard_shield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "atum:brigand_shield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "atum:montus_strike": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "atum:stoneguard_sword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "atum:shus_exile": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

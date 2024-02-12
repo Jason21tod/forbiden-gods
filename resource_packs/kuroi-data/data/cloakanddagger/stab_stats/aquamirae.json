@@ -1,0 +1,22 @@
+{
+  "aquamirae:remnants_saber": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "aquamirae:coral_lance": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "aquamirae:whisper_of_the_abyss": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "aquamirae:divider": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "aquamirae:terrible_sword": {
+    "distracted": 1.75,
+    "unaware": 2.25
+  }
+}

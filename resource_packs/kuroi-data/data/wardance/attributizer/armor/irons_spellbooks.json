@@ -1,0 +1,289 @@
+{
+  "irons_spellbooks:electromancer_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:cultist_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:pyromancer_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:cultist_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:plagued_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:archevoker_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:plagued_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:archevoker_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:cultist_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:shadowwalker_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:electromancer_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:shadowwalker_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:electromancer_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:plagued_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:plagued_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:cryomancer_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:shadowwalker_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:cryomancer_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:priest_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:wandering_magician_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:pyromancer_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:wandering_magician_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:cryomancer_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:pyromancer_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:pumpkin_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:cultist_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:cryomancer_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:tarnished_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:pumpkin_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:archevoker_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:pumpkin_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:wandering_magician_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:priest_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:pumpkin_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:shadowwalker_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:electromancer_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:priest_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:pyromancer_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:archevoker_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:priest_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "irons_spellbooks:wandering_magician_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

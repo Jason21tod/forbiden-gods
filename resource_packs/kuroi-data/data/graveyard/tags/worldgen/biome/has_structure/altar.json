@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	{"id": "terralith:alpine_grove", "required": false},
+	{"id": "terralith:ashen_savanna", "required": false},
+	{"id": "terralith:frozen_cliffs", "required": false},
+	{"id": "terralith:glacial_chasm", "required": false}
+  ]
+}

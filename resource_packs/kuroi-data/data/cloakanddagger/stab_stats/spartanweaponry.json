@@ -1,0 +1,194 @@
+{
+  "spartanweaponry:javelin_platinum": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:parrying_dagger_wood": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:tomahawk_wood": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:tomahawk_diamond": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:tomahawk_bronze": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:javelin_lead": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:javelin_diamond": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:parrying_dagger_gold": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:parrying_dagger_diamond": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:parrying_dagger_steel": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:tomahawk_steel": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:parrying_dagger_lead": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:parrying_dagger_platinum": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:javelin_invar": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:javelin_iron": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:javelin_tin": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:tomahawk_invar": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:tomahawk_silver": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:javelin_nickel": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:javelin_gold": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:parrying_dagger_bronze": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:parrying_dagger_netherite": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:parrying_dagger_silver": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:javelin_steel": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:tomahawk_nickel": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:tomahawk_platinum": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:tomahawk_netherite": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:javelin_netherite": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:tomahawk_iron": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:parrying_dagger_iron": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:parrying_dagger_invar": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:parrying_dagger_electrum": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:tomahawk_stone": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:javelin_silver": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:javelin_stone": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:parrying_dagger_copper": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:parrying_dagger_stone": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:tomahawk_copper": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:javelin_electrum": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:javelin_bronze": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:parrying_dagger_nickel": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:tomahawk_lead": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:javelin_wood": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:tomahawk_electrum": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:tomahawk_gold": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "spartanweaponry:javelin_copper": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "spartanweaponry:parrying_dagger_tin": {
+    "distracted": 1.75,
+    "unaware": 2.0
+  },
+  "spartanweaponry:tomahawk_tin": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

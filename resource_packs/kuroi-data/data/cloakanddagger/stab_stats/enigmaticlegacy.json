@@ -1,0 +1,14 @@
+{
+  "enigmaticlegacy:the_acknowledgment": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "enigmaticlegacy:the_twist": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "enigmaticlegacy:ender_slayer": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  }
+}

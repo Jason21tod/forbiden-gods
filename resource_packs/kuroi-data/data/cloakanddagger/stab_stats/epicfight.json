@@ -1,0 +1,26 @@
+{
+  "epicfight:uchigatana": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "epicfight:netherite_tachi": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "epicfight:diamond_tachi": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "epicfight:golden_tachi": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "epicfight:iron_tachi": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "epicfight:knuckle": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "minecraft:iron_nugget": {
+    "distracted": 1.0,
+    "unaware": 1.0
+  }
+}

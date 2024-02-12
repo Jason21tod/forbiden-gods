@@ -1,0 +1,22 @@
+{
+  "pizzacraft:diamond_pizza_peel": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "pizzacraft:netherite_pizza_peel": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "pizzacraft:stone_pizza_peel": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "pizzacraft:golden_pizza_peel": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "pizzacraft:iron_pizza_peel": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  }
+}

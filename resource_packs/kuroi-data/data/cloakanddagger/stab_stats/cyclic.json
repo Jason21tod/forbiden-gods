@@ -1,0 +1,14 @@
+{
+  "cyclic:mattock": {
+    "distracted": 1.4,
+    "unaware": 2.0
+  },
+  "cyclic:mattock_stone": {
+    "distracted": 1.4,
+    "unaware": 2.0
+  },
+  "cyclic:mattock_nether": {
+    "distracted": 1.4,
+    "unaware": 2.0
+  }
+}

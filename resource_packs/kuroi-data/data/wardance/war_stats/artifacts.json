@@ -1,0 +1,58 @@
+{
+  "artifacts:umbrella": {
+    "attack": 3.0,
+    "defend": 0.8,
+    "shield": true,
+    "sweep": "NONE",
+    "knockback": 1.25,
+    "damage_scale": 1.0,
+    "posture_scale": 0.75,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 0.0,
+    "sweep_scale": 0.0,
+    "standing": {
+      "sweep": "NONE",
+      "knockback": 1.25,
+      "posture_scale": 0.75
+    },
+    "falling": {
+      "sweep": "IMPACT",
+      "knockback": 0.5,
+      "sweep_base": 1.25,
+      "sweep_scale": 0.75,
+      "hit_self_command": "/function wardance:attack/self_moderatefatigue",
+      "damage_other_command": "/function wardance:attack/damageother_mildstun",
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "CONE",
+      "knockback": 1.25,
+      "damage_scale": 0.75,
+      "posture_scale": 0.75,
+      "sweep_base": 40.0,
+      "sweep_scale": 20.0,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue"
+    },
+    "sprinting": {
+      "sweep": "IMPACT",
+      "knockback": 1.5,
+      "posture_scale": 1.25,
+      "sweep_base": 1.0,
+      "sweep_scale": 0.5,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue",
+      "damage_other_command": "/function wardance:attack/damageother_mildstun",
+      "crit": true
+    },
+    "riding": {
+      "sweep": "CONE",
+      "knockback": 1.5,
+      "damage_scale": 0.75,
+      "crit_damage": 2.0,
+      "sweep_base": 40.0,
+      "sweep_scale": 30.0,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue",
+      "damage_other_command": "/function wardance:attack/damageother_mildstun"
+    }
+  }
+}

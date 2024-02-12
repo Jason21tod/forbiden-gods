@@ -1,0 +1,461 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexs_armoury:diamond_halberd",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_halberd",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_halberd",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:aquite/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_wood/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_wood/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_wood/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_wood/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_wood/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_wood/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_wood/halberd",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone/halberd",
+      "required": false
+    },
+    {
+      "id": "epicempires:egyptian_fan_axe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/aeternium/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/terminite/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/thallasium/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite_diamond/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/nether_ruby/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:byg/pendorite/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:deeperdarker/warden/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/deorum/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/draco_arcanus/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/reinforced_deorum/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:plus_the_end/endronium/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:soulsweapons/translucent/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/fiery/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/ironwood/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/knightmetal/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/steeleaf/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/cloggrum/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/forgotten/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/froststeel/halberd",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/utherium/halberd",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:halberd",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:lucerne",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:pole_axe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_halberd",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_halberd",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_halberd",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_halberd",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_halberd",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:halberd_wood",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:diamond_halberd",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:golden_halberd",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:iron_halberd",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:netherite_halberd",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:stone_halberd",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:wooden_halberd",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_wood",
+      "required": false
+    },
+    {
+      "id": "cataclysm:coral_bardiche",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:diamond_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:golden_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:iron_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:netherite_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:stone_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:wooden_halberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:diamond_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:golden_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:iron_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:netherite_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:stone_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:wooden_halberd",
+      "required": false
+    },
+    {
+      "id": "simplyswords:arcanethyst",
+      "required": false
+    },
+    {
+      "id": "simplyswords:icewhisper",
+      "required": false
+    },
+    {
+      "id": "weaponmaster:wm_rapierlarge",
+      "required": false
+    }
+  ]
+}

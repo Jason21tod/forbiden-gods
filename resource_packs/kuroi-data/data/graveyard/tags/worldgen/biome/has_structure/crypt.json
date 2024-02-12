@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	{"id":"terralith:cave/fungal_caves", "required": false},
+	{"id":"terralith:cave/ice_caves", "required": false},
+	{"id":"terralith:cave/infested_caves", "required": false},
+	{"id":"terralith:cave/thermal_caves", "required": false},
+	{"id":"terralith:cave/crystal_caves", "required": false}
+  ]
+}

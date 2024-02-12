@@ -1,0 +1,282 @@
+{
+  "immersive_armors:robe_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:slime_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -6.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:wooden_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -5.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:heavy_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -8.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:divine_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:wither_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:warrior_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:wooden_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:slime_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:wooden_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:divine_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:warrior_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -5.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:steampunk_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:heavy_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -8.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:wither_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:bone_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:divine_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:prismarine_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:warrior_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:steampunk_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -6.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:robe_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:robe_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:slime_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:bone_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:wither_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:robe_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:prismarine_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -6.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:wooden_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:bone_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:wither_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:prismarine_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:prismarine_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -8.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:bone_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:slime_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:steampunk_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:divine_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:warrior_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:heavy_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -12.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:heavy_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -10.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "immersive_armors:steampunk_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "blue_skies:aquite/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_wood/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_wood/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_wood/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_wood/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_wood/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_wood/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_wood/chakram",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/aeternium/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/terminite/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/thallasium/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite_diamond/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/nether_ruby/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:byg/pendorite/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:deeperdarker/warden/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/deorum/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/draco_arcanus/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/reinforced_deorum/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:plus_the_end/endronium/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:soulsweapons/translucent/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/fiery/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/ironwood/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/knightmetal/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/steeleaf/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/cloggrum/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/forgotten/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/froststeel/chakram",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/utherium/chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_end/gobber_end_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_nether/gobber_nether_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber/gobber_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_chakram",
+      "required": false
+    }
+  ]
+}

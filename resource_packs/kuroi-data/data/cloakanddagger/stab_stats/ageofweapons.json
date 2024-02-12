@@ -1,0 +1,518 @@
+{
+  "ageofweapons:hatchet_gold": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:tactical_knife_netherite": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:tactical_knife_diamond": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:cleaver_netherite": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:knife_diamond": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:nunchuck_iron": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "ageofweapons:battle_axe_wood": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:knife_wood": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:cleaver_stone": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:ax_stone": {
+    "distracted": 1.35,
+    "unaware": 1.7
+  },
+  "ageofweapons:industrial_multi_tool": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:claw_sword_iron": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:nunchuck_wood": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "ageofweapons:saw_sword_wood": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:claymore_stone": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:machete_iron": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:knife_iron": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:industrial_miner": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:heavy_staff_iron": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:industrial_excavator": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:scythe_diamond": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "ageofweapons:ninjato_netherite": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:tactical_knife_gold": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:claw_sword_diamond": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:broadsword_gold": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:industrial_pulverizer": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:claw_sword_wood": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:machete_diamond": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:saw_sword_iron": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:dagger_stone": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:shield_gold": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:bone_knife": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:claw_sword_stone": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:hatchet_wood": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:caveman_knife": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:cleaver_diamond": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:wakizashi_wood": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:halbert_gold": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:baton_wood": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:machete_wood": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:halbert_diamond": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:knife_stone": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:saw_sword_gold": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:shield_stone": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:tactical_knife_wood": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:dagger_gold": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:wakizashi_iron": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:hand_ax": {
+    "distracted": 1.5,
+    "unaware": 2.0
+  },
+  "ageofweapons:claymore_diamond": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:heavy_staff_netherite": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:ninjato_gold": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:buster_sword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:heavy_staff_diamond": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:machete_stone": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:cleaver_wood": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:lightsaber_red": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:scythe_iron": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "ageofweapons:multi_tool_diamond": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:shield_diamond": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:cleaver_iron": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:wakizashi_diamond": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:cudgel_stone": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:multi_tool_iron": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:broadsword_stone": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:hatchet_diamond": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:battle_axe_gold": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:hatchet_iron": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:battle_axe_diamond": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:ninjato_stone": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:shield_netherite": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:shield_wood": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:multi_tool_wood": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:scythe_wood": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "ageofweapons:hatchet_stone": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:machete_gold": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:wakizashi_netherite": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:halbert_stone": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:heavy_staff_gold": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:broadsword_iron": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:multi_tool_netherite": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:saw_sword_netherite": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:lightsaber_yellow": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:multi_tool_stone": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:halbert_wood": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:saw_sword_stone": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:claw_sword_netherite": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:halbert_iron": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:claymore_gold": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:claymore_netherite": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:shield_iron": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:ninjato_diamond": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:broadsword_diamond": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:hatchet_netherite": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:compound_bow": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "ageofweapons:saw_sword_diamond": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:cudgel_wood": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:halbert_netherite": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:tactical_knife_iron": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:baton_iron": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:heavy_staff_wood": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:knife_netherite": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:multi_tool_gold": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:dagger_iron": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:ninjato_iron": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:claymore_iron": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:wakizashi_stone": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:dagger_diamond": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:machete_netherite": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:ninjato_wood": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:scythe_stone": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "ageofweapons:broadsword_wood": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:battle_axe_stone": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:battle_axe_netherite": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:claymore_wood": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:scythe_netherite": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "ageofweapons:cleaver_gold": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:battle_axe_iron": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:claw_sword_gold": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ageofweapons:industrial_harvester": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "ageofweapons:tactical_knife_stone": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:knife_gold": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:lightsaber_green": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:wakizashi_gold": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:broadsword_netherite": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:heavy_staff_stone": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "ageofweapons:scythe_gold": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "ageofweapons:lightsaber_blue": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ageofweapons:dagger_wood": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "ageofweapons:nightmare_scythe": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  }
+}

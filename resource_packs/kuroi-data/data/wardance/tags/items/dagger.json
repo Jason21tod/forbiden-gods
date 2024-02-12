@@ -1,0 +1,1197 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether:pig_slayer",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:dagger_netherite",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:diamond_dagger",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_dagger",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_dagger",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_dagger",
+      "required": false
+    },
+    {
+      "id": "alloyed:steel_knife",
+      "required": false
+    },
+    {
+      "id": "aquaculture:diamond_fillet_knife",
+      "required": false
+    },
+    {
+      "id": "aquaculture:gold_fillet_knife",
+      "required": false
+    },
+    {
+      "id": "aquaculture:iron_fillet_knife",
+      "required": false
+    },
+    {
+      "id": "aquaculture:neptunium_fillet_knife",
+      "required": false
+    },
+    {
+      "id": "aquaculture:stone_fillet_knife",
+      "required": false
+    },
+    {
+      "id": "aquaculture:wooden_fillet_knife",
+      "required": false
+    },
+    {
+      "id": "aquamirae:dagger_of_greed",
+      "required": false
+    },
+    {
+      "id": "atum:anputs_hunger",
+      "required": false
+    },
+    {
+      "id": "atum:dagger_poison",
+      "required": false
+    },
+    {
+      "id": "atum:horus_ascension",
+      "required": false
+    },
+    {
+      "id": "atum:iron_dagger",
+      "required": false
+    },
+    {
+      "id": "atum:seths_sting",
+      "required": false
+    },
+    {
+      "id": "basicweapons:diamond_dagger",
+      "required": false
+    },
+    {
+      "id": "basicweapons:golden_dagger",
+      "required": false
+    },
+    {
+      "id": "basicweapons:iron_dagger",
+      "required": false
+    },
+    {
+      "id": "basicweapons:netherite_dagger",
+      "required": false
+    },
+    {
+      "id": "basicweapons:stone_dagger",
+      "required": false
+    },
+    {
+      "id": "basicweapons:wooden_dagger",
+      "required": false
+    },
+    {
+      "id": "biomancy:sharp_bone",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:dark_ritual_dagger",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:intoxicating_dagger",
+      "required": false
+    },
+    {
+      "id": "chiselsandbits:chisel_diamond",
+      "required": false
+    },
+    {
+      "id": "chiselsandbits:chisel_gold",
+      "required": false
+    },
+    {
+      "id": "chiselsandbits:chisel_iron",
+      "required": false
+    },
+    {
+      "id": "chiselsandbits:chisel_netherite",
+      "required": false
+    },
+    {
+      "id": "chiselsandbits:chisel_stone",
+      "required": false
+    },
+    {
+      "id": "craftvania2:dagger_subweapon_tool",
+      "required": false
+    },
+    {
+      "id": "craftvania2:retrodaggertool",
+      "required": false
+    },
+    {
+      "id": "create_things_and_misc:brass_knife",
+      "required": false
+    },
+    {
+      "id": "create_things_and_misc:copper_knife",
+      "required": false
+    },
+    {
+      "id": "create_things_and_misc:zinc_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:brass_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:bronze_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:experience_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:fiery_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:gilded_quartz_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:ironwood_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:kiwano_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:kiwano_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:knightmetal_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:lead_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:living_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:nickel_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:silver_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:steel_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:steeleaf_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:tin_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:warden_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:zinc_knife",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:diamond_dagger",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:fujindagger",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:golden_dagger",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:iron_dagger",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:netherite_dagger",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:stone_dagger",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:wooden_dagger",
+      "required": false
+    },
+    {
+      "id": "divinerpg:aquatic_dagger",
+      "required": false
+    },
+    {
+      "id": "divinerpg:arlemite_stabber",
+      "required": false
+    },
+    {
+      "id": "divinerpg:jungle_knife",
+      "required": false
+    },
+    {
+      "id": "divinerpg:ocean_knife",
+      "required": false
+    },
+    {
+      "id": "divinerpg:terran_dagger",
+      "required": false
+    },
+    {
+      "id": "divinerpg:terran_knife",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:dagger",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:fang_of_frost",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:moon_dagger",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:shear_dagger",
+      "required": false
+    },
+    {
+      "id": "eidolon:athame",
+      "required": false
+    },
+    {
+      "id": "endermanoverhaul:corrupted_blade",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_egg_shell_knife",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_tooth_knife",
+      "required": false
+    },
+    {
+      "id": "ends_delight:end_stone_knife",
+      "required": false
+    },
+    {
+      "id": "ends_delight:purpur_knife",
+      "required": false
+    },
+    {
+      "id": "epicfight:diamond_dagger",
+      "required": false
+    },
+    {
+      "id": "epicfight:golden_dagger",
+      "required": false
+    },
+    {
+      "id": "epicfight:iron_dagger",
+      "required": false
+    },
+    {
+      "id": "epicfight:netherite_dagger",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:diamond_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:flint_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:golden_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:iron_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:netherite_knife",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:mystical_dagger",
+      "required": false
+    },
+    {
+      "id": "galosphere_delight:allurite_knife",
+      "required": false
+    },
+    {
+      "id": "galosphere_delight:lumiere_knife",
+      "required": false
+    },
+    {
+      "id": "galosphere_delight:silver_knife",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:foolsgold_dagger",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:gabbers_dagger",
+      "required": false
+    },
+    {
+      "id": "gobberdelight:blue_knife",
+      "required": false
+    },
+    {
+      "id": "gobberdelight:green_knife",
+      "required": false
+    },
+    {
+      "id": "gobberdelight:red_knife",
+      "required": false
+    },
+    {
+      "id": "goblins:goblin_knife",
+      "required": false
+    },
+    {
+      "id": "goety:fanged_dagger",
+      "required": false
+    },
+    {
+      "id": "graveyard:bone_dagger",
+      "required": false
+    },
+    {
+      "id": "greekfantasy:flint_knife",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:metal_dagger",
+      "required": false
+    },
+    {
+      "id": "iceandfire:stymphalian_bird_dagger",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:kunai_dagger",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:roger_knife",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:wrench_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:fiery_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:ironwood_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:knightmetal_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:steeleaf_dagger",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:theripper",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:dagger",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:rondel_dagger",
+      "required": false
+    },
+    {
+      "id": "minecells:assassins_dagger",
+      "required": false
+    },
+    {
+      "id": "minestuck:candy_fan",
+      "required": false
+    },
+    {
+      "id": "minestuck:dagger",
+      "required": false
+    },
+    {
+      "id": "minestuck:diamond_dagger",
+      "required": false
+    },
+    {
+      "id": "minestuck:fan",
+      "required": false
+    },
+    {
+      "id": "minestuck:firestarter",
+      "required": false
+    },
+    {
+      "id": "minestuck:house_key",
+      "required": false
+    },
+    {
+      "id": "minestuck:knitting_needle",
+      "required": false
+    },
+    {
+      "id": "minestuck:light_of_my_knife",
+      "required": false
+    },
+    {
+      "id": "minestuck:needle_wand",
+      "required": false
+    },
+    {
+      "id": "minestuck:pool_cue_wand",
+      "required": false
+    },
+    {
+      "id": "minestuck:quill_of_echidna",
+      "required": false
+    },
+    {
+      "id": "minestuck:razor_fan",
+      "required": false
+    },
+    {
+      "id": "minestuck:shadowrazor",
+      "required": false
+    },
+    {
+      "id": "minestuck:shaving_fan",
+      "required": false
+    },
+    {
+      "id": "minestuck:spines_of_fluthlu",
+      "required": false
+    },
+    {
+      "id": "minestuck:star_ray",
+      "required": false
+    },
+    {
+      "id": "minestuck:starshard_tri_blade",
+      "required": false
+    },
+    {
+      "id": "minestuck:thistle_of_zillywich",
+      "required": false
+    },
+    {
+      "id": "minestuck:thorn_of_oglogoth",
+      "required": false
+    },
+    {
+      "id": "minestuck:toothripper",
+      "required": false
+    },
+    {
+      "id": "minestuck:typhonic_trivializer",
+      "required": false
+    },
+    {
+      "id": "minestuck:typhonic_trivializer",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:frozen_dagger",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:spectral_dagger",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:tooth_dagger",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:vespa_dagger",
+      "required": false
+    },
+    {
+      "id": "mowziesmobs:naga_fang_dagger",
+      "required": false
+    },
+    {
+      "id": "mutantbeasts:creeper_shard",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:creeper_shard",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:cactus_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:copper_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:diamond_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:gold_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:iron_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:lead_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:quicksilver_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:sapphire_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:silver_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:stone_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:tin_knife",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:wood_knife",
+      "required": false
+    },
+    {
+      "id": "pizzacraft:diamond_knife",
+      "required": false
+    },
+    {
+      "id": "pizzacraft:golden_knife",
+      "required": false
+    },
+    {
+      "id": "pizzacraft:iron_knife",
+      "required": false
+    },
+    {
+      "id": "pizzacraft:netherite_knife",
+      "required": false
+    },
+    {
+      "id": "pizzacraft:stone_knife",
+      "required": false
+    },
+    {
+      "id": "reliquary:magicbane",
+      "required": false
+    },
+    {
+      "id": "rootsclassic:bark_knife",
+      "required": false
+    },
+    {
+      "id": "silentgear:dagger",
+      "required": false
+    },
+    {
+      "id": "silentgear:knife",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:adamantite_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:corinthium_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:diamond_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:electrum_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:fiery_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:iron_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:ironwood_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:knightmetal_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:netherite_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:pendorite_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:steeleaf_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:stone_dagger",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:warden_dagger",
+      "required": false
+    },
+    {
+      "id": "simplyswords:soulstealer",
+      "required": false
+    },
+    {
+      "id": "sosorgans:soulium_dagger",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:dagger",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:farrondagger",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:knight_soul_knife",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:dagger_wood",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:throwing_knife_wood",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:awful_dagger",
+      "required": false
+    },
+    {
+      "id": "totemic:totem_whittling_knife",
+      "required": false
+    },
+    {
+      "id": "tropicraft:dagger",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:fiery_knife",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:ironwood_knife",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:knightmetal_knife",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:steeleaf_knife",
+      "required": false
+    },
+    {
+      "id": "useless_sword:pillager_dagger",
+      "required": false
+    },
+    {
+      "id": "vampirism:stake",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:bone_knife",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:caveman_knife",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:dagger_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:dagger_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:dagger_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:dagger_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:dagger_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:knife_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:knife_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:knife_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:knife_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:knife_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:knife_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:tactical_knife_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:tactical_knife_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:tactical_knife_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:tactical_knife_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:tactical_knife_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:tactical_knife_wood",
+      "required": false
+    },
+    {
+      "id": "alexscaves:desolate_dagger",
+      "required": false
+    },
+    {
+      "id": "butchercraft:gut_knife",
+      "required": false
+    },
+    {
+      "id": "cataclysm:athame",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:diamond_dagger",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:golden_dagger",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:iron_dagger",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:netherite_dagger",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:stone_dagger",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:wooden_dagger",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:chill_gale_knife",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:resolute_tempest_knife",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:tempest_knife",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:kunai",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:abyss_shock",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:diamond_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:eternium_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:gold_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:iron_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:netherite_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:poseidite_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:sculkium_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:shadow_hunter",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:shulkerate_dagger",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:totemic_gold_dagger",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:dagger",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:hiddenblade",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:amethysted_nephris_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:bronze_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:copper_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:diamond_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:iron_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:miphrilknife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:nephris_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:netherite_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:newgenvampiricknife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:nickel_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:prismarined_nephris_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:steel_knife",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:stone_knife",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:parrying_dagger_wood",
+      "required": false
+    },
+    {
+      "id": "spore:knife",
+      "required": false
+    }
+  ]
+}

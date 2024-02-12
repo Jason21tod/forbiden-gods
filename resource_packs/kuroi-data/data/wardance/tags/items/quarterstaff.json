@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "basicweapons:diamond_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "basicweapons:golden_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "basicweapons:iron_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "basicweapons:netherite_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "basicweapons:stone_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "basicweapons:wooden_quarterstaff",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:monkeyhammer",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:baton_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:baton_wood",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:growing_staff",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:blood_staff",
+      "required": false
+    }
+  ]
+}

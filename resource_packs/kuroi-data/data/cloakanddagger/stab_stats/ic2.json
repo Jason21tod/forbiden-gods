@@ -1,0 +1,30 @@
+{
+  "ic2:drill": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ic2:diamond_drill": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ic2:rock_cutter_drill": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ic2:advanced_drill": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ic2:advanced_chainsaw": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "ic2:nano_saber": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "ic2:chainsaw": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  }
+}

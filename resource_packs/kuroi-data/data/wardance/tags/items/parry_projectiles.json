@@ -1,0 +1,117 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#wardance:buster",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:broadsword_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:broadsword_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:broadsword_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:broadsword_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:broadsword_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:broadsword_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:buster_sword",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_wood",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:darkwarblade",
+      "required": false
+    },
+    {
+      "id": "cataclysm:the_incinerator",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:broadsword",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:buster_greatsword",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:executioner_claymore",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:gunbai_coral_blade",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:soul_claymore",
+      "required": false
+    },
+    {
+      "id": "twilightforest:giant_sword",
+      "required": false
+    }
+  ]
+}

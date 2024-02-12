@@ -1,0 +1,166 @@
+{
+  "exnihilosequentia:blackstone_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:wooden_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:andesite_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:netherite_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:prismarine_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:deepslate_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:iron_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:prismarine_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:red_nether_brick_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:tuff_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:blackstone_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:copper_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:stone_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:golden_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:dripstone_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:diamond_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:copper_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:granite_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:diorite_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:andesite_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:basalt_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:diorite_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:calcite_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:terracotta_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:bone_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:golden_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:stone_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:terracotta_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:granite_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:netherite_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:deepslate_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:diamond_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:nether_brick_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:iron_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:tuff_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:dripstone_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:red_nether_brick_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:basalt_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:calcite_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "exnihilosequentia:nether_brick_crook": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "exnihilosequentia:wooden_hammer": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

@@ -1,0 +1,561 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ageofweapons:waraxe_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:waraxe_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:waraxe_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:waraxe_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:waraxe_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:waraxe_wood",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:diamond_double_axe",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_double_axe",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_double_axe",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_double_axe",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/hunter_axe_extended",
+      "required": false
+    },
+    {
+      "id": "blue_skies:aquite/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_wood/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_wood/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_wood/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_wood/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_wood/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_wood/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_wood/greataxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone/greataxe",
+      "required": false
+    },
+    {
+      "id": "doom:axe_marauder_open",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:great_axeblade",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:whirlwind",
+      "required": false
+    },
+    {
+      "id": "embers:clockwork_axe",
+      "required": false
+    },
+    {
+      "id": "gnumus:hammer_vintage_universal_tool",
+      "required": false
+    },
+    {
+      "id": "illager_additions:royal_guard_spear",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/aeternium/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/terminite/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/thallasium/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite_diamond/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/nether_ruby/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:byg/pendorite/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:deeperdarker/warden/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/deorum/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/draco_arcanus/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/reinforced_deorum/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:plus_the_end/endronium/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:soulsweapons/translucent/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/fiery/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/ironwood/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/knightmetal/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/steeleaf/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/cloggrum/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/forgotten/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/froststeel/greataxe",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/utherium/greataxe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:diamond_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:eternium_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:fiery_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:gold_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:iron_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:ironwood_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:knightmetal_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:netherite_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:poseidite_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:sculkium_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:shulkerate_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:steeleaf_battle_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:totemic_gold_battle_axe",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:battleaxe",
+      "required": false
+    },
+    {
+      "id": "minestuck:battleaxe",
+      "required": false
+    },
+    {
+      "id": "minestuck:candy_battleaxe",
+      "required": false
+    },
+    {
+      "id": "mowziesmobs:wrought_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:amethysted_nephris_battle_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:bronze_battle_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:copper_battle_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:diamondbattleaxe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:iron_battle_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:miphril_battle_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:nephris_battle_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:netherite_battle_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:prismarined_nephris_battle_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:steel_battle_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:stone_battle_axe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_greataxe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_end/gobber_end_greataxe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_nether/gobber_nether_greataxe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber/gobber_greataxe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_greataxe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_greataxe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:livyatan",
+      "required": false
+    },
+    {
+      "id": "simplyswords:molten_edge",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_greataxe",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_greataxe",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:battleaxe",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:dragonslayeraxe",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:battleaxe_wood",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:diamond_battleaxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:golden_battleaxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:iron_battleaxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:netherite_battleaxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:stone_battleaxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:wooden_battleaxe",
+      "required": false
+    },
+    {
+      "id": "wom:diamond_greataxe",
+      "required": false
+    },
+    {
+      "id": "wom:golden_greataxe",
+      "required": false
+    },
+    {
+      "id": "wom:iron_greataxe",
+      "required": false
+    },
+    {
+      "id": "wom:netherite_greataxe",
+      "required": false
+    },
+    {
+      "id": "wom:tormented_mind",
+      "required": false
+    },
+    {
+      "id": "celestisynth:poltergeist",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:diamond_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:golden_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:iron_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:jotunn_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:netherite_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:stone_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:wooden_battleaxe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:diamond_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:golden_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:iron_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:netherite_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:stone_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:wooden_battle_axe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:abyss_terror",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:axe_of_cursed_flame",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:dogmatic_standoff",
+      "required": false
+    },
+    {
+      "id": "simplyswords:soulpyre",
+      "required": false
+    },
+    {
+      "id": "spore:armads",
+      "required": false
+    }
+  ]
+}

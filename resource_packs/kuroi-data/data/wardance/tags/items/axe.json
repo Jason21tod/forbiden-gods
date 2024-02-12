@@ -1,0 +1,1229 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether_redux:infused_veridium_axe",
+      "required": false
+    },
+    {
+      "id": "aether_redux:veridium_axe",
+      "required": false
+    },
+    {
+      "id": "aether:gravitite_axe",
+      "required": false
+    },
+    {
+      "id": "aether:holystone_axe",
+      "required": false
+    },
+    {
+      "id": "aether:skyroot_axe",
+      "required": false
+    },
+    {
+      "id": "aether:valkyrie_axe",
+      "required": false
+    },
+    {
+      "id": "aether:zanite_axe",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:boarding_axe_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:boarding_axe_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:boarding_axe_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:boarding_axe_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:boarding_axe_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:boarding_axe_wood",
+      "required": false
+    },
+    {
+      "id": "alloyed:steel_axe",
+      "required": false
+    },
+    {
+      "id": "aquaculture:neptunium_axe",
+      "required": false
+    },
+    {
+      "id": "astral:phantasmal_axe",
+      "required": false
+    },
+    {
+      "id": "betterendforge:aeternium_axe",
+      "required": false
+    },
+    {
+      "id": "betterendforge:terminite_axe",
+      "required": false
+    },
+    {
+      "id": "betterendforge:thallasium_axe",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_axe",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_axe_diamond",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_axe",
+      "required": false
+    },
+    {
+      "id": "biomancy:fleshborn_axe",
+      "required": false
+    },
+    {
+      "id": "biomancy:fleshborn_war_axe",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/hunter_axe",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/hunting_axe",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:soulaxe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:aquite_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_axe",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone_axe",
+      "required": false
+    },
+    {
+      "id": "byg:pendorite_axe",
+      "required": false
+    },
+    {
+      "id": "cataclysm_weaponery:ignitium_axe",
+      "required": false
+    },
+    {
+      "id": "comfortable_nether:axe_of_rectitude",
+      "required": false
+    },
+    {
+      "id": "craftvania2:axe_subweapon_tool",
+      "required": false
+    },
+    {
+      "id": "craftvania2:axetoolretro",
+      "required": false
+    },
+    {
+      "id": "create_sa:blazing_axe",
+      "required": false
+    },
+    {
+      "id": "create_sa:brass_axe",
+      "required": false
+    },
+    {
+      "id": "create_sa:copper_axe",
+      "required": false
+    },
+    {
+      "id": "create_sa:experience_axe",
+      "required": false
+    },
+    {
+      "id": "create_sa:rose_quartz_axe",
+      "required": false
+    },
+    {
+      "id": "create_sa:zinc_axe",
+      "required": false
+    },
+    {
+      "id": "create:deforester",
+      "required": false
+    },
+    {
+      "id": "cyclic:amethyst_axe",
+      "required": false
+    },
+    {
+      "id": "cyclic:copper_axe",
+      "required": false
+    },
+    {
+      "id": "cyclic:crystal_axe",
+      "required": false
+    },
+    {
+      "id": "cyclic:emerald_axe",
+      "required": false
+    },
+    {
+      "id": "cyclic:netherbrick_axe",
+      "required": false
+    },
+    {
+      "id": "cyclic:sandstone_axe",
+      "required": false
+    },
+    {
+      "id": "deep_aether:skyjade_axe",
+      "required": false
+    },
+    {
+      "id": "deep_aether:stratus_axe",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_axe",
+      "required": false
+    },
+    {
+      "id": "doom:argent_axe",
+      "required": false
+    },
+    {
+      "id": "doom:argent_paxel",
+      "required": false
+    },
+    {
+      "id": "doom:chainsaw",
+      "required": false
+    },
+    {
+      "id": "doom:chainsaw64",
+      "required": false
+    },
+    {
+      "id": "doom:chainsaweternal",
+      "required": false
+    },
+    {
+      "id": "druidcraft:bone_axe",
+      "required": false
+    },
+    {
+      "id": "druidcraft:moonstone_axe",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:axe",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:cursed_axe",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:double_axe",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:firebrand",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:highland_axe",
+      "required": false
+    },
+    {
+      "id": "eidolon:silver_axe",
+      "required": false
+    },
+    {
+      "id": "embers:dawnstone_axe",
+      "required": false
+    },
+    {
+      "id": "embers:lead_axe",
+      "required": false
+    },
+    {
+      "id": "embers:silver_axe",
+      "required": false
+    },
+    {
+      "id": "endrem:end_crystal_axe",
+      "required": false
+    },
+    {
+      "id": "enigmaticlegacy:etherium_axe",
+      "required": false
+    },
+    {
+      "id": "enigmaticlegacy:forbidden_axe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:arclight_axe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:bloodstone_axe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:cryorium_axe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:jade_axe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:moonlight_axe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:sculk_axe",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:deorum_axe",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:draco_arcanus_axe",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:reinforced_deorum_axe",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:reinforced_deorum_axe",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_axe",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_axe_end",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_axe_nether",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_paxel",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_paxel_end",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_paxel_nether",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_paxel_stars",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_tree_axe",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_tree_axe_end",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_tree_axe_nether",
+      "required": false
+    },
+    {
+      "id": "goblins:goblin_axe",
+      "required": false
+    },
+    {
+      "id": "goety:dark_axe",
+      "required": false
+    },
+    {
+      "id": "goety:rampaging_axe",
+      "required": false
+    },
+    {
+      "id": "gothic:torturers_axe",
+      "required": false
+    },
+    {
+      "id": "greekfantasy:throwing_axe",
+      "required": false
+    },
+    {
+      "id": "grimreaper:spectral_axe",
+      "required": false
+    },
+    {
+      "id": "ic2:tool_axe_aluminium",
+      "required": false
+    },
+    {
+      "id": "ic2:tool_axe_bronze",
+      "required": false
+    },
+    {
+      "id": "iceandfire:copper_axe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone_axe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_fire_axe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_ice_axe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_axe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:myrmex_desert_axe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:myrmex_jungle_axe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:silver_axe",
+      "required": false
+    },
+    {
+      "id": "illagerinvasion:platinum_infused_hatchet",
+      "required": false
+    },
+    {
+      "id": "illagerrevolutionmod:illagium_axe",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:axe_steel",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:william_crowbar_greataxeblade",
+      "required": false
+    },
+    {
+      "id": "kobolds:kobold_axe",
+      "required": false
+    },
+    {
+      "id": "l2complements:eternium_axe",
+      "required": false
+    },
+    {
+      "id": "l2complements:poseidite_axe",
+      "required": false
+    },
+    {
+      "id": "l2complements:sculkium_axe",
+      "required": false
+    },
+    {
+      "id": "l2complements:shulkerate_axe",
+      "required": false
+    },
+    {
+      "id": "l2complements:totemic_gold_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:fiery_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:ironwood_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:knightmetal_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:steeleaf_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "lost_aether_content:phoenix_axe",
+      "required": false
+    },
+    {
+      "id": "majruszsdifficulty:enderium_axe",
+      "required": false
+    },
+    {
+      "id": "material_elements_armor_tools_weapons:copper_axe",
+      "required": false
+    },
+    {
+      "id": "material_elements_armor_tools_weapons:steel_axe",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:dane_axe",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:longsword_murder_stroke",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_axe",
+      "required": false
+    },
+    {
+      "id": "minestuck:batleacks",
+      "required": false
+    },
+    {
+      "id": "minestuck:bisector",
+      "required": false
+    },
+    {
+      "id": "minestuck:blacksmith_bane",
+      "required": false
+    },
+    {
+      "id": "minestuck:copse_crusher",
+      "required": false
+    },
+    {
+      "id": "minestuck:crop_chop",
+      "required": false
+    },
+    {
+      "id": "minestuck:emerald_axe",
+      "required": false
+    },
+    {
+      "id": "minestuck:fine_china_axe",
+      "required": false
+    },
+    {
+      "id": "minestuck:gothy_axe",
+      "required": false
+    },
+    {
+      "id": "minestuck:lorentz_distransformationer",
+      "required": false
+    },
+    {
+      "id": "minestuck:melonsbane",
+      "required": false
+    },
+    {
+      "id": "minestuck:quench_crusher",
+      "required": false
+    },
+    {
+      "id": "minestuck:regiaxe",
+      "required": false
+    },
+    {
+      "id": "minestuck:ruby_croak",
+      "required": false
+    },
+    {
+      "id": "minestuck:scraxe",
+      "required": false
+    },
+    {
+      "id": "minestuck:shock_axe",
+      "required": false
+    },
+    {
+      "id": "minestuck:shock_axe_unpowered",
+      "required": false
+    },
+    {
+      "id": "minestuck:surprise_axe",
+      "required": false
+    },
+    {
+      "id": "minestuck:the_last_straw",
+      "required": false
+    },
+    {
+      "id": "miningmaster:haste_peridot_axe",
+      "required": false
+    },
+    {
+      "id": "miningmaster:kinetic_opal_axe",
+      "required": false
+    },
+    {
+      "id": "miningmaster:power_pyrite_axe",
+      "required": false
+    },
+    {
+      "id": "miningmaster:ultima_axe",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:moltenaxe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:cactus_axe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:copper_axe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:lead_axe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:quicksilver_axe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:sapphire_axe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:silver_axe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:silver_axe",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:tin_axe",
+      "required": false
+    },
+    {
+      "id": "nethers_exoticism:kiwano_axe",
+      "required": false
+    },
+    {
+      "id": "ogres:ogre_axe",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hallowsteel_axe",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hexium_axe",
+      "required": false
+    },
+    {
+      "id": "primalmagick:primal_axe",
+      "required": false
+    },
+    {
+      "id": "primalmagick:primalite_axe",
+      "required": false
+    },
+    {
+      "id": "rats:ratlantis_axe",
+      "required": false
+    },
+    {
+      "id": "rootsclassic:living_axe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:miphrilaxe",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:steelaxe",
+      "required": false
+    },
+    {
+      "id": "silentgear:axe",
+      "required": false
+    },
+    {
+      "id": "silentgear:paxel",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:electrum_axe",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:fiery_axe",
+      "required": false
+    },
+    {
+      "id": "sons_of_sins:osseous_axe",
+      "required": false
+    },
+    {
+      "id": "sons_of_sins:shape_shifting_tool",
+      "required": false
+    },
+    {
+      "id": "sons_of_sins:sinful_axe",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:spiritaxe",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:vikingaxe",
+      "required": false
+    },
+    {
+      "id": "spirit:soul_steel_axe",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:chorundum_axe",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:tungsten_axe",
+      "required": false
+    },
+    {
+      "id": "theabyss:aberythe_axe",
+      "required": false
+    },
+    {
+      "id": "theabyss:bone_axe",
+      "required": false
+    },
+    {
+      "id": "theabyss:fusion_axe",
+      "required": false
+    },
+    {
+      "id": "theabyss:garnite_axe",
+      "required": false
+    },
+    {
+      "id": "theabyss:incorythe_axe",
+      "required": false
+    },
+    {
+      "id": "theabyss:knight_axe",
+      "required": false
+    },
+    {
+      "id": "theabyss:phantom_axe",
+      "required": false
+    },
+    {
+      "id": "theabyss:unorithe_axe",
+      "required": false
+    },
+    {
+      "id": "tropicraft:eudialyte_axe",
+      "required": false
+    },
+    {
+      "id": "tropicraft:zircon_axe",
+      "required": false
+    },
+    {
+      "id": "tropicraft:zirconium_axe",
+      "required": false
+    },
+    {
+      "id": "twilightforest:diamond_minotaur_axe",
+      "required": false
+    },
+    {
+      "id": "twilightforest:gold_minotaur_axe",
+      "required": false
+    },
+    {
+      "id": "twilightforest:ironwood_axe",
+      "required": false
+    },
+    {
+      "id": "twilightforest:knightmetal_axe",
+      "required": false
+    },
+    {
+      "id": "twilightforest:minotaur_axe",
+      "required": false
+    },
+    {
+      "id": "twilightforest:minotaur_axe_gold",
+      "required": false
+    },
+    {
+      "id": "twilightforest:steeleaf_axe",
+      "required": false
+    },
+    {
+      "id": "underground_jungle:temple_axe",
+      "required": false
+    },
+    {
+      "id": "vampirism:hunter_axe_enhanced",
+      "required": false
+    },
+    {
+      "id": "vampirism:hunter_axe_normal",
+      "required": false
+    },
+    {
+      "id": "vampirism:hunter_axe_ultimate",
+      "required": false
+    },
+    {
+      "id": "vanillafoodpantry:flint_butcher_axe",
+      "required": false
+    },
+    {
+      "id": "voidscape:corrupt_axe",
+      "required": false
+    },
+    {
+      "id": "voidscape:ichor_axe",
+      "required": false
+    },
+    {
+      "id": "voidscape:titanite_axe",
+      "required": false
+    },
+    {
+      "id": "voidscape:voidic_crystal_axe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:diamond_greataxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:golden_greataxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:iron_greataxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:netherite_greataxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:stone_greataxe",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:wooden_greataxe",
+      "required": false
+    },
+    {
+      "id": "werewolves:silver_axe",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:blue_geode_axe",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:platinum_axe",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:purple_geode_axe",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:red_geode_axe",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:mithril_axe",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:foolsgold_axe",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:osmium_axe",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:hatchet_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:hatchet_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:hatchet_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:hatchet_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:hatchet_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:hatchet_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_wood",
+      "required": false
+    },
+    {
+      "id": "atum:montus_strike",
+      "required": false
+    },
+    {
+      "id": "atum:shus_exile",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:great_reaper_axe",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:supreme_measure",
+      "required": false
+    },
+    {
+      "id": "byg:pendorite_battleaxe",
+      "required": false
+    },
+    {
+      "id": "eidolon:cleaving_axe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:cryorium_battle_axe",
+      "required": false
+    },
+    {
+      "id": "ic2:advanced_chainsaw",
+      "required": false
+    },
+    {
+      "id": "ic2:chainsaw",
+      "required": false
+    },
+    {
+      "id": "illagerrevolutionmod:junk_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:barbaric_hallow",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:diamond_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:eternium_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:gold_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:iron_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:netherite_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:poseidite_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:sculkium_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:shulkerate_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:totemic_gold_throwing_axe",
+      "required": false
+    },
+    {
+      "id": "minestuck:cakesaw",
+      "required": false
+    },
+    {
+      "id": "minestuck:choco_loco_woodsplitter",
+      "required": false
+    },
+    {
+      "id": "minestuck:devils_delight",
+      "required": false
+    },
+    {
+      "id": "minestuck:emerald_immolator",
+      "required": false
+    },
+    {
+      "id": "minestuck:fission_focused_fault_feller",
+      "required": false
+    },
+    {
+      "id": "minestuck:frosttooth",
+      "required": false
+    },
+    {
+      "id": "minestuck:hephaestus_lumberjack",
+      "required": false
+    },
+    {
+      "id": "minestuck:lipstick_chainsaw",
+      "required": false
+    },
+    {
+      "id": "minestuck:magenta_mauler",
+      "required": false
+    },
+    {
+      "id": "minestuck:obsidian_axe_knife",
+      "required": false
+    },
+    {
+      "id": "minestuck:obsidiator",
+      "required": false
+    },
+    {
+      "id": "minestuck:piston_powered_pogo_axehammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:steel_edge_candycutter",
+      "required": false
+    },
+    {
+      "id": "minestuck:thistleblower",
+      "required": false
+    },
+    {
+      "id": "silentgear:mattock",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:tomahawk_wood",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sons_of_sins:remnant_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "sons_of_sins:remnant_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -9.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "sons_of_sins:remnant_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -7.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "sons_of_sins:remnant_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

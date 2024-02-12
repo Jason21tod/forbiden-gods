@@ -1,0 +1,10 @@
+{
+  "mutantmore:mutant_shulker_shield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "mutantmore:blazing_scimitar": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  }
+}

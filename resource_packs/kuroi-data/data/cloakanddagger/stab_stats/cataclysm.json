@@ -1,0 +1,38 @@
+{
+  "cataclysm:coral_bardiche": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "cataclysm:bulwark_of_the_flame": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "cataclysm:gauntlet_of_guard": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "cataclysm:the_incinerator": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "cataclysm:athame": {
+    "distracted": 2.0,
+    "unaware": 2.5
+  },
+  "cataclysm:coral_spear": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "cataclysm:tidal_claws": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "cataclysm:void_assault_shoulder_weapon": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "cataclysm:gauntlet_of_bulwark": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

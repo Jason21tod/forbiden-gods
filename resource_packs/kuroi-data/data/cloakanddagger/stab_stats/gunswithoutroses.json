@@ -1,0 +1,10 @@
+{
+  "gunswithoutroses:diamond_shotgun": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "gunswithoutroses:diamond_sniper": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "embers:cinder_staff",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:mighty_stick",
+      "required": false
+    },
+    {
+      "id": "exdeorum:bone_crook",
+      "required": false
+    },
+    {
+      "id": "exdeorum:crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:andesite_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:basalt_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:blackstone_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:bone_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:calcite_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:copper_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:deepslate_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:diamond_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:diorite_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:dripstone_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:golden_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:granite_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:iron_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:nether_brick_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:netherite_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:prismarine_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:red_nether_brick_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:stone_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:terracotta_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:tuff_crook",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:wooden_crook",
+      "required": false
+    },
+    {
+      "id": "greekfantasy:staff_of_healing",
+      "required": false
+    },
+    {
+      "id": "greekfantasy:thyrsus",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:mop_battlestaff",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:paintbrush_battlestaff",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:witches_broom_scythe",
+      "required": false
+    },
+    {
+      "id": "minestuck:black_kings_scepter",
+      "required": false
+    },
+    {
+      "id": "minestuck:prime_staff",
+      "required": false
+    },
+    {
+      "id": "minestuck:sightseeker",
+      "required": false
+    },
+    {
+      "id": "minestuck:white_kings_scepter",
+      "required": false
+    },
+    {
+      "id": "monstersandmushrooms:endstaff",
+      "required": false
+    },
+    {
+      "id": "monstersandmushrooms:maggartstaff",
+      "required": false
+    },
+    {
+      "id": "monstersandmushrooms:magmacubestaff",
+      "required": false
+    },
+    {
+      "id": "monstersandmushrooms:shroomsterstaff",
+      "required": false
+    },
+    {
+      "id": "monstersandmushrooms:straystaff",
+      "required": false
+    }
+  ]
+}

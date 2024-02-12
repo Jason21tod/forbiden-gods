@@ -1,0 +1,141 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether_redux:subzero_crossbow",
+      "required": false
+    },
+    {
+      "id": "ars_nouveau:spell_crossbow",
+      "required": false
+    },
+    {
+      "id": "doom:ballista",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:baby_crossbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:dual_crossbow",
+      "required": false
+    },
+    {
+      "id": "ironbows:diamond_crossbow",
+      "required": false
+    },
+    {
+      "id": "ironbows:emerald_crossbow",
+      "required": false
+    },
+    {
+      "id": "ironbows:golden_crossbow",
+      "required": false
+    },
+    {
+      "id": "ironbows:iron_crossbow",
+      "required": false
+    },
+    {
+      "id": "ironbows:netherite_crossbow",
+      "required": false
+    },
+    {
+      "id": "material_elements_armor_tools_weapons:copper_crossbow",
+      "required": false
+    },
+    {
+      "id": "material_elements_armor_tools_weapons:steel_crossbow",
+      "required": false
+    },
+    {
+      "id": "minecraft:crossbow",
+      "required": false
+    },
+    {
+      "id": "silentgear:crossbow",
+      "required": false
+    },
+    {
+      "id": "switchbow:switchcrossbow",
+      "required": false
+    },
+    {
+      "id": "vampirism:basic_crossbow",
+      "required": false
+    },
+    {
+      "id": "vampirism:basic_double_crossbow",
+      "required": false
+    },
+    {
+      "id": "vampirism:basic_tech_crossbow",
+      "required": false
+    },
+    {
+      "id": "vampirism:enhanced_crossbow",
+      "required": false
+    },
+    {
+      "id": "vampirism:enhanced_double_crossbow",
+      "required": false
+    },
+    {
+      "id": "vampirism:enhanced_tech_crossbow",
+      "required": false
+    },
+    {
+      "id": "voidscape:corrupt_xbow",
+      "required": false
+    },
+    {
+      "id": "voidscape:ichor_xbow",
+      "required": false
+    },
+    {
+      "id": "voidscape:titanite_xbow",
+      "required": false
+    },
+    {
+      "id": "voidscape:voidic_crystal_xbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:azure_seeker",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:butterfly_crossbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:exploding_crossbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:feral_soul_crossbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:firebolt_thrower",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:imploding_crossbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:soul_crossbow",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:the_slicer",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:voidcaller",
+      "required": false
+    }
+  ]
+}

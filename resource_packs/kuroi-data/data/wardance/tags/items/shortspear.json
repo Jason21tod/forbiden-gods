@@ -1,0 +1,193 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "epicempires:spartan_spear",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:pilum",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:caveman_spear",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:skewer_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:skewer_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:skewer_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:skewer_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:skewer_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:skewer_wood",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_spear",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_spear",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_spear",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_spear",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_spear",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_spear",
+      "required": false
+    },
+    {
+      "id": "blue_skies:soulbound_spear",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_spear",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:diamond_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:eternium_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:fiery_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:gold_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:iron_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:ironwood_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:knightmetal_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:netherite_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:poseidite_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:sculkium_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:shulkerate_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:steeleaf_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:totemic_gold_javelin",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:void_escape",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:javelin_wood",
+      "required": false
+    }
+  ]
+}

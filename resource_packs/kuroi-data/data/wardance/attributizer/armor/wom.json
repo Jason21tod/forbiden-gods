@@ -1,0 +1,115 @@
+{
+  "wom:emerald_tasset": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:netherite_manicle": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:golden_monocle": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  
+  ],
+  "wom:diamond_armbracelet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:emerald_anklebracelet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:netherite_chains": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:emerald_chakra": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:golden_chrono": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:golden_kit": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:diamond_legbottomseal": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:emerald_earrings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:diamond_legtopseal": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:netherite_mask": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:golden_mokassin": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:diamond_crown": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "wom:netherite_belt": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -5.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

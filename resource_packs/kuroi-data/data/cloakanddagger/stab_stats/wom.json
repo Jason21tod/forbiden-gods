@@ -1,0 +1,18 @@
+{
+  "wom:ender_blaster": {
+    "distracted": 1.2,
+    "unaware": 1.4
+  },
+  "wom:satsujin": {
+    "distracted": 1.25,
+    "unaware": 1.5
+  },
+  "wom:antitheus": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "wom:moonless": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  }
+}

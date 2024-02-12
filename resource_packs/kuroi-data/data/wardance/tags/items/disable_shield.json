@@ -1,0 +1,653 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#wardance:battleaxe",
+      "required": false
+    },
+    {
+      "id": "#wardance:buster",
+      "required": false
+    },
+    {
+      "id": "#wardance:greatmace",
+      "required": false
+    },
+    {
+      "id": "#wardance:halberd",
+      "required": false
+    },
+    {
+      "id": "#wardance:launcher",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:battle_axe_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:buster_sword",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:claymore_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cleaver_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:halbert_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:industrial_excavator",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:industrial_harvester",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:industrial_miner",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:industrial_multi_tool",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:industrial_pulverizer",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:multi_tool_wood",
+      "required": false
+    },
+    {
+      "id": "atum:gebs_might",
+      "required": false
+    },
+    {
+      "id": "atum:montus_strike",
+      "required": false
+    },
+    {
+      "id": "atum:shus_exile",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:darkwarblade",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:great_reaper_axe",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:supreme_measure",
+      "required": false
+    },
+    {
+      "id": "byg:pendorite_battleaxe",
+      "required": false
+    },
+    {
+      "id": "cataclysm:coral_bardiche",
+      "required": false
+    },
+    {
+      "id": "cataclysm:the_incinerator",
+      "required": false
+    },
+    {
+      "id": "cataclysm:void_assault_shoulder_weapon",
+      "required": false
+    },
+    {
+      "id": "celestisynth:poltergeist",
+      "required": false
+    },
+    {
+      "id": "create_sa:blazing_pickaxe",
+      "required": false
+    },
+    {
+      "id": "create_sa:portable_drill",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:diamond_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:golden_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:iron_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:jotunn_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:netherite_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:stone_battleaxe",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:wooden_battleaxe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:diamond_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:diamond_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:golden_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:golden_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:iron_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:iron_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:netherite_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:netherite_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:stone_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:stone_halberd",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:wooden_battle_axe",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:wooden_halberd",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:broadsword",
+      "required": false
+    },
+    {
+      "id": "eidolon:cleaving_axe",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:cryorium_battle_axe",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:minotaur_hammer",
+      "required": false
+    },
+    {
+      "id": "ic2:advanced_chainsaw",
+      "required": false
+    },
+    {
+      "id": "ic2:advanced_drill",
+      "required": false
+    },
+    {
+      "id": "ic2:chainsaw",
+      "required": false
+    },
+    {
+      "id": "ic2:diamond_drill",
+      "required": false
+    },
+    {
+      "id": "ic2:drill",
+      "required": false
+    },
+    {
+      "id": "ic2:rock_cutter_drill",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_axe",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_column",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_column_forest",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_column_frost",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_hammer",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_trunk",
+      "required": false
+    },
+    {
+      "id": "iceandfire:troll_weapon_trunk_frost",
+      "required": false
+    },
+    {
+      "id": "illagerrevolutionmod:junk_axe",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:buster_greatsword",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:executioner_claymore",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:gunbai_coral_blade",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:soul_claymore",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:abyss_terror",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:axe_of_cursed_flame",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:barbaric_hallow",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:dogmatic_standoff",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "meetyourfight:depth_star",
+      "required": false
+    },
+    {
+      "id": "minestuck:cakesaw",
+      "required": false
+    },
+    {
+      "id": "minestuck:choco_loco_woodsplitter",
+      "required": false
+    },
+    {
+      "id": "minestuck:devils_delight",
+      "required": false
+    },
+    {
+      "id": "minestuck:emerald_immolator",
+      "required": false
+    },
+    {
+      "id": "minestuck:fission_focused_fault_feller",
+      "required": false
+    },
+    {
+      "id": "minestuck:frosttooth",
+      "required": false
+    },
+    {
+      "id": "minestuck:hephaestus_lumberjack",
+      "required": false
+    },
+    {
+      "id": "minestuck:lipstick_chainsaw",
+      "required": false
+    },
+    {
+      "id": "minestuck:magenta_mauler",
+      "required": false
+    },
+    {
+      "id": "minestuck:obsidian_axe_knife",
+      "required": false
+    },
+    {
+      "id": "minestuck:obsidiator",
+      "required": false
+    },
+    {
+      "id": "minestuck:piston_powered_pogo_axehammer",
+      "required": false
+    },
+    {
+      "id": "minestuck:steel_edge_candycutter",
+      "required": false
+    },
+    {
+      "id": "minestuck:thistleblower",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:moltenhammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:diamond_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:golden_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:iron_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:netherite_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:stone_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:wooden_halberd",
+      "required": false
+    },
+    {
+      "id": "moonsweaponry:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "mutantbeasts:hulk_hammer",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:hulk_hammer",
+      "required": false
+    },
+    {
+      "id": "mutantsbuff:upgraded_hulk_hammer",
+      "required": false
+    },
+    {
+      "id": "pandoras_creatures:arachnon_hammer",
+      "required": false
+    },
+    {
+      "id": "silentgear:mattock",
+      "required": false
+    },
+    {
+      "id": "simplyswords:arcanethyst",
+      "required": false
+    },
+    {
+      "id": "simplyswords:hearthflame",
+      "required": false
+    },
+    {
+      "id": "simplyswords:icewhisper",
+      "required": false
+    },
+    {
+      "id": "simplyswords:soulpyre",
+      "required": false
+    },
+    {
+      "id": "spore:armads",
+      "required": false
+    },
+    {
+      "id": "spore:mace",
+      "required": false
+    },
+    {
+      "id": "spore:maul",
+      "required": false
+    },
+    {
+      "id": "twilightforest:giant_sword",
+      "required": false
+    }
+  ]
+}

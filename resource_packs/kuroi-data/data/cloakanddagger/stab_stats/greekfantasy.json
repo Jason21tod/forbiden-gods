@@ -1,0 +1,14 @@
+{
+  "greekfantasy:thyrsus": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "greekfantasy:discus": {
+    "distracted": 1.0,
+    "unaware": 1.0
+  },
+  "greekfantasy:staff_of_healing": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

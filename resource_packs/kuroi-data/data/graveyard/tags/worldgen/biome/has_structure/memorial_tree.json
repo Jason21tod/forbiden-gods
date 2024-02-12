@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "terralith:birch_taiga", "required": false},
+	{"id": "terralith:lavender_forest", "required": false},
+	{"id": "terralith:lavender_valley", "required": false},
+	{"id": "terralith:skylands_spring", "required": false},
+	{"id": "terralith:valley_clearing", "required": false}
+  ]
+}

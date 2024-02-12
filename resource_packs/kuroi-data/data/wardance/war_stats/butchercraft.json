@@ -1,0 +1,213 @@
+{
+  "butchercraft:skinning_knife": {
+    "attack": 3.0,
+    "defend": 1.0,
+    "shield": false,
+    "sweep": "NONE",
+    "knockback": 1.0,
+    "damage_scale": 1.0,
+    "posture_scale": 1.0,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 0.0,
+    "sweep_scale": 0.0,
+    "standing": {
+      "sweep": "NONE"
+    },
+    "falling": {
+      "sweep": "NONE",
+      "damage_scale": 1.25,
+      "posture_scale": 1.25,
+      "crit_damage": 2.0,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue",
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "CONE",
+      "knockback": 0.75,
+      "damage_scale": 0.5,
+      "posture_scale": 0.75,
+      "sweep_base": 40.0,
+      "sweep_scale": 15.0,
+      "hit_self_command": "/function wardance:attack/self_accelerate"
+    },
+    "sprinting": {
+      "sweep": "CIRCLE",
+      "knockback": 1.25,
+      "damage_scale": 0.75,
+      "posture_scale": 0.75,
+      "sweep_base": 2.0,
+      "sweep_scale": 0.75,
+      "hit_self_command": "/function wardance:attack/self_moderatefatigue",
+      "crit": true
+    },
+    "riding": {
+      "sweep": "CLEAVE",
+      "knockback": 1.5,
+      "crit_damage": 2.0,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue"
+    }
+  },
+  "butchercraft:gut_knife": {
+    "attack": 1.6,
+    "defend": 1.0,
+    "shield": false,
+    "sweep": "CONE",
+    "knockback": 0.75,
+    "damage_scale": 1.0,
+    "posture_scale": 1.0,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 30.0,
+    "sweep_scale": 10.0,
+    "standing": {
+      "sweep": "CONE",
+      "knockback": 0.75,
+      "sweep_base": 30.0,
+      "sweep_scale": 10.0
+    },
+    "falling": {
+      "sweep": "NONE",
+      "knockback": 0.5,
+      "damage_scale": 1.5,
+      "posture_scale": 1.5,
+      "crit_damage": 2.0,
+      "hit_self_command": "/function wardance:attack/self_moderatefatigue",
+      "damage_other_command": "/function wardance:attack/damageother_break",
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "NONE",
+      "knockback": 0.75,
+      "damage_scale": 1.25,
+      "hit_self_command": "/function wardance:attack/self_accelerate"
+    },
+    "sprinting": {
+      "sweep": "LINE",
+      "knockback": 0.75,
+      "crit_damage": 2.0,
+      "sweep_base": 0.3,
+      "sweep_scale": 0.25,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue",
+      "crit": true
+    },
+    "riding": {
+      "sweep": "NONE",
+      "knockback": 1.5,
+      "damage_scale": 1.5,
+      "crit_damage": 2.0
+    }
+  },
+  "butchercraft:butcher_knife": {
+    "attack": 2.8,
+    "defend": 0.9,
+    "shield": false,
+    "sweep": "CLEAVE",
+    "knockback": 1.0,
+    "damage_scale": 0.75,
+    "posture_scale": 0.75,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 40.0,
+    "sweep_scale": 15.0,
+    "standing": {
+      "sweep": "CLEAVE",
+      "damage_scale": 0.75,
+      "posture_scale": 0.75,
+      "sweep_base": 40.0,
+      "sweep_scale": 15.0
+    },
+    "falling": {
+      "sweep": "NONE",
+      "knockback": 0.5,
+      "posture_scale": 1.25,
+      "crit_damage": 2.0,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue",
+      "damage_other_command": "/function wardance:attack/damageother_armorcleave",
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "CONE",
+      "damage_scale": 0.75,
+      "posture_scale": 0.75,
+      "sweep_base": 35.0,
+      "sweep_scale": 10.0,
+      "hit_self_command": "/function wardance:attack/self_accelerate"
+    },
+    "sprinting": {
+      "sweep": "CLEAVE",
+      "damage_scale": 0.75,
+      "posture_scale": 0.75,
+      "sweep_base": 40.0,
+      "sweep_scale": 15.0,
+      "hit_self_command": "/function wardance:attack/self_moderatefatigue",
+      "damage_other_command": "/function wardance:attack/damageother_armorcleave"
+    },
+    "riding": {
+      "sweep": "CONE",
+      "knockback": 1.5,
+      "damage_scale": 0.75,
+      "crit_damage": 2.0,
+      "sweep_base": 40.0,
+      "sweep_scale": 30.0,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue",
+      "damage_other_command": "/function wardance:attack/damageother_mildstun"
+    }
+  },
+  "butchercraft:bone_saw": {
+    "attack": 2.8,
+    "defend": 0.9,
+    "shield": false,
+    "sweep": "CLEAVE",
+    "knockback": 1.0,
+    "damage_scale": 0.75,
+    "posture_scale": 0.75,
+    "crit": false,
+    "crit_damage": 1.5,
+    "sweep_base": 40.0,
+    "sweep_scale": 15.0,
+    "standing": {
+      "sweep": "CLEAVE",
+      "damage_scale": 0.75,
+      "posture_scale": 0.75,
+      "sweep_base": 40.0,
+      "sweep_scale": 15.0
+    },
+    "falling": {
+      "sweep": "NONE",
+      "knockback": 0.5,
+      "posture_scale": 1.25,
+      "crit_damage": 2.0,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue",
+      "damage_other_command": "/function wardance:attack/damageother_armorcleave",
+      "crit": true
+    },
+    "sneaking": {
+      "sweep": "CONE",
+      "damage_scale": 0.75,
+      "posture_scale": 0.75,
+      "sweep_base": 35.0,
+      "sweep_scale": 10.0,
+      "hit_self_command": "/function wardance:attack/self_accelerate"
+    },
+    "sprinting": {
+      "sweep": "CLEAVE",
+      "damage_scale": 0.75,
+      "posture_scale": 0.75,
+      "sweep_base": 40.0,
+      "sweep_scale": 15.0,
+      "hit_self_command": "/function wardance:attack/self_moderatefatigue",
+      "damage_other_command": "/function wardance:attack/damageother_armorcleave"
+    },
+    "riding": {
+      "sweep": "CONE",
+      "knockback": 1.5,
+      "damage_scale": 0.75,
+      "crit_damage": 2.0,
+      "sweep_base": 40.0,
+      "sweep_scale": 30.0,
+      "hit_self_command": "/function wardance:attack/self_mildfatigue",
+      "damage_other_command": "/function wardance:attack/damageother_mildstun"
+    }
+  }
+}

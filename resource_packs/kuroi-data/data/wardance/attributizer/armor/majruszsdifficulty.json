@@ -1,0 +1,63 @@
+{
+  "majruszsdifficulty:tattered_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszsdifficulty:enderium_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -9.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:skill_effectiveness",
+      "modify": 0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "majruszsdifficulty:enderium_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -7.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszsdifficulty:tattered_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszsdifficulty:enderium_boots": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -5.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszsdifficulty:tattered_leggings": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszsdifficulty:enderium_helmet": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -5.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "majruszsdifficulty:tattered_chestplate": [
+    {
+      "attribute": "footwork:stealth",
+      "modify": -3.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

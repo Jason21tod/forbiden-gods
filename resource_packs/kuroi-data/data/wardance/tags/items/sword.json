@@ -1,0 +1,2673 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether_redux:infused_veridium_sword",
+      "required": false
+    },
+    {
+      "id": "aether_redux:veridium_sword",
+      "required": false
+    },
+    {
+      "id": "aether:candy_cane_sword",
+      "required": false
+    },
+    {
+      "id": "aether:flaming_sword",
+      "required": false
+    },
+    {
+      "id": "aether:gravitite_sword",
+      "required": false
+    },
+    {
+      "id": "aether:holy_sword",
+      "required": false
+    },
+    {
+      "id": "aether:holystone_sword",
+      "required": false
+    },
+    {
+      "id": "aether:lightning_sword",
+      "required": false
+    },
+    {
+      "id": "aether:skyroot_sword",
+      "required": false
+    },
+    {
+      "id": "aether:zanite_sword",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:skelewag_sword",
+      "required": false
+    },
+    {
+      "id": "alloyed:steel_sword",
+      "required": false
+    },
+    {
+      "id": "aquaculture:neptunium_sword",
+      "required": false
+    },
+    {
+      "id": "aquamirae:fin_cutter",
+      "required": false
+    },
+    {
+      "id": "aquamirae:poisoned_blade",
+      "required": false
+    },
+    {
+      "id": "ars_nouveau:enchanters_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:diamond_ancient_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:diamond_arming_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:golden_arming_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:iron_arming_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:netherite_arming_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:stone_arming_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:wooden_arming_sword",
+      "required": false
+    },
+    {
+      "id": "astral:phantasmal_sword",
+      "required": false
+    },
+    {
+      "id": "atum:atems_will",
+      "required": false
+    },
+    {
+      "id": "atum:limestone_sword",
+      "required": false
+    },
+    {
+      "id": "atum:nepthys_banishing",
+      "required": false
+    },
+    {
+      "id": "betterendforge:aeternium_sword",
+      "required": false
+    },
+    {
+      "id": "betterendforge:terminite_sword",
+      "required": false
+    },
+    {
+      "id": "betterendforge:thallasium_sword",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_sword",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_sword_diamond",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_sword",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/threaded_cane_cane",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:soulsword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:aquite_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:different_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:infused_arc_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_sword",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone_sword",
+      "required": false
+    },
+    {
+      "id": "bonfires:coiled_sword",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:sharpened_dark_metal_sword",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:spiritual_sword",
+      "required": false
+    },
+    {
+      "id": "byg:pendorite_sword",
+      "required": false
+    },
+    {
+      "id": "cataclysm_weaponery:ignitium_sword",
+      "required": false
+    },
+    {
+      "id": "craftvania2:alucard_sword",
+      "required": false
+    },
+    {
+      "id": "craftvania2:alucard_sword_modern",
+      "required": false
+    },
+    {
+      "id": "craftvania2:bamboosword",
+      "required": false
+    },
+    {
+      "id": "craftvania2:flamesword",
+      "required": false
+    },
+    {
+      "id": "craftvania2:holysword",
+      "required": false
+    },
+    {
+      "id": "craftvania2:ice_sword",
+      "required": false
+    },
+    {
+      "id": "craftvania2:jewel_sword",
+      "required": false
+    },
+    {
+      "id": "craftvania2:millicanssword",
+      "required": false
+    },
+    {
+      "id": "craftvania2:rune_sword",
+      "required": false
+    },
+    {
+      "id": "create_sa:brass_sword",
+      "required": false
+    },
+    {
+      "id": "create_sa:copper_sword",
+      "required": false
+    },
+    {
+      "id": "create_sa:experience_sword",
+      "required": false
+    },
+    {
+      "id": "create_sa:rose_quartz_sword",
+      "required": false
+    },
+    {
+      "id": "create_sa:zinc_sword",
+      "required": false
+    },
+    {
+      "id": "cyclic:amethyst_sword",
+      "required": false
+    },
+    {
+      "id": "cyclic:copper_sword",
+      "required": false
+    },
+    {
+      "id": "cyclic:crystal_sword",
+      "required": false
+    },
+    {
+      "id": "cyclic:emerald_sword",
+      "required": false
+    },
+    {
+      "id": "cyclic:netherbrick_sword",
+      "required": false
+    },
+    {
+      "id": "cyclic:sandstone_sword",
+      "required": false
+    },
+    {
+      "id": "darkersouls:storm_curved_sword",
+      "required": false
+    },
+    {
+      "id": "deep_aether:stratus_sword",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_sword",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:chaos_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:apalachia_blade",
+      "required": false
+    },
+    {
+      "id": "divinerpg:aquatooth_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:arcanite_blade",
+      "required": false
+    },
+    {
+      "id": "divinerpg:bedrock_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:black_ender_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:bloodgem_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:blue_divine_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:blue_ender_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:cyclopsian_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:death_bringer",
+      "required": false
+    },
+    {
+      "id": "divinerpg:divine_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:eden_blade",
+      "required": false
+    },
+    {
+      "id": "divinerpg:ender_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:enderice",
+      "required": false
+    },
+    {
+      "id": "divinerpg:flaming_fury",
+      "required": false
+    },
+    {
+      "id": "divinerpg:frost_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:frostking_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:glacier_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:gray_divine_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:green_divine_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:green_ender_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:halite_blade",
+      "required": false
+    },
+    {
+      "id": "divinerpg:icicle_bane",
+      "required": false
+    },
+    {
+      "id": "divinerpg:icine_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:inferno_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:livicia_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:molten_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:mortum_blade",
+      "required": false
+    },
+    {
+      "id": "divinerpg:realmite_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:red_divine_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:red_ender_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:sandslash",
+      "required": false
+    },
+    {
+      "id": "divinerpg:scorching_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:shark_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:skythern_blade",
+      "required": false
+    },
+    {
+      "id": "divinerpg:slime_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:snowslash",
+      "required": false
+    },
+    {
+      "id": "divinerpg:soulfire_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:storm_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:terran_maul",
+      "required": false
+    },
+    {
+      "id": "divinerpg:wildwood_blade",
+      "required": false
+    },
+    {
+      "id": "divinerpg:yellow_divine_sword",
+      "required": false
+    },
+    {
+      "id": "divinerpg:yellow_ender_sword",
+      "required": false
+    },
+    {
+      "id": "doom:argent_sword",
+      "required": false
+    },
+    {
+      "id": "druidcraft:bone_sword",
+      "required": false
+    },
+    {
+      "id": "druidcraft:moonstone_sword",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:broken_sawblade",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:diamond_sword",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:gold_sword",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:hawkbrand",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:mechanized_sawblade",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:nameless_blade",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:sinister_sword",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:sparkler",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:stone_sword",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:sword",
+      "required": false
+    },
+    {
+      "id": "eidolon:sapping_sword",
+      "required": false
+    },
+    {
+      "id": "eidolon:silver_sword",
+      "required": false
+    },
+    {
+      "id": "embers:dawnstone_sword",
+      "required": false
+    },
+    {
+      "id": "embers:lead_sword",
+      "required": false
+    },
+    {
+      "id": "embers:silver_sword",
+      "required": false
+    },
+    {
+      "id": "embers:tyrfing",
+      "required": false
+    },
+    {
+      "id": "endrem:end_crystal_sword",
+      "required": false
+    },
+    {
+      "id": "enigmaticlegacy:etherium_sword",
+      "required": false
+    },
+    {
+      "id": "epicempires:roman_gladius",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:angel_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:arclight_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:bloodstone_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:bloodstone_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:bloodstone_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:cryorium_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:cryorium_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:epicpaladins_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:jade_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:jade_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:moonlight_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:moonlight_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:sculk_sword",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:sculk_sword",
+      "required": false
+    },
+    {
+      "id": "evilcraft:vein_sword",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:deorum_sword",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:draco_arcanus_sword",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:reinforced_deorum_sword",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:reinforced_deorum_sword",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_sword",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_sword_end",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_sword_nether",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_sword_sniper",
+      "required": false
+    },
+    {
+      "id": "gobber2:gobber2_sword_traveler",
+      "required": false
+    },
+    {
+      "id": "goety:dark_sword",
+      "required": false
+    },
+    {
+      "id": "gothic:wolfs_tooth",
+      "required": false
+    },
+    {
+      "id": "greekfantasy:ivory_sword",
+      "required": false
+    },
+    {
+      "id": "grimreaper:spectral_sword",
+      "required": false
+    },
+    {
+      "id": "gunblades:diamond_gunblade",
+      "required": false
+    },
+    {
+      "id": "gunblades:emerald_gunblade",
+      "required": false
+    },
+    {
+      "id": "gunblades:gunblade",
+      "required": false
+    },
+    {
+      "id": "gunblades:netherite_gunblade",
+      "required": false
+    },
+    {
+      "id": "hmag:insomnia_sword",
+      "required": false
+    },
+    {
+      "id": "hmag:nemesis_blade",
+      "required": false
+    },
+    {
+      "id": "ic2:tool_sword_aluminium",
+      "required": false
+    },
+    {
+      "id": "ic2:tool_sword_bronze",
+      "required": false
+    },
+    {
+      "id": "iceandfire:copper_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone_sword_fire",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone_sword_ice",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone_sword_lightning",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_fire_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_ice_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dread_knight_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dread_queen_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dread_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:ghost_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:hippogryph_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:myrmex_desert_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:myrmex_desert_sword_venom",
+      "required": false
+    },
+    {
+      "id": "iceandfire:myrmex_jungle_sword",
+      "required": false
+    },
+    {
+      "id": "iceandfire:myrmex_jungle_sword_venom",
+      "required": false
+    },
+    {
+      "id": "iceandfire:silver_sword",
+      "required": false
+    },
+    {
+      "id": "illagerrevolutionmod:illagium_sword",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:sword_steel",
+      "required": false
+    },
+    {
+      "id": "inventorypets:solstice_sword",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:magehunter",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:cane_claw",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:linked_sword",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:scrap_sword",
+      "required": false
+    },
+    {
+      "id": "kobolds:kobold_netherite_sword",
+      "required": false
+    },
+    {
+      "id": "kobolds:kobold_sword",
+      "required": false
+    },
+    {
+      "id": "l2complements:eternium_sword",
+      "required": false
+    },
+    {
+      "id": "l2complements:poseidite_sword",
+      "required": false
+    },
+    {
+      "id": "l2complements:sculkium_sword",
+      "required": false
+    },
+    {
+      "id": "l2complements:shulkerate_sword",
+      "required": false
+    },
+    {
+      "id": "l2complements:totemic_gold_sword",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:diamond_gladius",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:golden_gladius",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:iron_gladius",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:netherite_gladius",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:stone_gladius",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:wooden_gladius",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:messer_sword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:noble_sword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_katzbalger",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_katzbalger",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:caliburn",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:clarent",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:rule_breaker",
+      "required": false
+    },
+    {
+      "id": "majruszsdifficulty:enderium_sword",
+      "required": false
+    },
+    {
+      "id": "majruszsdifficulty:wither_sword",
+      "required": false
+    },
+    {
+      "id": "material_elements_armor_tools_weapons:copper_sword",
+      "required": false
+    },
+    {
+      "id": "material_elements_armor_tools_weapons:steel_sword",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:creativesword",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:gladius",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:jian",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:sword_1",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:vikingsword",
+      "required": false
+    },
+    {
+      "id": "meetyourfight:twilights_thorn",
+      "required": false
+    },
+    {
+      "id": "minecells:balanced_blade",
+      "required": false
+    },
+    {
+      "id": "minecells:blood_sword",
+      "required": false
+    },
+    {
+      "id": "minecells:crowbar",
+      "required": false
+    },
+    {
+      "id": "minecells:cursed_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_sword",
+      "required": false
+    },
+    {
+      "id": "minestuck:beef_sword",
+      "required": false
+    },
+    {
+      "id": "minestuck:bisekeyal",
+      "required": false
+    },
+    {
+      "id": "minestuck:blue_beams",
+      "required": false
+    },
+    {
+      "id": "minestuck:candy_key",
+      "required": false
+    },
+    {
+      "id": "minestuck:clockkeeper",
+      "required": false
+    },
+    {
+      "id": "minestuck:cobalt_sabre",
+      "required": false
+    },
+    {
+      "id": "minestuck:dragon_key",
+      "required": false
+    },
+    {
+      "id": "minestuck:emerald_sword",
+      "required": false
+    },
+    {
+      "id": "minestuck:home_by_midnight",
+      "required": false
+    },
+    {
+      "id": "minestuck:inksplocker_unlocker",
+      "required": false
+    },
+    {
+      "id": "minestuck:inksquidder_depthkey",
+      "required": false
+    },
+    {
+      "id": "minestuck:irradiated_steak_sword",
+      "required": false
+    },
+    {
+      "id": "minestuck:key_to_the_machine",
+      "required": false
+    },
+    {
+      "id": "minestuck:keyblade",
+      "required": false
+    },
+    {
+      "id": "minestuck:krakens_eye",
+      "required": false
+    },
+    {
+      "id": "minestuck:locksoftener",
+      "required": false
+    },
+    {
+      "id": "minestuck:pillow_talk",
+      "required": false
+    },
+    {
+      "id": "minestuck:quantum_sabre",
+      "required": false
+    },
+    {
+      "id": "minestuck:regikey",
+      "required": false
+    },
+    {
+      "id": "minestuck:regisword",
+      "required": false
+    },
+    {
+      "id": "minestuck:royal_deringer",
+      "required": false
+    },
+    {
+      "id": "minestuck:steak_sword",
+      "required": false
+    },
+    {
+      "id": "minestuck:too_hot_to_handle",
+      "required": false
+    },
+    {
+      "id": "minestuck:true_blue",
+      "required": false
+    },
+    {
+      "id": "miningmaster:fire_ruby_sword",
+      "required": false
+    },
+    {
+      "id": "miningmaster:ice_sapphire_sword",
+      "required": false
+    },
+    {
+      "id": "miningmaster:lucky_citrine_sword",
+      "required": false
+    },
+    {
+      "id": "miningmaster:power_pyrite_sword",
+      "required": false
+    },
+    {
+      "id": "miningmaster:spirit_garnet_sword",
+      "required": false
+    },
+    {
+      "id": "miningmaster:ultima_sword",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:bonesword",
+      "required": false
+    },
+    {
+      "id": "monstersandmushrooms:avalasword",
+      "required": false
+    },
+    {
+      "id": "monstersandmushrooms:chorussword",
+      "required": false
+    },
+    {
+      "id": "monstersandmushrooms:drownedsword",
+      "required": false
+    },
+    {
+      "id": "monstersandmushrooms:gnomesword",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:cactus_sword",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:copper_sword",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:lead_sword",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:quicksilver_sword",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:sapphire_sword",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:silver_sword",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:silver_sword",
+      "required": false
+    },
+    {
+      "id": "mysticalworld:tin_sword",
+      "required": false
+    },
+    {
+      "id": "nethers_exoticism:kiwano_sword",
+      "required": false
+    },
+    {
+      "id": "nikgubs_blades_plus:excalibur",
+      "required": false
+    },
+    {
+      "id": "nikgubs_blades_plus:gaia",
+      "required": false
+    },
+    {
+      "id": "nikgubs_blades_plus:gold_hoarder",
+      "required": false
+    },
+    {
+      "id": "nikgubs_blades_plus:groveblade",
+      "required": false
+    },
+    {
+      "id": "occultism:butcher_knife",
+      "required": false
+    },
+    {
+      "id": "ogres:ogre_sword",
+      "required": false
+    },
+    {
+      "id": "primalmagick:forbidden_sword",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hallowsteel_sword",
+      "required": false
+    },
+    {
+      "id": "primalmagick:hexium_sword",
+      "required": false
+    },
+    {
+      "id": "primalmagick:primalite_sword",
+      "required": false
+    },
+    {
+      "id": "pyromancer:firelink",
+      "required": false
+    },
+    {
+      "id": "rats:ratlantis_sword",
+      "required": false
+    },
+    {
+      "id": "rootsclassic:living_sword",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:miphrilsword",
+      "required": false
+    },
+    {
+      "id": "rpgsmw:steelsword",
+      "required": false
+    },
+    {
+      "id": "silentgear:sword",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:electrum_sword",
+      "required": false
+    },
+    {
+      "id": "simple_weapons:fiery_sword",
+      "required": false
+    },
+    {
+      "id": "sons_of_sins:ether_sword",
+      "required": false
+    },
+    {
+      "id": "sons_of_sins:osseous_sword",
+      "required": false
+    },
+    {
+      "id": "sons_of_sins:sinful_sword",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:goldensword",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:lightningsword",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:nightcrowsword",
+      "required": false
+    },
+    {
+      "id": "spirit:soul_steel_sword",
+      "required": false
+    },
+    {
+      "id": "spore:saber",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:chorundum_sword",
+      "required": false
+    },
+    {
+      "id": "stalwart_dungeons:tungsten_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:aberythe_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:abyss_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:bone_sword_item",
+      "required": false
+    },
+    {
+      "id": "theabyss:bricked_knight_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:fusion_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:garnite_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:ignisithe_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:incorythe_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:incorythe_sword_mkii",
+      "required": false
+    },
+    {
+      "id": "theabyss:knight_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:phantom_sword",
+      "required": false
+    },
+    {
+      "id": "theabyss:unorithe_sword",
+      "required": false
+    },
+    {
+      "id": "tropicraft:eudialyte_sword",
+      "required": false
+    },
+    {
+      "id": "tropicraft:zircon_sword",
+      "required": false
+    },
+    {
+      "id": "tropicraft:zirconium_sword",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:teardrop_sword",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_sword",
+      "required": false
+    },
+    {
+      "id": "twilightforest:glass_sword",
+      "required": false
+    },
+    {
+      "id": "twilightforest:ice_sword",
+      "required": false
+    },
+    {
+      "id": "twilightforest:ironwood_sword",
+      "required": false
+    },
+    {
+      "id": "twilightforest:knightmetal_sword",
+      "required": false
+    },
+    {
+      "id": "twilightforest:steeleaf_sword",
+      "required": false
+    },
+    {
+      "id": "underground_jungle:temple_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:alloy_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:amethyst_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:beacon_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:brain_coral_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:brass_head_turner",
+      "required": false
+    },
+    {
+      "id": "useless_sword:bubble_coral_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:cactus_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:charged_copper_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:charged_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:chocolate_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:clay_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:coal_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:copper_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:crismon_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:crying_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:dragon_breath_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:emerald_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:enderman_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:endstone_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:fire_coral_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:frosted_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:frozen_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:furnace_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:glass_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:glowstone_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:guster_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:honneycomb_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:horn_coral_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:lapis_lazuli_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:lava_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:magma_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:magmatic_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:message_in_a_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:molten_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:mushroom_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:neptunium_grab_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:netherite_slash_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:netherrack_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:prismarine_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:pyro_soul_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:pyro_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:quartz_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:red_sand_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:red_sandstone_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:redstone_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:sand_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:sandstone_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:shulker_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:slime_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:soul_sand_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:spider_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:tamed_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:thorny_diamond_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:thorny_golden_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:thorny_iron_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:thorny_stone_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:thorny_wooden_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:tube_coral_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:turtle_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:vex_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:warped_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:water_sword",
+      "required": false
+    },
+    {
+      "id": "useless_sword:witherred_sword",
+      "required": false
+    },
+    {
+      "id": "voidscape:corrupt_sword",
+      "required": false
+    },
+    {
+      "id": "voidscape:ichor_sword",
+      "required": false
+    },
+    {
+      "id": "voidscape:titanite_sword",
+      "required": false
+    },
+    {
+      "id": "voidscape:voidic_crystal_sword",
+      "required": false
+    },
+    {
+      "id": "werewolves:silver_sword",
+      "required": false
+    },
+    {
+      "id": "wom:herrscher",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:blue_geode_sword",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:platinum_sword",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:purple_geode_sword",
+      "required": false
+    },
+    {
+      "id": "wyrmroost:red_geode_sword",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:mithril_sword",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:mithril_sword_iron_binding",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:mithril_sword_gold_binding",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:fools_gold_sword",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:goldboundfoolsgoldsword",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:ironboundfoolsgoldsword",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:osmium_sword",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:diamond_sword_iron_binding",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:diamond_sword_gold_binding",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:iron_sword_iron_binding",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:iron_sword_gold_binding",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:netherite_sword_iron_binding",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:netherite_sword_gold_binding",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:gilded_diamond_swordof_strength",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:ironbound_diamond_swordof_strength",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:ironbound_iron_swordof_strength",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:gilded_iron_swordof_strength",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_5",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_6",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_7",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_8",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_11",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_12",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_13",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_14",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_15",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_16",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_17",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_18",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_21",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_22",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_23",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_24",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_25",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_26",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_27",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_28",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_31",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_32",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_33",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_34",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_35",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_36",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_37",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_38",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_41",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_42",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_43",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_44",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_45",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_46",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_47",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_48",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_51",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_52",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_53",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_54",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_55",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_56",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_57",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_58",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_59",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_60",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_61",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_62",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_63",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_64",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_65",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_66",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_67",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_68",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_69nice",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_70",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_71",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_72",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_73",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_74",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_75",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_76",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_77",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_78",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_79",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_80",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_81",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_82",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_83",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_84",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_85",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_86",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_87",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_88",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_89",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_90",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_91",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_92",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_93",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_94",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_95",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_96",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_97",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_98",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_99",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_100",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_101",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_102",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_103",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_104",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_105",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_106",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_107",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_108",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_109",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_110",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_111",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_112",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_113",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_114",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_115",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_116",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_117",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_118",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_119",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_120",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_121",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_122",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_123",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_124",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_125",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_126",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_127",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_128",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_130",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_129",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_131",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_132",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_133",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_134",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_135",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_136",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_137",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_138",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_139",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_140",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_141",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_142",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_143",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_144",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_145",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_146",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_147",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_148",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_149",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_150",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_151",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_152",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_153",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_154",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_155",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_156",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_157",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_158",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_159",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_160",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_161",
+      "required": false
+    },
+    {
+      "id": "gem_infusion:b_162",
+      "required": false
+    },
+    {
+      "id": "aquamirae:divider",
+      "required": false
+    },
+    {
+      "id": "aquamirae:remnants_saber",
+      "required": false
+    },
+    {
+      "id": "aquamirae:terrible_sword",
+      "required": false
+    },
+    {
+      "id": "aquamirae:whisper_of_the_abyss",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:diamond_chinese_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:golden_ancient_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:golden_chinese_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:iron_ancient_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:iron_chinese_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:netherite_ancient_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:netherite_chinese_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:stone_ancient_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:stone_chinese_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:wooden_ancient_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:wooden_chinese_sword",
+      "required": false
+    },
+    {
+      "id": "arsenal_core:xuanyuanjian",
+      "required": false
+    },
+    {
+      "id": "atum:stoneguard_sword",
+      "required": false
+    },
+    {
+      "id": "bloodandmadness:weapons/burial_blade",
+      "required": false
+    },
+    {
+      "id": "butchercraft:skinning_knife",
+      "required": false
+    },
+    {
+      "id": "comfortable_nether:crystalline_saber",
+      "required": false
+    },
+    {
+      "id": "divinerpg:aquatic_maul",
+      "required": false
+    },
+    {
+      "id": "divinerpg:aquaton",
+      "required": false
+    },
+    {
+      "id": "divinerpg:aquatooth_maul",
+      "required": false
+    },
+    {
+      "id": "divinerpg:arcanium_saber",
+      "required": false
+    },
+    {
+      "id": "divinerpg:bedrock_maul",
+      "required": false
+    },
+    {
+      "id": "divinerpg:frossivence",
+      "required": false
+    },
+    {
+      "id": "divinerpg:frozen_maul",
+      "required": false
+    },
+    {
+      "id": "divinerpg:fury_maul",
+      "required": false
+    },
+    {
+      "id": "divinerpg:massivence",
+      "required": false
+    },
+    {
+      "id": "divinerpg:palavence",
+      "required": false
+    },
+    {
+      "id": "divinerpg:poison_saber",
+      "required": false
+    },
+    {
+      "id": "divinerpg:shadow_saber",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:diamond_shortsword",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:golden_shortsword",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:iron_shortsword",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:netherite_shortsword",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:stone_shortsword",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:wooden_shortsword",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:coral_blade",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:eternal_knife",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:soul_knife",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:sponge_striker",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:truthseeker",
+      "required": false
+    },
+    {
+      "id": "enigmaticlegacy:ender_slayer",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:cursed_metal_sword",
+      "required": false
+    },
+    {
+      "id": "ic2:nano_saber",
+      "required": false
+    },
+    {
+      "id": "l2weaponry:shadow_shredder",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_chain",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_shortsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_shortsword",
+      "required": false
+    },
+    {
+      "id": "mahoutsukai:morgan",
+      "required": false
+    },
+    {
+      "id": "minestuck:angel_apocalypse",
+      "required": false
+    },
+    {
+      "id": "minestuck:caledfwlch",
+      "required": false
+    },
+    {
+      "id": "minestuck:caledscratch",
+      "required": false
+    },
+    {
+      "id": "minestuck:cruel_fate_crucible",
+      "required": false
+    },
+    {
+      "id": "minestuck:fire_poker",
+      "required": false
+    },
+    {
+      "id": "minestuck:mine_and_grist",
+      "required": false
+    },
+    {
+      "id": "minestuck:music_sword",
+      "required": false
+    },
+    {
+      "id": "minestuck:mwrthwl",
+      "required": false
+    },
+    {
+      "id": "minestuck:paper_sword",
+      "required": false
+    },
+    {
+      "id": "minestuck:piglins_pride",
+      "required": false
+    },
+    {
+      "id": "minestuck:pumord",
+      "required": false
+    },
+    {
+      "id": "minestuck:scarlet_ribbitar",
+      "required": false
+    },
+    {
+      "id": "minestuck:shatter_bacon",
+      "required": false
+    },
+    {
+      "id": "minestuck:shatter_beacon",
+      "required": false
+    },
+    {
+      "id": "minestuck:sord",
+      "required": false
+    },
+    {
+      "id": "minestuck:subtractshumidire_zomorrodnegative",
+      "required": false
+    },
+    {
+      "id": "minestuck:swonge",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:famine",
+      "required": false
+    },
+    {
+      "id": "weaponmaster:wm_broadsword",
+      "required": false
+    }
+  ]
+}

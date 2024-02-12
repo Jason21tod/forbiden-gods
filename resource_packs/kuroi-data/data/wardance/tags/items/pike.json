@@ -1,0 +1,165 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "magistuarmory:bronze_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_pike",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_pike",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:pike",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:pike_wood",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:diamond_pike",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:golden_pike",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:iron_pike",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:netherite_pike",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:stone_pike",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:wooden_pike",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:diamond_pike",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:golden_pike",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:iron_pike",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:netherite_pike",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:stone_pike",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:wooden_pike",
+      "required": false
+    }
+  ]
+}

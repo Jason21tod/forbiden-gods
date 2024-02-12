@@ -1,0 +1,114 @@
+{
+  "rpgsmw:nickel_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:plazma_sword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "rpgsmw:steel_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:miphril_scythe": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "rpgsmw:prismarined_nephris_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:newgenvampiricknife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:amethysted_nephris_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:netherite_greatsword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "rpgsmw:bronze_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:ice_scythe": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "rpgsmw:miphrilknife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:diamond_greatsword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "rpgsmw:amethystednephrisgreatsword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "rpgsmw:copper_greatsword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "rpgsmw:iron_greatsword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "rpgsmw:copper_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:miphril_greatsword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "rpgsmw:netherite_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:prismarined_nephris_scythe": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "rpgsmw:diamond_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:amethist_scythe": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "rpgsmw:amethysted_nephris_scythe": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "rpgsmw:nephrys_greatsword": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "rpgsmw:stone_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:iron_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  },
+  "rpgsmw:iron_scythe": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "rpgsmw:nephris_scythe": {
+    "distracted": 1.3,
+    "unaware": 1.6
+  },
+  "rpgsmw:nephris_knife": {
+    "distracted": 1.4,
+    "unaware": 1.8
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ageofweapons:glaive_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:glaive_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:glaive_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:glaive_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:glaive_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:glaive_wood",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:diamond_glaive",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_glaive",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_glaive",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_glaive",
+      "required": false
+    },
+    {
+      "id": "biomancy:fleshborn_guan_dao",
+      "required": false
+    },
+    {
+      "id": "blue_skies:aquite/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:bluebright_wood/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:charoite/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:cherry_wood/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:diopside/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:dusk_wood/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:frostbright_wood/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:horizonite/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_stone/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:lunar_wood/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:maple_wood/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:pyrope/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:starlit_wood/glaive",
+      "required": false
+    },
+    {
+      "id": "blue_skies:turquoise_stone/glaive",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:glaive",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:venom_glaive",
+      "required": false
+    },
+    {
+      "id": "epicpaladins:moonlight_glaive",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:nagamaki",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:bisento_battlestaff",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:right_ahead_glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/aeternium/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/terminite/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betterend/thallasium/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite_diamond/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/cincinnasite/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:betternether/nether_ruby/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:byg/pendorite/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:deeperdarker/warden/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/deorum/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/draco_arcanus/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:forbidden_arcanus/reinforced_deorum/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:plus_the_end/endronium/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:soulsweapons/translucent/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/fiery/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/ironwood/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/knightmetal/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:twilight_forest/steeleaf/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/cloggrum/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/forgotten/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/froststeel/glaive",
+      "required": false
+    },
+    {
+      "id": "knavesneeds:undergarden/utherium/glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_end/gobber_end_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber_nether/gobber_nether_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gobber_compat/gobber/gobber_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:sword_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:crystaltrident",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:longinustrident",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:soldiertrident",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:glaive_wood",
+      "required": false
+    },
+    {
+      "id": "useless_sword:refined_radiance_glaive",
+      "required": false
+    },
+    {
+      "id": "useless_sword:soul_glaive",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:diamond_glaive",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:golden_glaive",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:iron_glaive",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:netherite_glaive",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:stone_glaive",
+      "required": false
+    },
+    {
+      "id": "vtaw_mw:wooden_glaive",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:diamond_glaive",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:golden_glaive",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:iron_glaive",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:netherite_glaive",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:stone_glaive",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:tunupa_glaive",
+      "required": false
+    },
+    {
+      "id": "divine_weaponry:wooden_glaive",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:diamond_glaive",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:golden_glaive",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:iron_glaive",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:netherite_glaive",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:stone_glaive",
+      "required": false
+    },
+    {
+      "id": "dixtas_armory:wooden_glaive",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:grave_bane",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:diamond_greatsword",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:golden_greatsword",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:iron_greatsword",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:netherite_greatsword",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:stone_greatsword",
+      "required": false
+    },
+    {
+      "id": "lookinsharp:wooden_greatsword",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_guisarme",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_guisarme",
+      "required": false
+    }
+  ]
+}

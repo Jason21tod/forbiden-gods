@@ -1,0 +1,39 @@
+{
+  "epicsamurai:shuriken": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "modify": 3.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modify": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "modify": 0.25,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "forge:entity_reach",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "forge:reach_distance",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "footwork:evasion",
+      "modify": 2.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "shieldexp:iron_shield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "shieldexp:griefer_shield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "shieldexp:golden_shield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  },
+  "shieldexp:wooden_shield": {
+    "distracted": 1.1,
+    "unaware": 1.2
+  }
+}

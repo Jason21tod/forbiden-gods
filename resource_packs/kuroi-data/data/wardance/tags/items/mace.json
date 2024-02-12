@@ -1,0 +1,577 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "basicweapons:diamond_club",
+      "required": false
+    },
+    {
+      "id": "basicweapons:golden_club",
+      "required": false
+    },
+    {
+      "id": "basicweapons:iron_club",
+      "required": false
+    },
+    {
+      "id": "basicweapons:netherite_club",
+      "required": false
+    },
+    {
+      "id": "basicweapons:stone_club",
+      "required": false
+    },
+    {
+      "id": "basicweapons:wooden_club",
+      "required": false
+    },
+    {
+      "id": "comfortable_nether:pummeler_club",
+      "required": false
+    },
+    {
+      "id": "craftvania2:mace",
+      "required": false
+    },
+    {
+      "id": "dungeons_gear:suns_grace",
+      "required": false
+    },
+    {
+      "id": "evilcraft:mace_of_destruction",
+      "required": false
+    },
+    {
+      "id": "evilcraft:mace_of_distortion",
+      "required": false
+    },
+    {
+      "id": "forbidden_arcanus:zombie_arm",
+      "required": false
+    },
+    {
+      "id": "goety:philosophers_mace",
+      "required": false
+    },
+    {
+      "id": "gothic:club",
+      "required": false
+    },
+    {
+      "id": "gothic:mace",
+      "required": false
+    },
+    {
+      "id": "iceandfire:amphithere_macuahuitl",
+      "required": false
+    },
+    {
+      "id": "iceandfire:hippocampus_slapper",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:bandit_bat_mace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:barbedclub",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:club",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_morgensterne",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:rusted_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_heavymace",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_morgenstern",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:mace",
+      "required": false
+    },
+    {
+      "id": "medieval_craft_weapons:morning_star",
+      "required": false
+    },
+    {
+      "id": "minestuck:barber_basher",
+      "required": false
+    },
+    {
+      "id": "minestuck:blazing_glory",
+      "required": false
+    },
+    {
+      "id": "minestuck:clown_club",
+      "required": false
+    },
+    {
+      "id": "minestuck:club_of_felony",
+      "required": false
+    },
+    {
+      "id": "minestuck:club_zero",
+      "required": false
+    },
+    {
+      "id": "minestuck:desolator_mace",
+      "required": false
+    },
+    {
+      "id": "minestuck:horse_hitcher",
+      "required": false
+    },
+    {
+      "id": "minestuck:kissy_cutie_heart_hitter",
+      "required": false
+    },
+    {
+      "id": "minestuck:m_ace",
+      "required": false
+    },
+    {
+      "id": "minestuck:mace",
+      "required": false
+    },
+    {
+      "id": "minestuck:metal_bat",
+      "required": false
+    },
+    {
+      "id": "minestuck:pogo_club",
+      "required": false
+    },
+    {
+      "id": "minestuck:prismarine_basher",
+      "required": false
+    },
+    {
+      "id": "minestuck:spiked_club",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:frozenthigh",
+      "required": false
+    },
+    {
+      "id": "pyromancer:diamond_mace",
+      "required": false
+    },
+    {
+      "id": "pyromancer:golden_mace",
+      "required": false
+    },
+    {
+      "id": "pyromancer:iron_mace",
+      "required": false
+    },
+    {
+      "id": "pyromancer:netherite_mace",
+      "required": false
+    },
+    {
+      "id": "pyromancer:schmelzstern",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:mace",
+      "required": false
+    },
+    {
+      "id": "soul_like_armors_reworked:rustysteelmace",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:club_studded",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:club_wood",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_bronze",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_copper",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_diamond",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_electrum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_gold",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_invar",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_iron",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_lead",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_netherite",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_nickel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_platinum",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_silver",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_steel",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_stone",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_tin",
+      "required": false
+    },
+    {
+      "id": "spartanweaponry:flanged_mace_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cudgel_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:cudgel_wood",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:heavy_staff_diamond",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:heavy_staff_gold",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:heavy_staff_iron",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:heavy_staff_netherite",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:heavy_staff_stone",
+      "required": false
+    },
+    {
+      "id": "ageofweapons:heavy_staff_wood",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:diamond_mace",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:golden_mace",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:iron_mace",
+      "required": false
+    },
+    {
+      "id": "alexs_armoury:netherite_mace",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:monster_flesh",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:smoked_monster_flesh",
+      "required": false
+    },
+    {
+      "id": "divinerpg:corrupted_maul",
+      "required": false
+    },
+    {
+      "id": "divinerpg:crabclaw_maul",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:andesite_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:basalt_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:blackstone_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:calcite_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:copper_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:deepslate_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:diorite_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:dripstone_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:granite_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:nether_brick_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:prismarine_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:red_nether_brick_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:terracotta_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:tuff_hammer",
+      "required": false
+    },
+    {
+      "id": "exnihilosequentia:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "grimoireofgaia:metal_club",
+      "required": false
+    },
+    {
+      "id": "joels_randoms_mod:rolling_pin_mace",
+      "required": false
+    },
+    {
+      "id": "minestuck:cricket_bat",
+      "required": false
+    },
+    {
+      "id": "minestuck:crocker_spoon",
+      "required": false
+    },
+    {
+      "id": "minestuck:deuce_club",
+      "required": false
+    },
+    {
+      "id": "minestuck:doctor_deterrent",
+      "required": false
+    },
+    {
+      "id": "minestuck:frosty_macuahuitl",
+      "required": false
+    },
+    {
+      "id": "minestuck:glub_club",
+      "required": false
+    },
+    {
+      "id": "minestuck:macuahuitl",
+      "required": false
+    },
+    {
+      "id": "minestuck:mailbox",
+      "required": false
+    },
+    {
+      "id": "minestuck:night_club",
+      "required": false
+    },
+    {
+      "id": "minestuck:nightstick",
+      "required": false
+    },
+    {
+      "id": "minestuck:nosferatu_spoon",
+      "required": false
+    },
+    {
+      "id": "minestuck:red_eyes",
+      "required": false
+    },
+    {
+      "id": "minestuck:stale_baguette",
+      "required": false
+    },
+    {
+      "id": "mod_lavacow:moltenpan",
+      "required": false
+    },
+    {
+      "id": "twilightforest:block_and_chain",
+      "required": false
+    }
+  ]
+}
