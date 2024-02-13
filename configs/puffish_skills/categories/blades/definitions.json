@@ -1,0 +1,465 @@
+{
+	"max_health": {
+		"title": "+0,5 Coração",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/max_health.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "txpc4t738o390ji3"
+		}
+	},
+	"attack_speed": {
+		"title": "+5% de velôcidade de ataque",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/attack_speed.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "cci5zpon8i4twisu"
+		}
+	},
+	"crit_chance": {
+		"title": "+2,5% chance de crítico",
+		"description": "Este atributo aumenta a chance dos seus ataques serem um acerto crítico.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/crit_chance.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:crit_chance",
+					"value": 0.025,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "xkru7jnj0x9bszjc"
+		}
+	},
+	"crit_damage": {
+		"title": "+5% dano crítico",
+		"description": "Este atributo aumenta o dano de seus ataques críticos.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/crit_damage.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:crit_damage",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "60w155wko9ezmfst"
+		}
+	},
+	"dodge_chance": {
+		"title": "+2,5% chance de esquiva",
+		"description": "Este atributo aumenta a chance de você negar completamente algum dano.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/dodge_chance.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:dodge_chance",
+					"value": 0.025,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0cs23a2ku1zsklrw"
+		}
+	},
+	"healing": {
+		"title": "+2,5% de regeneração",
+		"description": "Este atributo aumenta a regeneração geral do player.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/healing.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.025,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "zlndxp8kcvgemhwp"
+		}
+	},
+	"luck": {
+		"title": "+3% chance de sorte",
+		"description": "Este atributo aumenta a sorte e chance de coisas boas acontecerem.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/luck.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 0.03,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "urcxzwbh0nhzmoqh"
+		}
+	},
+	"melee_damage": {
+		"title": "+2,5% de dano corpo-a-corpo",
+		"description": "Este atributo aumenta seu dano corpo a corpo.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/melee_damage.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.025,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "jmats455p1ufs9h2"
+		}
+	},
+	"sprint_speed": {
+		"title": "+2% de velôcidade de corrida",
+		"description": "Este atributo aumenta a velôcidade de movimento.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/sprint_speed.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.sprinting_speed",
+					"value": 0.02,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "l1ymydr9rq4gjgt3"
+		}
+	},
+	"stamina": {
+		"title": "+2,5% de estamina",
+		"description": "Este atributo aumenta saturação do seu personagem.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/stamina.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.025,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "nrvjzql28fkve9i1"
+		}
+	},
+	"stamina_regen": {
+		"title": "+2% de regeneração de stamina",
+		"description": "Este atributo aumenta a regeneração da sua estamina de combate.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/stamina_regen.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "epicfight:stamina_regen",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "dg8r0w50akqex7fp"
+		}
+	},
+	"staminar": {
+		"title": "+5% de estamina de combate",
+		"description": "Este atributo aumenta o seu total de estamina de combate.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/staminar.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "epicfight:staminar",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "w8r34bu6ai3cneqs"
+		}
+	},
+	"stealth": {
+		"title": "+0,5 de furtividade",
+		"description": "Este atributo aumenta o furtividade geral do seu personagem.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/stealth.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "footwork:stealth",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "n6n1psig4pe3el5v"
+		}
+	},
+	"stun_armor": {
+		"title": "+0,6 de resistencia atordoamento",
+		"description": "Este atributo aumenta a resistência a atordoamento do seu personagem.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/stun_armor.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "epicfight:stun_armor",
+					"value": 0.6,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "p0kye8lfmwi9q990"
+		}
+	},
+	"experience_gained": {
+		"title": "+5% de experiencia ganha",
+		"description": "Este atributo aumenta a quantidade de experiência ganha pelo seu personagem.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/blade.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/xp.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:experience_gained",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "4wyipcdbcz0hn78w"
+		}
+	}
+}

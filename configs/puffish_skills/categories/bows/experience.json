@@ -1,0 +1,60 @@
+{
+    "experience_per_level": {
+        "type": "expression",
+        "data": {
+            "expression": "min(level ^ 1.632 + 20, 800)"
+        }
+    },
+    "sources": [
+        {
+            "type": "puffish_skills:kill_entity",
+            "data": {
+                "conditions": {
+                    "wom_ender_blaster": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:ender_blaster"
+                        }
+                    },
+                    "minecraft_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "minecraft:bow"
+                        }
+                    },
+                    "minecraft_crossbow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "minecraft:crossbow"
+                        }
+                    },
+                    "alexcaves_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "alexscaves:dreadbow"
+                        }
+                    }
+                },
+                "parameters": {
+                    "dropped_xp": {
+                        "type": "entity_dropped_experience"
+                    },
+                    "max_health": {
+                        "type": "entity_max_health"
+                    }
+                },
+                "experience": [
+                    {
+                        "condition": " alexcaves_bow | wom_ender_blaster | minecraft_bow | minecraft_crossbow",
+                        "expression": "(dropped_xp + max_health) * 0.1"
+                    }
+                ],
+                "anti_farming": {
+                    "enabled": true,
+                    "limit_per_chunk": 30,
+                    "reset_after_seconds": 300
+                }
+            }
+        }
+    ]
+}

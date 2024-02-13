@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Lâminas",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "textures/gui/icons/sword.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/sword-bg.png"
+}

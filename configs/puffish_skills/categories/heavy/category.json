@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Pesadas",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "textures/gui/icons/axe-tab.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/axe-bg.png"
+}

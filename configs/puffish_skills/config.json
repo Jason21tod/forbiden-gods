@@ -1,0 +1,21 @@
+{
+	"version": 1,
+
+	"show_warnings": true,
+
+	"categories": [
+		"blades",
+		"bows",
+		"heavy",
+		"poly",
+		"mining",
+		"fire",
+		"ice",
+		"lightning",
+		"nature",
+		"ender",
+		"blood",
+		"evocation",
+		"holy"
+	]
+}

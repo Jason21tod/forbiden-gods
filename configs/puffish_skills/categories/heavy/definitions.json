@@ -1,0 +1,362 @@
+{"max_health": {
+    "title": "+0,5 Coração",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/max_health.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "generic.max_health",
+                "value": 1,
+                "operation": "addition"
+            }
+        }
+    ]
+},"stamina": {
+    "title": "+2,5% de estamina",
+    "description": "Este atributo aumenta saturação do seu personagem.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/stamina.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "puffish_skills:player.stamina",
+                "value": 0.025,
+                "operation": "multiply_total"
+            }
+        }
+    ]
+},
+"luck": {
+    "title": "+3% chance de sorte",
+    "description": "Este atributo aumenta a sorte e chance de coisas boas acontecerem.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/luck.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "minecraft:generic.luck",
+                "value": 0.03,
+                "operation": "addition"
+            }
+        }
+    ]
+},
+"staminar": {
+    "title": "+5% de estamina de combate",
+    "description": "Este atributo aumenta o seu total de estamina de combate.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/staminar.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "epicfight:staminar",
+                "value": 0.05,
+                "operation": "multiply_total"
+            }
+        }
+    ]
+},
+"experience_gained": {
+    "title": "+5% de experiencia ganha",
+    "description": "Este atributo aumenta a quantidade de experiência ganha pelo seu personagem.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/xp.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "attributeslib:experience_gained",
+                "value": 0.05,
+                "operation": "addition"
+            }
+        }
+    ]
+},
+"weight": {
+    "title": "-10% de peso",
+    "description": "Este atributo diminui o peso do seu personagem, tornando ele mais rápido.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/weight.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "epicfight:weight",
+                "value": -0.1,
+                "operation": "multiply_total"
+            }
+        }
+    ]
+},
+"armor_pierce": {
+    "title": "+0,5 de perfuração de armadura",
+    "description": "Este atributo reduz a armadura do alvo diretamente.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/armor_negation.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "attributeslib:armor_pierce",
+                "value": 0.5,
+                "operation": "addition"
+            }
+        }
+    ]
+},
+"melee_damage": {
+    "title": "+2,5% de dano corpo-a-corpo",
+    "description": "Este atributo aumenta seu dano corpo a corpo.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/melee_damage.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "puffish_skills:player.melee_damage",
+                "value": 0.025,
+                "operation": "addition"
+            }
+        }
+    ]
+},
+"stun_armor": {
+    "title": "+0,6 de resistencia atordoamento",
+    "description": "Este atributo aumenta o furtividade geral do seu personagem.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/stun_armor.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "epicfight:stun_armor",
+                "value": 0.6,
+                "operation": "addition"
+            }
+        }
+    ]
+},
+"prot_pierce": {
+    "title": "+0,5 de perfuração de proteção",
+    "description": "Este atributo aumenta a perfuração de entidades que possuam proteção.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/prot_pierce.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "attributeslib:prot_pierce",
+                "value": 0.5,
+                "operation": "addition"
+            }
+        }
+    ]
+},
+"armor_negation": {
+    "title": "+5% de negação de armadura",
+    "description": "Este atributo reduz a armadura do alvo em porcentagem.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/armor_negation.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "epicfight:armor_negation",
+                "value": 0.05,
+                "operation": "multiply_total"
+            }
+        }
+    ]
+},
+"offhand_armor_negation": {
+    "title": "+3% de negação de armadura da mão secundária",
+    "description": "Este atributo aumenta a negação de armadura da arma na mão secundária.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/offhand_armor_negation.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "epicfight:offhand_armor_negation",
+                "value": 0.03,
+                "operation": "addition"
+            }
+        }
+    ]
+},
+"resistance": {
+    "title": "+2% de resistência",
+    "description": "Este atributo aumenta sua resistência.",
+    "frame": {
+        "type": "texture",
+        "data": {
+            "unlocked": "textures/gui/frames/unlocked/base_axe.png",
+            "available": "textures/gui/frames/available.png",
+            "excluded": "textures/gui/frames/excluded.png"
+        }
+    },
+    "icon": {
+        "type": "texture",
+        "data": {
+            "texture": "textures/gui/skills/resistance.png"
+        }
+    },
+    "rewards": [
+        {
+            "type": "puffish_skills:attribute",
+            "data": {
+                "attribute": "puffish_skills:player.resistance",
+                "value": 0.02,
+                "operation": "addition"
+            }
+        }
+    ]
+}}

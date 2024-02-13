@@ -1,0 +1,464 @@
+{
+	"kuh7fvzf8bbhu9wg": {
+		"definition": "max_health",
+		"x": -384,
+		"y": 0,
+		"root": false
+	},
+	"9hxtpyz0d00p72xp": {
+		"definition": "max_health",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"mucomi2yuceocj2j": {
+		"definition": "max_health",
+		"x": -192,
+		"y": 480,
+		"root": false
+	},
+	"lqg7pjsmtow98dqu": {
+		"definition": "max_health",
+		"x": -160,
+		"y": 384,
+		"root": false
+	},
+	"bq6uj40bsp44069y": {
+		"definition": "max_health",
+		"x": -128,
+		"y": -416,
+		"root": false
+	},
+	"5a4wo9a39alqs3ic": {
+		"definition": "max_health",
+		"x": -192,
+		"y": -480,
+		"root": false
+	},
+	"lbmivdo667j908qj": {
+		"definition": "max_health",
+		"x": -32,
+		"y": 416,
+		"root": false
+	},
+	"oh0j6bd6jq6e6c1s": {
+		"definition": "max_health",
+		"x": -32,
+		"y": 608,
+		"root": false
+	},
+	"12hgkccowz8crg4s": {
+		"definition": "max_health",
+		"x": -32,
+		"y": 800,
+		"root": false
+	},
+	"aghtnjafoe3g19bz": {
+		"definition": "max_health",
+		"x": -32,
+		"y": 704,
+		"root": false
+	},
+	"q16fl4p4zdurs7jm": {
+		"definition": "stamina",
+		"x": -352,
+		"y": 128,
+		"root": false
+	},
+	"4q4jnsxa81y7r6ij": {
+		"definition": "stamina",
+		"x": 352,
+		"y": 128,
+		"root": false
+	},
+	"blzsss6zlvnspbq3": {
+		"definition": "stamina",
+		"x": -32,
+		"y": 512,
+		"root": false
+	},
+	"5d0ld2mrw03j2n4j": {
+		"definition": "stamina",
+		"x": 32,
+		"y": 512,
+		"root": false
+	},
+	"qsb8ui91im0heuj5": {
+		"definition": "luck",
+		"x": -384,
+		"y": -128,
+		"root": false
+	},
+	"va9cca1vdu2zxvm5": {
+		"definition": "luck",
+		"x": 384,
+		"y": -128,
+		"root": false
+	},
+	"bg9it7p2ffm8ylee": {
+		"definition": "staminar",
+		"x": -320,
+		"y": 224,
+		"root": false
+	},
+	"9hho1tjrcik7sz8s": {
+		"definition": "staminar",
+		"x": -320,
+		"y": 384,
+		"root": false
+	},
+	"s3cemgfnoaexcrsg": {
+		"definition": "staminar",
+		"x": -448,
+		"y": -256,
+		"root": false
+	},
+	"zhfnowdxw69dio7a": {
+		"definition": "staminar",
+		"x": -384,
+		"y": -384,
+		"root": false
+	},
+	"8odey64oglqr0fop": {
+		"definition": "staminar",
+		"x": 32,
+		"y": 416,
+		"root": false
+	},
+	"u4pclvr7ls3fyo8r": {
+		"definition": "staminar",
+		"x": 256,
+		"y": 64,
+		"root": false
+	},
+	"rddk0uhdgdoe6nf4": {
+		"definition": "staminar",
+		"x": 480,
+		"y": 0,
+		"root": false
+	},
+	"s11qpo0tkfkhhsd4": {
+		"definition": "experience_gained",
+		"x": 320,
+		"y": 256,
+		"root": false
+	},
+	"8iwexf654ioz2drz": {
+		"definition": "experience_gained",
+		"x": 448,
+		"y": -256,
+		"root": false
+	},
+	"13240n38qwx1dm78": {
+		"definition": "weight",
+		"x": 384,
+		"y": 352,
+		"root": false
+	},
+	"sfawab66dk0e0377": {
+		"definition": "weight",
+		"x": -480,
+		"y": -128,
+		"root": false
+	},
+	"io65nvs45f6lrean": {
+		"definition": "weight",
+		"x": -384,
+		"y": 352,
+		"root": false
+	},
+	"dfbj6x8kr4icok1q": {
+		"definition": "armor_pierce",
+		"x": 96,
+		"y": 0,
+		"root": true
+	},
+	"jier6ionanjhzqqx": {
+		"definition": "armor_pierce",
+		"x": 128,
+		"y": 256,
+		"root": false
+	},
+	"7vr85mivg3z5fnxm": {
+		"definition": "armor_pierce",
+		"x": 128,
+		"y": -256,
+		"root": false
+	},
+	"53g0papwffgha00h": {
+		"definition": "armor_pierce",
+		"x": 192,
+		"y": 480,
+		"root": false
+	},
+	"tmgpr8w9x5y7163k": {
+		"definition": "armor_pierce",
+		"x": 32,
+		"y": 800,
+		"root": false
+	},
+	"pilvubt8rywyt5nh": {
+		"definition": "armor_pierce",
+		"x": 32,
+		"y": 608,
+		"root": false
+	},
+	"g03wspe0l60xruk2": {
+		"definition": "armor_pierce",
+		"x": 32,
+		"y": 704,
+		"root": false
+	},
+	"yieyqz653dfveazj": {
+		"definition": "armor_pierce",
+		"x": 256,
+		"y": -192,
+		"root": false
+	},
+	"7sfedcxlr2ff56z0": {
+		"definition": "armor_pierce",
+		"x": 224,
+		"y": 224,
+		"root": false
+	},
+	"0iztwy3hxk0fa5fp": {
+		"definition": "armor_pierce",
+		"x": 160,
+		"y": 384,
+		"root": false
+	},
+	"zoq0idrbwefg114p": {
+		"definition": "armor_pierce",
+		"x": 128,
+		"y": -416,
+		"root": false
+	},
+	"bb9vbwiqp3kpmb9z": {
+		"definition": "armor_pierce",
+		"x": 192,
+		"y": -480,
+		"root": false
+	},
+	"j3m3a0mdrue85z8q": {
+		"definition": "melee_damage",
+		"x": -96,
+		"y": 0,
+		"root": true
+	},
+	"ak2g2279zv1sccta": {
+		"definition": "melee_damage",
+		"x": -128,
+		"y": 256,
+		"root": false
+	},
+	"z1l6435bx17r9ygr": {
+		"definition": "melee_damage",
+		"x": -128,
+		"y": -256,
+		"root": false
+	},
+	"pu3p6iqjj1tszlpz": {
+		"definition": "melee_damage",
+		"x": -320,
+		"y": -320,
+		"root": false
+	},
+	"00ffwdqtrq5gk7n3": {
+		"definition": "melee_damage",
+		"x": -256,
+		"y": 320,
+		"root": false
+	},
+	"g7pgikixx1txyqtu": {
+		"definition": "melee_damage",
+		"x": -256,
+		"y": -192,
+		"root": false
+	},
+	"ore1k2yq0ff9lbc7": {
+		"definition": "stun_armor",
+		"x": -288,
+		"y": 512,
+		"root": false
+	},
+	"zp0lh5l8znt99zub": {
+		"definition": "stun_armor",
+		"x": -288,
+		"y": -512,
+		"root": false
+	},
+	"x2ylw216rr31cl4g": {
+		"definition": "stun_armor",
+		"x": 288,
+		"y": 512,
+		"root": false
+	},
+	"tp62ylycm35bzzv6": {
+		"definition": "stun_armor",
+		"x": 288,
+		"y": -512,
+		"root": false
+	},
+	"nismou1gpoxkbuqc": {
+		"definition": "stun_armor",
+		"x": -224,
+		"y": 608,
+		"root": false
+	},
+	"jay7wk9ib2a920ho": {
+		"definition": "stun_armor",
+		"x": 256,
+		"y": 608,
+		"root": false
+	},
+	"wne7l56m9tvtaeew": {
+		"definition": "stun_armor",
+		"x": -224,
+		"y": -608,
+		"root": false
+	},
+	"54l340um2311hjcv": {
+		"definition": "stun_armor",
+		"x": 224,
+		"y": -608,
+		"root": false
+	},
+	"zofbxy8nwnhuilga": {
+		"definition": "stun_armor",
+		"x": -448,
+		"y": 128,
+		"root": false
+	},
+	"zfupwnoe7gjzpgtc": {
+		"definition": "stun_armor",
+		"x": -480,
+		"y": 0,
+		"root": false
+	},
+	"7xcnwuvn6d7isucj": {
+		"definition": "prot_pierce",
+		"x": 384,
+		"y": -384,
+		"root": false
+	},
+	"zcl36r0edtqduhw5": {
+		"definition": "prot_pierce",
+		"x": 320,
+		"y": 384,
+		"root": false
+	},
+	"e52fid0dbpwwwaxa": {
+		"definition": "prot_pierce",
+		"x": 0,
+		"y": 768,
+		"root": false
+	},
+	"sewgypinxl72l9tt": {
+		"definition": "prot_pierce",
+		"x": 224,
+		"y": -320,
+		"root": false
+	},
+	"ny8mhew3x13li174": {
+		"definition": "prot_pierce",
+		"x": 256,
+		"y": -416,
+		"root": false
+	},
+	"pu5bzsge9d5jrqfv": {
+		"definition": "armor_negation",
+		"x": -64,
+		"y": 128,
+		"root": false
+	},
+	"pbhbyjjcb6zy1k45": {
+		"definition": "armor_negation",
+		"x": -96,
+		"y": -128,
+		"root": false
+	},
+	"en4psej6bkt1h1z2": {
+		"definition": "armor_negation",
+		"x": -64,
+		"y": 352,
+		"root": false
+	},
+	"vh6paboatwjsncjp": {
+		"definition": "armor_negation",
+		"x": -64,
+		"y": -320,
+		"root": false
+	},
+	"65klelv4y1de91lf": {
+		"definition": "armor_negation",
+		"x": 320,
+		"y": -320,
+		"root": false
+	},
+	"ieu1tr332zc8m3cg": {
+		"definition": "offhand_armor_negation",
+		"x": 64,
+		"y": 128,
+		"root": false
+	},
+	"r14ze2ywcfau61xg": {
+		"definition": "offhand_armor_negation",
+		"x": 96,
+		"y": -128,
+		"root": false
+	},
+	"0so8vjqf5artn6w4": {
+		"definition": "offhand_armor_negation",
+		"x": 64,
+		"y": -320,
+		"root": false
+	},
+	"zn6pmdnpn1dw81g0": {
+		"definition": "offhand_armor_negation",
+		"x": 64,
+		"y": 352,
+		"root": false
+	},
+	"y6nw867ap9bk16z1": {
+		"definition": "offhand_armor_negation",
+		"x": 256,
+		"y": 320,
+		"root": false
+	},
+	"20r3qy593w9j5u4y": {
+		"definition": "resistance",
+		"x": -224,
+		"y": -320,
+		"root": false
+	},
+	"uotdpe6y1a11qs6e": {
+		"definition": "resistance",
+		"x": -288,
+		"y": 64,
+		"root": false
+	},
+	"ov2sgmtjvz6eempl": {
+		"definition": "resistance",
+		"x": -224,
+		"y": 224,
+		"root": false
+	},
+	"1elfu3jyvdw8qume": {
+		"definition": "resistance",
+		"x": -256,
+		"y": -416,
+		"root": false
+	},
+	"g4pq96xzpolb9n5g": {
+		"definition": "resistance",
+		"x": 480,
+		"y": -128,
+		"root": false
+	},
+	"2vmvdfyakt5gztic": {
+		"definition": "resistance",
+		"x": 448,
+		"y": 128,
+		"root": false
+	}
+}

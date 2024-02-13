@@ -1,0 +1,373 @@
+{
+	"max_health": {
+		"title": "+0,5 Coração",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/max_health.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "syvldhtx8y6xnx31"
+		}
+	},
+	"stamina": {
+		"title": "+2,5% de estamina",
+		"description": "Este atributo aumenta saturação do seu personagem.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/stamina.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.025,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "t7r5cnh27y7my8dn"
+		}
+	},
+	"luck": {
+		"title": "+3% chance de sorte",
+		"description": "Este atributo aumenta a sorte e chance de coisas boas acontecerem.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/luck.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 0.03,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "u6tm5uequkxuuam0"
+		}
+	},
+	"staminar": {
+		"title": "+5% de estamina de combate",
+		"description": "Este atributo aumenta o seu total de estamina de combate.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/staminar.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "epicfight:staminar",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "6v258d8o1t2tk06e"
+		}
+	},
+	"experience_gained": {
+		"title": "+5% de experiencia ganha",
+		"description": "Este atributo aumenta a quantidade de experiência ganha pelo seu personagem.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/xp.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:experience_gained",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "7sr6oonsm8v8h6rm"
+		}
+	},
+	"draw_speed": {
+		"title": "+5% velôcidade da puxada",
+		"description": "Este atributo aumenta a velôcidade de preparação de arcos e bestas.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/drawn_speed.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:draw_speed",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "t1pjr1sd4xe11idj"
+		}
+	},
+	"arrow_velocity": {
+		"title": "+5% de velôcidade da flecha",
+		"description": "Este atributo aumenta a velocidade dos projéteis disparados por você.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/arrow_speed.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:arrow_velocity",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "mbyeywgu9ynr452i"
+		}
+	},
+	"crit_damage": {
+		"title": "+5% dano crítico",
+		"description": "Este atributo aumenta o dano de seus ataques críticos.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/crit_damage.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:crit_damage",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "zzfjvpkb2h6ctgkm"
+		}
+	},
+	"crit_chance": {
+		"title": "+2,5% chance de crítico",
+		"description": "Este atributo aumenta a chance dos seus ataques serem um acerto crítico.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/crit_chance.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:crit_chance",
+					"value": 0.025,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "to907xjx1ax8ewx9"
+		}
+	},
+	"stamina_regen": {
+		"title": "+2% de regeneração de stamina",
+		"description": "Este atributo aumenta a regeneração da sua estamina de combate.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/stamina_regen.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "epicfight:stamina_regen",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "rss3z3yu2vhc0krk"
+		}
+	},
+	"sprint_speed": {
+		"title": "+2% de velôcidade de corrida",
+		"description": "Este atributo aumenta a velôcidade de movimento.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/sprint_speed.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.sprinting_speed",
+					"value": 0.02,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "opx3udd3bx7jphlv"
+		}
+	},
+	"stealth": {
+		"title": "+0,5 de furtividade",
+		"description": "Este atributo aumenta o furtividade geral do seu personagem.",
+		"frame": {
+			"type": "texture",
+			"data": {
+				"unlocked": "textures/gui/frames/unlocked/base_bows.png",
+				"available": "textures/gui/frames/available.png",
+				"excluded": "textures/gui/frames/excluded.png"
+			}
+		},
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/gui/skills/stealth.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "footwork:stealth",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "t90942hdwbrpbrbh"
+		}
+	}
+}

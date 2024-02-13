@@ -1,0 +1,548 @@
+{
+	"tyjbx6wvh5arx9hl": {
+		"definition": "max_health",
+		"x": -64,
+		"y": 256,
+		"root": false
+	},
+	"20rtuh6v5dhvy3z0": {
+		"definition": "stamina_regen",
+		"x": -256,
+		"y": 0,
+		"root": false
+	},
+	"qbpvauy76d5cc5k5": {
+		"definition": "max_health",
+		"x": -256,
+		"y": 320,
+		"root": false
+	},
+	"6dz6pcgingojaq0v": {
+		"definition": "max_health",
+		"x": 256,
+		"y": -320,
+		"root": false
+	},
+	"emzhtr6995f1t78u": {
+		"definition": "max_health",
+		"x": 0,
+		"y": 384,
+		"root": false
+	},
+	"9p6qtrdzwkufxl6b": {
+		"definition": "max_health",
+		"x": 224,
+		"y": -384,
+		"root": false
+	},
+	"yyjefpbxx25v8qa2": {
+		"definition": "attack_speed",
+		"x": 64,
+		"y": 128,
+		"root": false
+	},
+	"6n63mpig6aqzp71l": {
+		"definition": "attack_speed",
+		"x": 64,
+		"y": -128,
+		"root": false
+	},
+	"tdibn6dk8nhw7bw0": {
+		"definition": "attack_speed",
+		"x": -192,
+		"y": 192,
+		"root": false
+	},
+	"6z2nhjosguyzymuj": {
+		"definition": "attack_speed",
+		"x": 128,
+		"y": 256,
+		"root": false
+	},
+	"5e3v7kib3exbc8q7": {
+		"definition": "attack_speed",
+		"x": 192,
+		"y": 192,
+		"root": false
+	},
+	"172nov7qr4kailbe": {
+		"definition": "crit_chance",
+		"x": 0,
+		"y": 64,
+		"root": true
+	},
+	"4og9s2co36rcqevr": {
+		"definition": "crit_chance",
+		"x": -64,
+		"y": -192,
+		"root": false
+	},
+	"e33m1toy02lr8r43": {
+		"definition": "crit_chance",
+		"x": 64,
+		"y": 256,
+		"root": false
+	},
+	"icf0a67j61w8yd92": {
+		"definition": "crit_chance",
+		"x": 128,
+		"y": -320,
+		"root": false
+	},
+	"rw0bwkz2w62vxcyr": {
+		"definition": "crit_chance",
+		"x": 224,
+		"y": 384,
+		"root": false
+	},
+	"gtstyare64itqgmo": {
+		"definition": "crit_chance",
+		"x": 320,
+		"y": 288,
+		"root": false
+	},
+	"0h4f288g1z5owbnt": {
+		"definition": "crit_chance",
+		"x": 384,
+		"y": -448,
+		"root": false
+	},
+	"5re2beybmkht7bh5": {
+		"definition": "crit_chance",
+		"x": -320,
+		"y": -64,
+		"root": false
+	},
+	"jtgbb5lmoqjv5div": {
+		"definition": "attack_speed",
+		"x": 192,
+		"y": -128,
+		"root": false
+	},
+	"g6flo3ic783y9via": {
+		"definition": "crit_damage",
+		"x": -64,
+		"y": -128,
+		"root": false
+	},
+	"vpuxld152g6sogmy": {
+		"definition": "crit_damage",
+		"x": -128,
+		"y": -192,
+		"root": false
+	},
+	"ug3vf7fzojvu1nw8": {
+		"definition": "crit_damage",
+		"x": 0,
+		"y": 320,
+		"root": false
+	},
+	"g7gy1123mw3c6pb3": {
+		"definition": "crit_damage",
+		"x": 0,
+		"y": -320,
+		"root": false
+	},
+	"p6tgqkgnwuxqc912": {
+		"definition": "crit_damage",
+		"x": -320,
+		"y": 64,
+		"root": false
+	},
+	"e64svfs4pmhpuqol": {
+		"definition": "healing",
+		"x": -128,
+		"y": 128,
+		"root": false
+	},
+	"0sgzz1656qvpckmg": {
+		"definition": "healing",
+		"x": -256,
+		"y": 192,
+		"root": false
+	},
+	"xbarwwo861gnp8na": {
+		"definition": "healing",
+		"x": -128,
+		"y": 320,
+		"root": false
+	},
+	"hifqaem89a38lhpr": {
+		"definition": "healing",
+		"x": -128,
+		"y": 384,
+		"root": false
+	},
+	"rsog08supv943mlj": {
+		"definition": "luck",
+		"x": -192,
+		"y": -128,
+		"root": false
+	},
+	"x5hp6zs5kplr87g3": {
+		"definition": "luck",
+		"x": -192,
+		"y": -256,
+		"root": false
+	},
+	"c0or15sb8x6oznlg": {
+		"definition": "luck",
+		"x": -256,
+		"y": -192,
+		"root": false
+	},
+	"39bej7q97t3xvbwt": {
+		"definition": "melee_damage",
+		"x": 0,
+		"y": -64,
+		"root": true
+	},
+	"3rl3bvkj7fpslxge": {
+		"definition": "melee_damage",
+		"x": 128,
+		"y": 192,
+		"root": false
+	},
+	"qgv6bwlxvigylyx2": {
+		"definition": "melee_damage",
+		"x": 128,
+		"y": -192,
+		"root": false
+	},
+	"7225yk74i6za1he6": {
+		"definition": "melee_damage",
+		"x": 192,
+		"y": 256,
+		"root": false
+	},
+	"7ci9mur3to11k900": {
+		"definition": "melee_damage",
+		"x": -192,
+		"y": 256,
+		"root": false
+	},
+	"e19ypmtwve7n2ii5": {
+		"definition": "melee_damage",
+		"x": 192,
+		"y": -256,
+		"root": false
+	},
+	"iowny17124holw9f": {
+		"definition": "melee_damage",
+		"x": 192,
+		"y": -192,
+		"root": false
+	},
+	"jxwm04i413m1fnyq": {
+		"definition": "sprint_speed",
+		"x": -192,
+		"y": 128,
+		"root": false
+	},
+	"hp6vid46rafl84c4": {
+		"definition": "sprint_speed",
+		"x": 192,
+		"y": 128,
+		"root": false
+	},
+	"haj858upea8nnsoa": {
+		"definition": "sprint_speed",
+		"x": 256,
+		"y": 320,
+		"root": false
+	},
+	"u2gyeik1wagei6gd": {
+		"definition": "sprint_speed",
+		"x": 128,
+		"y": 384,
+		"root": false
+	},
+	"tecwna1erqh88pl7": {
+		"definition": "sprint_speed",
+		"x": -320,
+		"y": -192,
+		"root": false
+	},
+	"sarufb81s9gfs3an": {
+		"definition": "sprint_speed",
+		"x": 320,
+		"y": 384,
+		"root": false
+	},
+	"coijwryck3kpgchp": {
+		"definition": "sprint_speed",
+		"x": 384,
+		"y": 448,
+		"root": false
+	},
+	"h78vst0rakatkmrw": {
+		"definition": "sprint_speed",
+		"x": -320,
+		"y": 0,
+		"root": false
+	},
+	"25xeftui5eamz0rv": {
+		"definition": "stamina",
+		"x": 128,
+		"y": 128,
+		"root": false
+	},
+	"lux8mqmwnon4huze": {
+		"definition": "stamina",
+		"x": 128,
+		"y": 320,
+		"root": false
+	},
+	"4eycybau08x2rszh": {
+		"definition": "stamina",
+		"x": -256,
+		"y": 64,
+		"root": false
+	},
+	"rwekwr3ytz4i4f2h": {
+		"definition": "stamina",
+		"x": 320,
+		"y": 192,
+		"root": false
+	},
+	"ay73neo1tey2pwpj": {
+		"definition": "stamina_regen",
+		"x": 64,
+		"y": -192,
+		"root": false
+	},
+	"0ty4v0gt3ke4aho4": {
+		"definition": "stamina_regen",
+		"x": 256,
+		"y": -192,
+		"root": false
+	},
+	"gc82w1udy51nxdih": {
+		"definition": "stamina_regen",
+		"x": 256,
+		"y": 64,
+		"root": false
+	},
+	"eucdzkbcp3pne7qc": {
+		"definition": "stamina_regen",
+		"x": -320,
+		"y": 192,
+		"root": false
+	},
+	"3sqsbq6t9opo8ruo": {
+		"definition": "stamina_regen",
+		"x": -128,
+		"y": -384,
+		"root": false
+	},
+	"lcncqxswh08c7kwc": {
+		"definition": "staminar",
+		"x": -128,
+		"y": 192,
+		"root": false
+	},
+	"lmklgn6k09dgyugh": {
+		"definition": "staminar",
+		"x": -128,
+		"y": -320,
+		"root": false
+	},
+	"6gnwf7tq1smjx4gy": {
+		"definition": "staminar",
+		"x": 128,
+		"y": -256,
+		"root": false
+	},
+	"x6cpmzg4dajp1zfs": {
+		"definition": "stealth",
+		"x": -128,
+		"y": -128,
+		"root": false
+	},
+	"s2wrt5xiu8edzegf": {
+		"definition": "stealth",
+		"x": -128,
+		"y": -256,
+		"root": false
+	},
+	"eqe9ljjjh3u7sibe": {
+		"definition": "stealth",
+		"x": -192,
+		"y": -192,
+		"root": false
+	},
+	"y8dtqvbgpdnmbbeb": {
+		"definition": "stealth",
+		"x": 64,
+		"y": -256,
+		"root": false
+	},
+	"oeohocssawanga6z": {
+		"definition": "stealth",
+		"x": -320,
+		"y": -384,
+		"root": false
+	},
+	"oaxuwalii2pmx27k": {
+		"definition": "stealth",
+		"x": -320,
+		"y": -288,
+		"root": false
+	},
+	"qgn61s1rarepgyoz": {
+		"definition": "stealth",
+		"x": -224,
+		"y": -384,
+		"root": false
+	},
+	"sf2qsw1d9cyptg01": {
+		"definition": "stealth",
+		"x": -384,
+		"y": -448,
+		"root": false
+	},
+	"3fk2qx75rml9wmh7": {
+		"definition": "stun_armor",
+		"x": -64,
+		"y": 128,
+		"root": false
+	},
+	"kkaaamnv43jsdods": {
+		"definition": "stun_armor",
+		"x": -128,
+		"y": 256,
+		"root": false
+	},
+	"zy9thpbgbwjzhneq": {
+		"definition": "stun_armor",
+		"x": 256,
+		"y": 0,
+		"root": false
+	},
+	"o2bkjo1j0hhqo741": {
+		"definition": "stun_armor",
+		"x": 320,
+		"y": -384,
+		"root": false
+	},
+	"9tg545zcsqubc6ro": {
+		"definition": "stun_armor",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"da7gxri2y9of3cbc": {
+		"definition": "stun_armor",
+		"x": -224,
+		"y": 384,
+		"root": false
+	},
+	"up29ez0qim2qnuat": {
+		"definition": "stun_armor",
+		"x": -320,
+		"y": 288,
+		"root": false
+	},
+	"hyn0dono7gjwexs4": {
+		"definition": "stun_armor",
+		"x": -320,
+		"y": 384,
+		"root": false
+	},
+	"j0becavnima9jh2y": {
+		"definition": "stun_armor",
+		"x": -384,
+		"y": 448,
+		"root": false
+	},
+	"57gjj9ekr8db24hd": {
+		"definition": "stun_armor",
+		"x": 320,
+		"y": -288,
+		"root": false
+	},
+	"p4ft474u3pppytq0": {
+		"definition": "experience_gained",
+		"x": 128,
+		"y": -128,
+		"root": false
+	},
+	"r9pxv4vxxxvzwn6p": {
+		"definition": "experience_gained",
+		"x": 256,
+		"y": 192,
+		"root": false
+	},
+	"vmverxc5u3krv94c": {
+		"definition": "dodge_chance",
+		"x": 64,
+		"y": 192,
+		"root": false
+	},
+	"dmzcdnkuhuquv35w": {
+		"definition": "dodge_chance",
+		"x": -64,
+		"y": -256,
+		"root": false
+	},
+	"90nia9tdkhwx8xcu": {
+		"definition": "dodge_chance",
+		"x": -256,
+		"y": -320,
+		"root": false
+	},
+	"q4cu8p3q5nrbozsw": {
+		"definition": "dodge_chance",
+		"x": 256,
+		"y": -64,
+		"root": false
+	},
+	"p7yehbaoathxywef": {
+		"definition": "dodge_chance",
+		"x": -256,
+		"y": -64,
+		"root": false
+	},
+	"dtfdc5thchd0ri4l": {
+		"definition": "dodge_chance",
+		"x": 128,
+		"y": -384,
+		"root": false
+	},
+	"tz7rjc9e2dyop237": {
+		"definition": "dodge_chance",
+		"x": 320,
+		"y": -192,
+		"root": false
+	},
+	"wljeh0hvajj80wau": {
+		"definition": "stamina_regen",
+		"x": -64,
+		"y": 192,
+		"root": false
+	},
+	"pa41ubwe6f8rqajo": {
+		"definition": "sprint_speed",
+		"x": 320,
+		"y": -64,
+		"root": false
+	},
+	"3dqllody9hkb00dn": {
+		"definition": "sprint_speed",
+		"x": 320,
+		"y": 64,
+		"root": false
+	},
+	"blx3ejqq4q7rz2z9": {
+		"definition": "crit_damage",
+		"x": 320,
+		"y": 0,
+		"root": false
+	},
+	"jzjokn6m2cqcx25x": {
+		"definition": "melee_damage",
+		"x": 128,
+		"y": 0,
+		"root": false
+	}
+}

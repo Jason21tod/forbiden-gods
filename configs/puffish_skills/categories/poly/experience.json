@@ -1,0 +1,469 @@
+{
+    "experience_per_level": {
+        "type": "expression",
+        "data": {
+            "expression": "min(level ^ 1.632 + 20, 800)"
+        }
+    },
+    "sources": [
+        {
+            "type": "puffish_skills:kill_entity",
+            "data": {
+
+                "conditions": {
+                    "minecraft_trident": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "minecraft:trident"
+                        }
+                    },
+                    "cataclysm_coral_bardiche": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "cataclysm:coral_bardiche"
+                        }
+                    },
+                    "cataclysm_coral_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "cataclysm:coral_spear"
+                        }
+                    },
+                    "epicfight_diamond_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:diamond_spear"
+                        }
+                    },
+                    "epicfight_golden_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:golden_spear"
+                        }
+                    },
+                    "epicfight_iron_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:iron_spear"
+                        }
+                    },
+                    "epicfight_netherite_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:netherite_spear"
+                        }
+                    },
+                    "epicfight_stone_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:stone_spear"
+                        }
+                    },
+                    "magistuarmory_bronze_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_bronze_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_guisarme"
+                        }
+                    },
+                    "magistuarmory_bronze_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_pike"
+                        }
+                    },
+                    "magistuarmory_copper_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_copper_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_guisarme"
+                        }
+                    },
+                    "magistuarmory_copper_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_pike"
+                        }
+                    },
+                    "magistuarmory_diamond_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_diamond_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_guisarme"
+                        }
+                    },
+                    "magistuarmory_diamond_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_pike"
+                        }
+                    },
+                    "magistuarmory_gold_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_gold_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_guisarme"
+                        }
+                    },
+                    "magistuarmory_gold_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_pike"
+                        }
+                    },
+                    "magistuarmory_iron_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_iron_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_guisarme"
+                        }
+                    },
+                    "magistuarmory_iron_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_pike"
+                        }
+                    },
+                    "magistuarmory_netherite_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_netherite_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_guisarme"
+                        }
+                    },
+                    "magistuarmory_netherite_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_pike"
+                        }
+                    },
+                    "magistuarmory_silver_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_silver_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_guisarme"
+                        }
+                    },
+                    "magistuarmory_silver_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_pike"
+                        }
+                    },
+                    "magistuarmory_steel_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_steel_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_guisarme"
+                        }
+                    },
+                    "magistuarmory_steel_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_pike"
+                        }
+                    },
+                    "magistuarmory_stone_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_stone_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_guisarme"
+                        }
+                    },
+                    "magistuarmory_stone_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_pike"
+                        }
+                    },
+                    "magistuarmory_tin_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_tin_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_guisarme"
+                        }
+                    },
+                    "magistuarmory_tin_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_pike"
+                        }
+                    },
+                    "magistuarmory_wood_concavehalberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_concavehalberd"
+                        }
+                    },
+                    "magistuarmory_wood_guisarme": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_guisarme"
+                        }
+                    },
+                    "magistuarmory_wood_pike": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_pike"
+                        }
+                    },
+                    "simplyswords_arcanethyst": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:arcanethyst"
+                        }
+                    },
+                    "simplyswords_diamond_glaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_glaive"
+                        }
+                    },
+                    "simplyswords_diamond_halberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_halberd"
+                        }
+                    },
+                    "simplyswords_diamond_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_spear"
+                        }
+                    },
+                    "simplyswords_diamond_warglaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_warglaive"
+                        }
+                    },
+                    "simplyswords_gold_glaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_glaive"
+                        }
+                    },
+                    "simplyswords_gold_halberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_halberd"
+                        }
+                    },
+                    "simplyswords_gold_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_spear"
+                        }
+                    },
+                    "simplyswords_gold_warglaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_warglaive"
+                        }
+                    },
+                    "simplyswords_icewhisper": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:icewhisper"
+                        }
+                    },
+                    "simplyswords_iron_glaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_glaive"
+                        }
+                    },
+                    "simplyswords_iron_halberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_halberd"
+                        }
+                    },
+                    "simplyswords_iron_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_spear"
+                        }
+                    },
+                    "simplyswords_iron_warglaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_warglaive"
+                        }
+                    },
+                    "simplyswords_netherite_glaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_glaive"
+                        }
+                    },
+                    "simplyswords_netherite_halberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_halberd"
+                        }
+                    },
+                    "simplyswords_netherite_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_spear"
+                        }
+                    },
+                    "simplyswords_netherite_warglaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_warglaive"
+                        }
+                    },
+                    "simplyswords_runic_glaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_glaive"
+                        }
+                    },
+                    "simplyswords_runic_halberd": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_halberd"
+                        }
+                    },
+                    "simplyswords_runic_spear": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_spear"
+                        }
+                    },
+                    "simplyswords_runic_warglaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_warglaive"
+                        }
+                    },
+                    "simplyswords_thunderbrand": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:thunderbrand"
+                        }
+                    },
+                    "simplyswords_watching_warglaive": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:watching_warglaive"
+                        }
+                    },
+                    "wom_agony": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:agony"
+                        }
+                    },
+                    "wom_diamond_staff": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:diamond_staff"
+                        }
+                    },
+                    "wom_golden_staff": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:golden_staff"
+                        }
+                    },
+                    "wom_iron_staff": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:iron_staff"
+                        }
+                    },
+                    "wom_netherite_staff": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:netherite_staff"
+                        }
+                    },
+                    "wom_stone_staff": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:stone_staff"
+                        }
+                    },
+                    "wom_wooden_staff": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:wooden_staff"
+                        }
+                    }
+                },
+                "parameters": {
+                    "dropped_xp": {
+                        "type": "entity_dropped_experience"
+                    },
+                    "max_health": {
+                        "type": "entity_max_health"
+                    }
+                },
+                "experience": [
+                    {
+                        "condition": "minecraft_trident | cataclysm_coral_bardiche | cataclysm_coral_spear | cataclysm_coral_spear | epicfight_diamond_spear | epicfight_golden_spear | epicfight_iron_spear | epicfight_netherite_spear | epicfight_stone_spear | magistuarmory_bronze_concavehalberd | magistuarmory_bronze_guisarme | magistuarmory_bronze_pike | magistuarmory_copper_concavehalberd | magistuarmory_copper_guisarme | magistuarmory_copper_pike | magistuarmory_diamond_concavehalberd | magistuarmory_diamond_guisarme | magistuarmory_diamond_pike | magistuarmory_gold_concavehalberd | magistuarmory_gold_guisarme | magistuarmory_gold_pike | magistuarmory_iron_concavehalberd | magistuarmory_iron_guisarme | magistuarmory_iron_pike | magistuarmory_netherite_concavehalberd | magistuarmory_netherite_guisarme | magistuarmory_netherite_pike | magistuarmory_silver_concavehalberd | magistuarmory_silver_guisarme | magistuarmory_silver_pike | magistuarmory_steel_concavehalberd | magistuarmory_steel_guisarme | magistuarmory_steel_pike | magistuarmory_stone_concavehalberd | magistuarmory_stone_guisarme | magistuarmory_stone_pike | magistuarmory_tin_concavehalberd | magistuarmory_tin_guisarme | magistuarmory_tin_pike | magistuarmory_wood_concavehalberd | magistuarmory_wood_guisarme | magistuarmory_wood_pike | simplyswords_arcanethyst | simplyswords_diamond_glaive | simplyswords_diamond_halberd | simplyswords_diamond_spear | simplyswords_diamond_warglaive | simplyswords_gold_glaive | simplyswords_gold_halberd | simplyswords_gold_spear | simplyswords_gold_warglaive | simplyswords_icewhisper | simplyswords_iron_glaive | simplyswords_iron_halberd | simplyswords_iron_spear | simplyswords_iron_warglaive | simplyswords_netherite_glaive | simplyswords_netherite_halberd | simplyswords_netherite_spear | simplyswords_netherite_warglaive | simplyswords_runic_glaive | simplyswords_runic_halberd | simplyswords_runic_spear | simplyswords_runic_warglaive | simplyswords_thunderbrand | simplyswords_watching_warglaive | wom_agony | wom_diamond_staff | wom_golden_staff | wom_iron_staff | wom_netherite_staff | wom_stone_staff | wom_wooden_staff",
+                        "expression": "(dropped_xp + max_health) * 0.1"
+                    }
+                ],
+                "anti_farming": {
+                    "enabled": true,
+                    "limit_per_chunk": 30,
+                    "reset_after_seconds": 300
+                }
+            }
+        }
+    ]
+}

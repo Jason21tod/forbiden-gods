@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Ataque a distância",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "textures/gui/icons/arrow-tab.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/arrow-bg.png"
+}

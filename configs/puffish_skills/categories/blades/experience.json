@@ -1,0 +1,930 @@
+{
+    "experience_per_level": {
+        "type": "expression",
+        "data": {
+            "expression": "min(level ^ 1.632 + 20, 800)"
+        }
+    },
+    "sources": [
+        {
+            "type": "puffish_skills:kill_entity",
+            "data": {
+                "conditions": {
+                    "minecraft_diamond_sword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "minecraft:diamond_sword"
+                            }
+                    },
+                    "minecraft_golden_sword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "minecraft:golden_sword"
+                            }
+                    },
+                    "minecraft_iron_sword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "minecraft:iron_sword"
+                            }
+                    },
+                    "minecraft_stone_sword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "minecraft:stone_sword"
+                            }
+                    },
+                    "cataclysm_the_incinerator": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "cataclysm:the_incinerator"
+                        }
+                    },
+                    "enigmaticlegacy_ender_slayer": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "enigmaticlegacy:ender_slayer"
+                        }
+                    },
+                    "enigmaticlegacy_etherium_scythe": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "enigmaticlegacy:etherium_scythe"
+                        }
+                    },
+                    "enigmaticlegacy_etherium_sword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "enigmaticlegacy:etherium_sword"
+                        }
+                    },
+                    "epicfight_diamond_dagger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:diamond_dagger"
+                        }
+                    },
+                    "epicfight_diamond_greatsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:diamond_greatsword"
+                        }
+                    },
+                    "epicfight_diamond_longsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:diamond_longsword"
+                        }
+                    },
+                    "epicfight_diamond_tachi": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:diamond_tachi"
+                        }
+                    },
+                    "epicfight_golden_dagger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:golden_dagger"
+                        }
+                    },
+                    "epicfight_golden_greatsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:golden_greatsword"
+                        }
+                    },
+                    "epicfight_golden_longsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:golden_longsword"
+                        }
+                    },
+                    "epicfight_golden_tachi": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:golden_tachi"
+                        }
+                    },
+                    "epicfight_iron_dagger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:iron_dagger"
+                        }
+                    },
+                    "epicfight_iron_greatsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:iron_greatsword"
+                        }
+                    },
+                    "epicfight_iron_longsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:iron_longsword"
+                        }
+                    },
+                    "epicfight_iron_tachi": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:iron_tachi"
+                        }
+                    },
+                    "epicfight_netherite_dagger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:netherite_dagger"
+                        }
+                    },
+                    "epicfight_netherite_greatsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:netherite_greatsword"
+                        }
+                    },
+                    "epicfight_netherite_longsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:netherite_longsword"
+                        }
+                    },
+                    "epicfight_netherite_tachi": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:netherite_tachi"
+                        }
+                    },
+                    "epicfight_stone_greatsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:stone_greatsword"
+                        }
+                    },
+                    "epicfight_uchigatana": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "epicfight:uchigatana"
+                        }
+                    },
+                    "magistuarmory_bronze_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_bastardsword"
+                        }
+                    },
+                    "magistuarmory_bronze_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_claymore"
+                        }
+                    },
+                    "magistuarmory_bronze_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_estoc"
+                        }
+                    },
+                    "magistuarmory_bronze_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_bronze_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_katzbalger"
+                        }
+                    },
+                    "magistuarmory_bronze_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_stylet"
+                        }
+                    },
+                    "magistuarmory_bronze_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:bronze_zweihander"
+                        }
+                    },
+                    "magistuarmory_copper_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_bastardsword"
+                        }
+                    },
+                    "magistuarmory_copper_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_claymore"
+                        }
+                    },
+                    "magistuarmory_copper_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_estoc"
+                        }
+                    },
+                    "magistuarmory_copper_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_copper_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_katzbalger"
+                        }
+                    },
+                    "magistuarmory_copper_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_stylet"
+                        }
+                    },
+                    "magistuarmory_copper_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:copper_zweihander"
+                        }
+                    },
+                    "magistuarmory_diamond_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_bastardsword"
+                        }
+                    },
+                    "magistuarmory_diamond_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_claymore"
+                        }
+                    },
+                    "magistuarmory_diamond_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_estoc"
+                        }
+                    },
+                    "magistuarmory_diamond_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_diamond_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_katzbalger"
+                        }
+                    },
+                    "magistuarmory_diamond_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_stylet"
+                        }
+                    },
+                    "magistuarmory_diamond_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:diamond_zweihander"
+                        }
+                    },
+                    "magistuarmory_gold_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_bastardsword"
+                        }
+                    },
+                    "magistuarmory_gold_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_claymore"
+                        }
+                    },
+                    "magistuarmory_gold_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_estoc"
+                        }
+                    },
+                    "magistuarmory_gold_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_gold_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_katzbalger"
+                        }
+                    },
+                    "magistuarmory_gold_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_stylet"
+                        }
+                    },
+                    "magistuarmory_gold_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:gold_zweihander"
+                        }
+                    },
+                    "magistuarmory_iron_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_bastardsword"
+                        }
+                    },
+                    "magistuarmory_iron_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_claymore"
+                        }
+                    },
+                    "magistuarmory_iron_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_estoc"
+                        }
+                    },
+                    "magistuarmory_iron_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_iron_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_katzbalger"
+                        }
+                    },
+                    "magistuarmory_iron_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_stylet"
+                        }
+                    },
+                    "magistuarmory_iron_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:iron_zweihander"
+                        }
+                    },
+                    "magistuarmory_netherite_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_bastardsword"
+                        }
+                    },
+                    "magistuarmory_netherite_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_claymore"
+                        }
+                    },
+                    "magistuarmory_netherite_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_estoc"
+                        }
+                    },
+                    "magistuarmory_netherite_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_netherite_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_katzbalger"
+                        }
+                    },
+                    "magistuarmory_netherite_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_stylet"
+                        }
+                    },
+                    "magistuarmory_netherite_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:netherite_zweihander"
+                        }
+                    },
+                    "magistuarmory_noble_sword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:noble_sword"
+                        }
+                    },
+                    "magistuarmory_rusted_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:rusted_bastardsword"
+                        }
+                    },
+                    "magistuarmory_silver_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_bastardsword"
+                        }
+                    },
+                    "magistuarmory_silver_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_claymore"
+                        }
+                    },
+                    "magistuarmory_silver_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_estoc"
+                        }
+                    },
+                    "magistuarmory_silver_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_silver_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_katzbalger"
+                        }
+                    },
+                    "magistuarmory_silver_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_stylet"
+                        }
+                    },
+                    "magistuarmory_silver_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:silver_zweihander"
+                        }
+                    },
+                    "magistuarmory_steel_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_bastardsword"
+                        }
+                    },
+                    "magistuarmory_steel_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_claymore"
+                        }
+                    },
+                    "magistuarmory_steel_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_estoc"
+                        }
+                    },
+                    "magistuarmory_steel_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_steel_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_katzbalger"
+                        }
+                    },
+                    "magistuarmory_steel_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_stylet"
+                        }
+                    },
+                    "magistuarmory_steel_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:steel_zweihander"
+                        }
+                    },
+                    "magistuarmory_stone_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_bastardsword"
+                        }
+                    },
+                    "magistuarmory_stone_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_claymore"
+                        }
+                    },
+                    "magistuarmory_stone_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_estoc"
+                        }
+                    },
+                    "magistuarmory_stone_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_stone_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_katzbalger"
+                        }
+                    },
+                    "magistuarmory_stone_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_stylet"
+                        }
+                    },
+                    "magistuarmory_stone_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:stone_zweihander"
+                        }
+                    },
+                    "magistuarmory_tin_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_bastardsword"
+                        }
+                    },
+                    "magistuarmory_tin_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_claymore"
+                        }
+                    },
+                    "magistuarmory_tin_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_estoc"
+                        }
+                    },
+                    "magistuarmory_tin_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_tin_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_katzbalger"
+                        }
+                    },
+                    "magistuarmory_tin_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_stylet"
+                        }
+                    },
+                    "magistuarmory_tin_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:tin_zweihander"
+                        }
+                    },
+                    "magistuarmory_wood_bastardsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_bastardsword"
+                        }
+                    },
+                    "magistuarmory_wood_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_claymore"
+                        }
+                    },
+                    "magistuarmory_wood_estoc": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_estoc"
+                        }
+                    },
+                    "magistuarmory_wood_flamebladedsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_flamebladedsword"
+                        }
+                    },
+                    "magistuarmory_wood_katzbalger": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_katzbalger"
+                        }
+                    },
+                    "magistuarmory_wood_stylet": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_stylet"
+                        }
+                    },
+                    "magistuarmory_wood_zweihander": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "magistuarmory:wood_zweihander"
+                        }
+                    },
+                    "simplyswords_diamond_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_claymore"
+                        }
+                    },
+                    "simplyswords_diamond_cutlass": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_cutlass"
+                        }
+                    },
+                    "simplyswords_diamond_katana": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_katana"
+                        }
+                    },
+                    "simplyswords_diamond_longsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_longsword"
+                        }
+                    },
+                    "simplyswords_diamond_rapier": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_rapier"
+                        }
+                    },
+                    "simplyswords_diamond_sai": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_sai"
+                        }
+                    },
+                    "simplyswords_diamond_twinblade": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:diamond_twinblade"
+                        }
+                    },
+                    "simplyswords_gold_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_claymore"
+                        }
+                    },
+                    "simplyswords_gold_cutlass": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_cutlass"
+                        }
+                    },
+                    "simplyswords_gold_katana": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_katana"
+                        }
+                    },
+                    "simplyswords_gold_longsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_longsword"
+                        }
+                    },
+                    "simplyswords_gold_rapier": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_rapier"
+                        }
+                    },
+                    "simplyswords_gold_sai": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_sai"
+                        }
+                    },
+                    "simplyswords_gold_twinblade": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:gold_twinblade"
+                        }
+                    },
+                    "simplyswords_hearthflame": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:hearthflame"
+                        }
+                    },
+                    "simplyswords_iron_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_claymore"
+                        }
+                    },
+                    "simplyswords_iron_cutlass": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_cutlass"
+                        }
+                    },
+                    "simplyswords_iron_katana": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_katana"
+                        }
+                    },
+                    "simplyswords_iron_longsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_longsword"
+                        }
+                    },
+                    "simplyswords_iron_rapier": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_rapier"
+                        }
+                    },
+                    "simplyswords_iron_sai": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_sai"
+                        }
+                    },
+                    "simplyswords_iron_twinblade": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:iron_twinblade"
+                        }
+                    },
+                    "simplyswords_netherite_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_claymore"
+                        }
+                    },
+                    "simplyswords_netherite_cutlass": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_cutlass"
+                        }
+                    },
+                    "simplyswords_netherite_katana": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_katana"
+                        }
+                    },
+                    "simplyswords_netherite_longsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_longsword"
+                        }
+                    },
+                    "simplyswords_netherite_rapier": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_rapier"
+                        }
+                    },
+                    "simplyswords_netherite_sai": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_sai"
+                        }
+                    },
+                    "simplyswords_netherite_twinblade": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:netherite_twinblade"
+                        }
+                    },
+                    "simplyswords_runic_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_claymore"
+                        }
+                    },
+                    "simplyswords_runic_cutlass": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_cutlass"
+                        }
+                    },
+                    "simplyswords_runic_katana": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_katana"
+                        }
+                    },
+                    "simplyswords_runic_longsword": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_longsword"
+                        }
+                    },
+                    "simplyswords_runic_rapier": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_rapier"
+                        }
+                    },
+                    "simplyswords_runic_sai": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_sai"
+                        }
+                    },
+                    "simplyswords_runic_twinblade": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:runic_twinblade"
+                        }
+                    },
+                    "simplyswords_soulkeeper": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:soulkeeper"
+                        }
+                    },
+                    "simplyswords_twisted_blade": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:twisted_blade"
+                        }
+                    },
+                    "simplyswords_watcher_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:watcher_claymore"
+                        }
+                    },
+                    "simplyswords_brimmstone_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:brimmstone_claymore"
+                        }
+                    },
+                    "wom_herrscher": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:herrscher"
+                        }
+                    },
+                    "wom_moonless": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:moonless"
+                        }
+                    },
+                    "wom_ruine": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:ruine"
+                        }
+                    },
+                    "wom_satsujin": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "wom:satsujin"
+                        }
+                    }
+                },
+                "parameters": {
+                    "dropped_xp": {
+                        "type": "entity_dropped_experience"
+                    },
+                    "max_health": {
+                        "type": "entity_max_health"
+                    }
+                },
+                "experience": [
+                    {
+                        "condition": " minecraft_diamond_sword | minecraft_golden_sword | minecraft_iron_sword | minecraft_stone_sword | cataclysm_the_incinerator | enigmaticlegacy_ender_slayer | enigmaticlegacy_etherium_scythe | enigmaticlegacy_etherium_sword | epicfight_diamond_dagger | epicfight_diamond_greatsword | epicfight_diamond_longsword | epicfight_diamond_longsword | epicfight_diamond_tachi | epicfight_golden_dagger | epicfight_golden_greatsword | epicfight_golden_longsword | epicfight_golden_longsword | epicfight_golden_tachi | epicfight_iron_dagger | epicfight_iron_greatsword | epicfight_iron_longsword | epicfight_iron_longsword | epicfight_iron_tachi | epicfight_netherite_dagger | epicfight_netherite_greatsword | epicfight_netherite_longsword | epicfight_netherite_longsword | epicfight_netherite_tachi | epicfight_stone_greatsword | epicfight_uchigatana |  | magistuarmory_bronze_bastardsword | magistuarmory_bronze_bastardsword | magistuarmory_bronze_claymore | magistuarmory_bronze_estoc | magistuarmory_bronze_flamebladedsword | magistuarmory_bronze_flamebladedsword | magistuarmory_bronze_katzbalger | magistuarmory_bronze_stylet | magistuarmory_bronze_zweihander | magistuarmory_copper_bastardsword | magistuarmory_copper_bastardsword | magistuarmory_copper_claymore | magistuarmory_copper_estoc | magistuarmory_copper_flamebladedsword | magistuarmory_copper_flamebladedsword | magistuarmory_copper_katzbalger | magistuarmory_copper_stylet | magistuarmory_copper_zweihander | magistuarmory_diamond_bastardsword | magistuarmory_diamond_bastardsword | magistuarmory_diamond_claymore | magistuarmory_diamond_estoc | magistuarmory_diamond_flamebladedsword | magistuarmory_diamond_flamebladedsword | magistuarmory_diamond_katzbalger | magistuarmory_diamond_stylet | magistuarmory_diamond_zweihander | magistuarmory_gold_bastardsword | magistuarmory_gold_bastardsword | magistuarmory_gold_claymore | magistuarmory_gold_estoc | magistuarmory_gold_flamebladedsword | magistuarmory_gold_flamebladedsword | magistuarmory_gold_katzbalger | magistuarmory_gold_stylet | magistuarmory_gold_zweihander | magistuarmory_iron_bastardsword | magistuarmory_iron_bastardsword | magistuarmory_iron_claymore | magistuarmory_iron_estoc | magistuarmory_iron_flamebladedsword | magistuarmory_iron_flamebladedsword | magistuarmory_iron_katzbalger | magistuarmory_iron_stylet | magistuarmory_iron_zweihander | magistuarmory_netherite_bastardsword | magistuarmory_netherite_bastardsword | magistuarmory_netherite_claymore | magistuarmory_netherite_estoc | magistuarmory_netherite_flamebladedsword | magistuarmory_netherite_flamebladedsword | magistuarmory_netherite_katzbalger | magistuarmory_netherite_stylet | magistuarmory_netherite_zweihander | magistuarmory_noble_sword | magistuarmory_rusted_bastardsword | magistuarmory_rusted_bastardsword | magistuarmory_silver_bastardsword | magistuarmory_silver_bastardsword | magistuarmory_silver_claymore | magistuarmory_silver_estoc | magistuarmory_silver_flamebladedsword | magistuarmory_silver_flamebladedsword | magistuarmory_silver_katzbalger | magistuarmory_silver_stylet | magistuarmory_silver_zweihander | magistuarmory_steel_bastardsword | magistuarmory_steel_bastardsword | magistuarmory_steel_claymore | magistuarmory_steel_estoc | magistuarmory_steel_flamebladedsword | magistuarmory_steel_flamebladedsword | magistuarmory_steel_katzbalger | magistuarmory_steel_stylet | magistuarmory_steel_zweihander | magistuarmory_stone_bastardsword | magistuarmory_stone_bastardsword | magistuarmory_stone_claymore | magistuarmory_stone_estoc | magistuarmory_stone_flamebladedsword | magistuarmory_stone_flamebladedsword | magistuarmory_stone_katzbalger | magistuarmory_stone_stylet | magistuarmory_stone_zweihander | magistuarmory_tin_bastardsword | magistuarmory_tin_bastardsword | magistuarmory_tin_claymore | magistuarmory_tin_estoc | magistuarmory_tin_flamebladedsword | magistuarmory_tin_flamebladedsword | magistuarmory_tin_katzbalger | magistuarmory_tin_stylet | magistuarmory_tin_zweihander | magistuarmory_wood_bastardsword | magistuarmory_wood_bastardsword | magistuarmory_wood_claymore | magistuarmory_wood_estoc | magistuarmory_wood_flamebladedsword | magistuarmory_wood_flamebladedsword | magistuarmory_wood_katzbalger | magistuarmory_wood_stylet | magistuarmory_wood_zweihander | simplyswords_diamond_claymore | simplyswords_diamond_cutlass | simplyswords_diamond_katana | simplyswords_diamond_longsword | simplyswords_diamond_longsword | simplyswords_diamond_rapier | simplyswords_diamond_sai | simplyswords_diamond_sai | simplyswords_diamond_twinblade | simplyswords_gold_claymore | simplyswords_gold_cutlass | simplyswords_gold_katana | simplyswords_gold_longsword | simplyswords_gold_longsword | simplyswords_gold_rapier | simplyswords_gold_sai | simplyswords_gold_sai | simplyswords_gold_twinblade | simplyswords_hearthflame | simplyswords_iron_claymore | simplyswords_iron_cutlass | simplyswords_iron_katana | simplyswords_iron_longsword | simplyswords_iron_longsword | simplyswords_iron_rapier | simplyswords_iron_sai | simplyswords_iron_sai | simplyswords_iron_twinblade | simplyswords_netherite_claymore | simplyswords_netherite_cutlass | simplyswords_netherite_katana | simplyswords_netherite_longsword | simplyswords_netherite_longsword | simplyswords_netherite_rapier | simplyswords_netherite_sai | simplyswords_netherite_sai | simplyswords_netherite_twinblade | simplyswords_runic_claymore | simplyswords_runic_cutlass | simplyswords_runic_katana | simplyswords_runic_longsword | simplyswords_runic_longsword | simplyswords_runic_rapier | simplyswords_runic_sai | simplyswords_runic_sai | simplyswords_runic_twinblade | simplyswords_soulkeeper | simplyswords_twisted_blade | simplyswords_watcher_claymore | simplyswords_brimmstone_claymore | wom_herrscher | wom_moonless | wom_ruine | wom_satsujin ",
+                        "expression": "(dropped_xp + max_health) * 0.1"
+                    }
+                ],
+                "anti_farming": {
+                    "enabled": true,
+                    "limit_per_chunk": 30,
+                    "reset_after_seconds": 300
+                }
+            }
+        }
+    ]
+}
