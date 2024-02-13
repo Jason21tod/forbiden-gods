@@ -646,6 +646,12 @@
                             "item": "simplyswords:runic_greathammer"
                         }
                     },
+                    "simplyswords_hiveheart": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:hiveheart"
+                        }
+                    },
                     "wom_diamond_greataxe": {
                         "type": "weapon",
                         "data": {
@@ -675,7 +681,55 @@
                         "data": {
                             "item": "wom:tormented_mind"
                         }
-                    }
+                    },
+                    "born_in_chaos_v1_great_reaper_axe": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "born_in_chaos_v1:great_reaper_axe"
+                        }
+                     },
+                     "born_in_chaos_v1_shell_mace": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "born_in_chaos_v1:shell_mace"
+                        }
+                     },
+                     "born_in_chaos_v1_skullbreaker_hammer": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "born_in_chaos_v1:skullbreaker_hammer"
+                        }
+                     },
+                     "born_in_chaos_v1_wood_splitter_axe": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "born_in_chaos_v1:wood_splitter_axe"
+                        }
+                     },
+                     "l2complements_poseidite_axe": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "l2complements:poseidite_axe"
+                        }
+                     },
+                     "l2complements_sculkium_axe": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "l2complements:sculkium_axe"
+                        }
+                     },
+                     "l2complements_shulkerate_axe": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "l2complements:shulkerate_axe"
+                        }
+                     },
+                     "l2complements_totemic_gold_axe": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "l2complements:totemic_gold_axe"
+                        }
+                     }
                 },
                 "parameters": {
                     "dropped_xp": {
@@ -687,7 +741,7 @@
                 },
                 "experience": [
                     {
-                        "condition": "cataclysm_gauntlet_of_bulwark | cataclysm_gauntlet_of_guard | cataclysm_infernal_forge | cataclysm_tidal_claws | cataclysm_void_forge | enigmaticlegacy_etherium_axe | enigmaticlegacy_forbidden_axe | enigmaticlegacy_the_acknowledgment | enigmaticlegacy_the_twist | epicfight_diamond_greatsword | epicfight_glove | epicfight_golden_greatsword | epicfight_iron_greatsword | epicfight_netherite_greatsword | epicfight_stone_greatsword | magistuarmory_blacksmith_hammer | magistuarmory_bronze_chainmorgenstern | magistuarmory_bronze_chivalrylance | magistuarmory_bronze_heavywarhammer | magistuarmory_bronze_lochaberaxe | magistuarmory_bronze_lucernhammer | magistuarmory_bronze_morgenstern | magistuarmory_bronze_zweihander | magistuarmory_copper_chainmorgenstern | magistuarmory_copper_chivalrylance | magistuarmory_copper_heavywarhammer | magistuarmory_copper_lochaberaxe | magistuarmory_copper_lucernhammer | magistuarmory_copper_morgenstern | magistuarmory_copper_zweihander | magistuarmory_diamond_chainmorgenstern | magistuarmory_diamond_chivalrylance | magistuarmory_diamond_heavywarhammer | magistuarmory_diamond_lochaberaxe | magistuarmory_diamond_lucernhammer | magistuarmory_diamond_morgenstern | magistuarmory_diamond_zweihander | magistuarmory_gold_chainmorgenstern | magistuarmory_gold_chivalrylance | magistuarmory_gold_heavywarhammer | magistuarmory_gold_lochaberaxe | magistuarmory_gold_lucernhammer | magistuarmory_gold_morgenstern | magistuarmory_gold_zweihander | magistuarmory_iron_chainmorgenstern | magistuarmory_iron_chivalrylance | magistuarmory_iron_heavywarhammer | magistuarmory_iron_lochaberaxe | magistuarmory_iron_lucernhammer | magistuarmory_iron_morgenstern | magistuarmory_iron_zweihander | magistuarmory_netherite_chainmorgenstern | magistuarmory_netherite_chivalrylance | magistuarmory_netherite_heavywarhammer | magistuarmory_netherite_lochaberaxe | magistuarmory_netherite_lucernhammer | magistuarmory_netherite_morgenstern | magistuarmory_netherite_zweihander | magistuarmory_silver_chainmorgenstern | magistuarmory_silver_chivalrylance | magistuarmory_silver_heavywarhammer | magistuarmory_silver_lochaberaxe | magistuarmory_silver_lucernhammer | magistuarmory_silver_morgenstern | magistuarmory_silver_zweihander | magistuarmory_steel_chainmorgenstern | magistuarmory_steel_chivalrylance | magistuarmory_steel_heavywarhammer | magistuarmory_steel_lochaberaxe | magistuarmory_steel_lucernhammer | magistuarmory_steel_morgenstern | magistuarmory_steel_zweihander | magistuarmory_stone_chainmorgenstern | magistuarmory_stone_chivalrylance | magistuarmory_stone_heavywarhammer | magistuarmory_stone_lochaberaxe | magistuarmory_stone_lucernhammer | magistuarmory_stone_morgenstern | magistuarmory_stone_zweihander | magistuarmory_tin_chainmorgenstern | magistuarmory_tin_chivalrylance | magistuarmory_tin_heavywarhammer | magistuarmory_tin_lochaberaxe | magistuarmory_tin_lucernhammer | magistuarmory_tin_morgenstern | magistuarmory_tin_zweihander | magistuarmory_wood_chainmorgenstern | magistuarmory_wood_chivalrylance | magistuarmory_wood_heavywarhammer | magistuarmory_wood_lochaberaxe | magistuarmory_wood_lucernhammer | magistuarmory_wood_morgenstern | magistuarmory_wood_zweihander | simplyswords_diamond_greataxe | simplyswords_diamond_greathammer | simplyswords_frostfall | simplyswords_gold_greataxe | simplyswords_gold_greathammer | simplyswords_iron_greataxe | simplyswords_iron_greathammer | simplyswords_livyatan | simplyswords_mjolnir | simplyswords_molten_edge | simplyswords_netherite_greataxe | simplyswords_netherite_greathammer | simplyswords_runic_greathammer | wom_diamond_greataxe | wom_golden_greataxe | wom_iron_greataxe | wom_netherite_greataxe | wom_tormented_mind",
+                        "condition": "l2complements_sculkium_axe | l2complements_shulkerate_axe | l2complements_totemic_gold_axe | born_in_chaos_v1_great_reaper_axe | born_in_chaos_v1_shell_mace | born_in_chaos_v1_skullbreaker_hammer | born_in_chaos_v1_wood_splitter_axe | cataclysm_gauntlet_of_bulwark | cataclysm_gauntlet_of_guard | cataclysm_infernal_forge | cataclysm_tidal_claws | cataclysm_void_forge | enigmaticlegacy_etherium_axe | enigmaticlegacy_forbidden_axe | enigmaticlegacy_the_acknowledgment | enigmaticlegacy_the_twist | epicfight_diamond_greatsword | epicfight_glove | epicfight_golden_greatsword | epicfight_iron_greatsword | epicfight_netherite_greatsword | epicfight_stone_greatsword | magistuarmory_blacksmith_hammer | magistuarmory_bronze_chainmorgenstern | magistuarmory_bronze_chivalrylance | magistuarmory_bronze_heavywarhammer | magistuarmory_bronze_lochaberaxe | magistuarmory_bronze_lucernhammer | magistuarmory_bronze_morgenstern | magistuarmory_bronze_zweihander | magistuarmory_copper_chainmorgenstern | magistuarmory_copper_chivalrylance | magistuarmory_copper_heavywarhammer | magistuarmory_copper_lochaberaxe | magistuarmory_copper_lucernhammer | magistuarmory_copper_morgenstern | magistuarmory_copper_zweihander | magistuarmory_diamond_chainmorgenstern | magistuarmory_diamond_chivalrylance | magistuarmory_diamond_heavywarhammer | magistuarmory_diamond_lochaberaxe | magistuarmory_diamond_lucernhammer | magistuarmory_diamond_morgenstern | magistuarmory_diamond_zweihander | magistuarmory_gold_chainmorgenstern | magistuarmory_gold_chivalrylance | magistuarmory_gold_heavywarhammer | magistuarmory_gold_lochaberaxe | magistuarmory_gold_lucernhammer | magistuarmory_gold_morgenstern | magistuarmory_gold_zweihander | magistuarmory_iron_chainmorgenstern | magistuarmory_iron_chivalrylance | magistuarmory_iron_heavywarhammer | magistuarmory_iron_lochaberaxe | magistuarmory_iron_lucernhammer | magistuarmory_iron_morgenstern | magistuarmory_iron_zweihander | magistuarmory_netherite_chainmorgenstern | magistuarmory_netherite_chivalrylance | magistuarmory_netherite_heavywarhammer | magistuarmory_netherite_lochaberaxe | magistuarmory_netherite_lucernhammer | magistuarmory_netherite_morgenstern | magistuarmory_netherite_zweihander | magistuarmory_silver_chainmorgenstern | magistuarmory_silver_chivalrylance | magistuarmory_silver_heavywarhammer | magistuarmory_silver_lochaberaxe | magistuarmory_silver_lucernhammer | magistuarmory_silver_morgenstern | magistuarmory_silver_zweihander | magistuarmory_steel_chainmorgenstern | magistuarmory_steel_chivalrylance | magistuarmory_steel_heavywarhammer | magistuarmory_steel_lochaberaxe | magistuarmory_steel_lucernhammer | magistuarmory_steel_morgenstern | magistuarmory_steel_zweihander | magistuarmory_stone_chainmorgenstern | magistuarmory_stone_chivalrylance | magistuarmory_stone_heavywarhammer | magistuarmory_stone_lochaberaxe | magistuarmory_stone_lucernhammer | magistuarmory_stone_morgenstern | magistuarmory_stone_zweihander | magistuarmory_tin_chainmorgenstern | magistuarmory_tin_chivalrylance | magistuarmory_tin_heavywarhammer | magistuarmory_tin_lochaberaxe | magistuarmory_tin_lucernhammer | magistuarmory_tin_morgenstern | magistuarmory_tin_zweihander | magistuarmory_wood_chainmorgenstern | magistuarmory_wood_chivalrylance | magistuarmory_wood_heavywarhammer | magistuarmory_wood_lochaberaxe | magistuarmory_wood_lucernhammer | magistuarmory_wood_morgenstern | magistuarmory_wood_zweihander | simplyswords_diamond_greataxe | simplyswords_diamond_greathammer | simplyswords_frostfall | simplyswords_gold_greataxe | simplyswords_gold_greathammer | simplyswords_iron_greataxe | simplyswords_iron_greathammer | simplyswords_livyatan | simplyswords_mjolnir | simplyswords_molten_edge | simplyswords_netherite_greataxe | simplyswords_netherite_greathammer | simplyswords_runic_greathammer | simplyswords_hiveheart | wom_diamond_greataxe | wom_golden_greataxe | wom_iron_greataxe | wom_netherite_greataxe | wom_tormented_mind",
                         "expression": "(dropped_xp + max_health) * 0.1"
                     }
                 ],

@@ -1,0 +1,127 @@
+[
+   {
+      "born_in_chaos_v1_sharpened_dark_metal_sword": {
+         "type": "weapon",
+         "data": {
+            "item": "born_in_chaos_v1:sharpened_dark_metal_sword"
+         }
+      },
+      "born_in_chaos_v1_spiritual_sword": {
+         "type": "weapon",
+         "data": {
+            "item": "born_in_chaos_v1:spiritual_sword"
+         }
+      },
+      "epicfight_diamond_greatsword": {
+         "type": "weapon",
+         "data": {
+            "item": "epicfight:diamond_greatsword"
+         }
+      },
+      "epicfight_diamond_longsword": {
+         "type": "weapon",
+         "data": {
+            "item": "epicfight:diamond_longsword"
+         }
+      },
+      "epicfight_golden_greatsword": {
+         "type": "weapon",
+         "data": {
+            "item": "epicfight:golden_greatsword"
+         }
+      },
+      "epicfight_golden_longsword": {
+         "type": "weapon",
+         "data": {
+            "item": "epicfight:golden_longsword"
+         }
+      },
+      "epicfight_iron_greatsword": {
+         "type": "weapon",
+         "data": {
+            "item": "epicfight:iron_greatsword"
+         }
+      },
+      "epicfight_iron_longsword": {
+         "type": "weapon",
+         "data": {
+            "item": "epicfight:iron_longsword"
+         }
+      },
+      "epicfight_netherite_greatsword": {
+         "type": "weapon",
+         "data": {
+            "item": "epicfight:netherite_greatsword"
+         }
+      },
+      "epicfight_netherite_longsword": {
+         "type": "weapon",
+         "data": {
+            "item": "epicfight:netherite_longsword"
+         }
+      },
+      "epicfight_stone_greatsword": {
+         "type": "weapon",
+         "data": {
+            "item": "epicfight:stone_greatsword"
+         }
+      },
+      "l2complements_poseidite_sword": {
+         "type": "weapon",
+         "data": {
+            "item": "l2complements:poseidite_sword"
+         }
+      },
+      "l2complements_sculkium_sword": {
+         "type": "weapon",
+         "data": {
+            "item": "l2complements:sculkium_sword"
+         }
+      },
+      "l2complements_shulkerate_sword": {
+         "type": "weapon",
+         "data": {
+            "item": "l2complements:shulkerate_sword"
+         }
+      },
+      "l2complements_totemic_gold_sword": {
+         "type": "weapon",
+         "data": {
+            "item": "l2complements:totemic_gold_sword"
+         }
+      },
+      "simplyswords_diamond_longsword": {
+         "type": "weapon",
+         "data": {
+            "item": "simplyswords:diamond_longsword"
+         }
+      },
+      "simplyswords_gold_longsword": {
+         "type": "weapon",
+         "data": {
+            "item": "simplyswords:gold_longsword"
+         }
+      },
+      "simplyswords_iron_longsword": {
+         "type": "weapon",
+         "data": {
+            "item": "simplyswords:iron_longsword"
+         }
+      },
+      "simplyswords_netherite_longsword": {
+         "type": "weapon",
+         "data": {
+            "item": "simplyswords:netherite_longsword"
+         }
+      },
+      "simplyswords_runic_longsword": {
+         "type": "weapon",
+         "data": {
+            "item": "simplyswords:runic_longsword"
+         }
+      }
+   },
+   {
+      "conditons": " | born_in_chaos_v1_sharpened_dark_metal_sword | born_in_chaos_v1_spiritual_sword | epicfight_diamond_greatsword | epicfight_diamond_longsword | epicfight_golden_greatsword | epicfight_golden_longsword | epicfight_iron_greatsword | epicfight_iron_longsword | epicfight_netherite_greatsword | epicfight_netherite_longsword | epicfight_stone_greatsword | l2complements_poseidite_sword | l2complements_sculkium_sword | l2complements_shulkerate_sword | l2complements_totemic_gold_sword | simplyswords_diamond_longsword | simplyswords_gold_longsword | simplyswords_iron_longsword | simplyswords_netherite_longsword | simplyswords_runic_longsword | born_in_chaos_v1_sharpened_dark_metal_sword | born_in_chaos_v1_spiritual_sword | epicfight_diamond_greatsword | epicfight_diamond_longsword | epicfight_golden_greatsword | epicfight_golden_longsword | epicfight_iron_greatsword | epicfight_iron_longsword | epicfight_netherite_greatsword | epicfight_netherite_longsword | epicfight_stone_greatsword | l2complements_poseidite_sword | l2complements_sculkium_sword | l2complements_shulkerate_sword | l2complements_totemic_gold_sword | simplyswords_diamond_longsword | simplyswords_gold_longsword | simplyswords_iron_longsword | simplyswords_netherite_longsword | simplyswords_runic_longsword"
+   }
+]

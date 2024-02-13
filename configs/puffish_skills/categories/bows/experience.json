@@ -10,6 +10,115 @@
             "type": "puffish_skills:kill_entity",
             "data": {
                 "conditions": {
+
+                    "l2archery_starter_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:starter_bow"
+                        }
+                    },
+                    "l2archery_iron_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:iron_bow"
+                        }
+                    },
+                    "l2archery_master_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:master_bow"
+                        }
+                    },
+                    "l2archery_glow_aim_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:glow_aim_bow"
+                        }
+                    },
+                    "l2archery_magnify_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:magnify_bow"
+                        }
+                    },
+                    "l2archery_ender_aim_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:ender_aim_bow"
+                        }
+                    },
+                    "l2archery_eagle_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:eagle_bow"
+                        }
+                    },
+                    "l2archery_explosion_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:explosion_bow"
+                        }
+                    },
+                    "l2archery_flame_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:flame_bow"
+                        }
+                    },
+                    "l2archery_froze_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:froze_bow"
+                        }
+                    },
+                    "l2archery_slow_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:slow_bow"
+                        }
+                    },
+                    "l2archery_storm_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:storm_bow"
+                        }
+                    },
+                    "l2archery_turtle_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:turtle_bow"
+                        }
+                    },
+                    "l2archery_earth_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:earth_bow"
+                        }
+                    },
+                    "l2archery_wind_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:wind_bow"
+                        }
+                    },
+                    "l2archery_winter_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:winter_bow"
+                        }
+                    },
+                    "l2archery_gaia_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:gaia_bow"
+                        }
+                    },
+                    "l2archery_sun_bow": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "l2archery:sun_bow"
+                        }
+                    },
                     "wom_ender_blaster": {
                         "type": "weapon",
                         "data": {
@@ -27,12 +136,6 @@
                         "data": {
                             "item": "minecraft:crossbow"
                         }
-                    },
-                    "alexcaves_bow": {
-                        "type": "weapon",
-                        "data": {
-                            "item": "alexscaves:dreadbow"
-                        }
                     }
                 },
                 "parameters": {
@@ -45,7 +148,7 @@
                 },
                 "experience": [
                     {
-                        "condition": " alexcaves_bow | wom_ender_blaster | minecraft_bow | minecraft_crossbow",
+                        "condition": "l2archery_starter_bow | l2archery_iron_bow | l2archery_master_bow | l2archery_glow_aim_bow | l2archery_magnify_bow | l2archery_ender_aim_bow | l2archery_eagle_bow | l2archery_explosion_bow | l2archery_flame_bow | l2archery_froze_bow | l2archery_slow_bow | l2archery_storm_bow | l2archery_turtle_bow | l2archery_earth_bow | l2archery_wind_bow | l2archery_winter_bow | l2archery_gaia_bow | l2archery_sun_bow | wom_ender_blaster | minecraft_bow | minecraft_crossbow",
                         "expression": "(dropped_xp + max_health) * 0.1"
                     }
                 ],

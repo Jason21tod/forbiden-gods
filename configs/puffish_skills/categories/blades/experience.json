@@ -874,10 +874,28 @@
                             "item": "simplyswords:watcher_claymore"
                         }
                     },
-                    "simplyswords_brimmstone_claymore": {
+                    "simplyswords_emberlash": {
                         "type": "weapon",
                         "data": {
-                            "item": "simplyswords:brimmstone_claymore"
+                            "item": "simplyswords:emberlash"
+                        }
+                    },
+                    "simplyswords_waxweaver": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:waxweaver"
+                        }
+                    },
+                    "simplyswords_tempest": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:tempest"
+                        }
+                    },
+                    "simplyswords_brimstone_claymore": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:brimstone_claymore"
                         }
                     },
                     "wom_herrscher": {
@@ -903,7 +921,73 @@
                         "data": {
                             "item": "wom:satsujin"
                         }
-                    }
+                    },
+                    "born_in_chaos_v1_dark_ritual_dagger": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "born_in_chaos_v1:dark_ritual_dagger"
+                        }
+                     },
+                     "born_in_chaos_v1_intoxicating_dagger": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "born_in_chaos_v1:intoxicating_dagger"
+                        }
+                     },
+                     "born_in_chaos_v1_nightmare_scythe": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "born_in_chaos_v1:nightmare_scythe"
+                        }
+                     },
+                     "born_in_chaos_v1_sharpened_dark_metal_sword": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "born_in_chaos_v1:sharpened_dark_metal_sword"
+                        }
+                     },
+                     "born_in_chaos_v1_spiritual_sword": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "born_in_chaos_v1:spiritual_sword"
+                        }
+                     },
+                     "goety_dark_scythe": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "goety:dark_scythe"
+                        }
+                     },
+                     "goety_death_scythe": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "goety:death_scythe"
+                        }
+                     },
+                     "l2complements_poseidite_sword": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "l2complements:poseidite_sword"
+                        }
+                     },
+                     "l2complements_sculkium_sword": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "l2complements:sculkium_sword"
+                        }
+                     },
+                     "l2complements_shulkerate_sword": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "l2complements:shulkerate_sword"
+                        }
+                     },
+                     "l2complements_totemic_gold_sword": {
+                        "type": "weapon",
+                        "data": {
+                           "item": "l2complements:totemic_gold_sword"
+                        }
+                     }
                 },
                 "parameters": {
                     "dropped_xp": {
@@ -915,7 +999,7 @@
                 },
                 "experience": [
                     {
-                        "condition": " minecraft_diamond_sword | minecraft_golden_sword | minecraft_iron_sword | minecraft_stone_sword | cataclysm_the_incinerator | enigmaticlegacy_ender_slayer | enigmaticlegacy_etherium_scythe | enigmaticlegacy_etherium_sword | epicfight_diamond_dagger | epicfight_diamond_greatsword | epicfight_diamond_longsword | epicfight_diamond_longsword | epicfight_diamond_tachi | epicfight_golden_dagger | epicfight_golden_greatsword | epicfight_golden_longsword | epicfight_golden_longsword | epicfight_golden_tachi | epicfight_iron_dagger | epicfight_iron_greatsword | epicfight_iron_longsword | epicfight_iron_longsword | epicfight_iron_tachi | epicfight_netherite_dagger | epicfight_netherite_greatsword | epicfight_netherite_longsword | epicfight_netherite_longsword | epicfight_netherite_tachi | epicfight_stone_greatsword | epicfight_uchigatana |  | magistuarmory_bronze_bastardsword | magistuarmory_bronze_bastardsword | magistuarmory_bronze_claymore | magistuarmory_bronze_estoc | magistuarmory_bronze_flamebladedsword | magistuarmory_bronze_flamebladedsword | magistuarmory_bronze_katzbalger | magistuarmory_bronze_stylet | magistuarmory_bronze_zweihander | magistuarmory_copper_bastardsword | magistuarmory_copper_bastardsword | magistuarmory_copper_claymore | magistuarmory_copper_estoc | magistuarmory_copper_flamebladedsword | magistuarmory_copper_flamebladedsword | magistuarmory_copper_katzbalger | magistuarmory_copper_stylet | magistuarmory_copper_zweihander | magistuarmory_diamond_bastardsword | magistuarmory_diamond_bastardsword | magistuarmory_diamond_claymore | magistuarmory_diamond_estoc | magistuarmory_diamond_flamebladedsword | magistuarmory_diamond_flamebladedsword | magistuarmory_diamond_katzbalger | magistuarmory_diamond_stylet | magistuarmory_diamond_zweihander | magistuarmory_gold_bastardsword | magistuarmory_gold_bastardsword | magistuarmory_gold_claymore | magistuarmory_gold_estoc | magistuarmory_gold_flamebladedsword | magistuarmory_gold_flamebladedsword | magistuarmory_gold_katzbalger | magistuarmory_gold_stylet | magistuarmory_gold_zweihander | magistuarmory_iron_bastardsword | magistuarmory_iron_bastardsword | magistuarmory_iron_claymore | magistuarmory_iron_estoc | magistuarmory_iron_flamebladedsword | magistuarmory_iron_flamebladedsword | magistuarmory_iron_katzbalger | magistuarmory_iron_stylet | magistuarmory_iron_zweihander | magistuarmory_netherite_bastardsword | magistuarmory_netherite_bastardsword | magistuarmory_netherite_claymore | magistuarmory_netherite_estoc | magistuarmory_netherite_flamebladedsword | magistuarmory_netherite_flamebladedsword | magistuarmory_netherite_katzbalger | magistuarmory_netherite_stylet | magistuarmory_netherite_zweihander | magistuarmory_noble_sword | magistuarmory_rusted_bastardsword | magistuarmory_rusted_bastardsword | magistuarmory_silver_bastardsword | magistuarmory_silver_bastardsword | magistuarmory_silver_claymore | magistuarmory_silver_estoc | magistuarmory_silver_flamebladedsword | magistuarmory_silver_flamebladedsword | magistuarmory_silver_katzbalger | magistuarmory_silver_stylet | magistuarmory_silver_zweihander | magistuarmory_steel_bastardsword | magistuarmory_steel_bastardsword | magistuarmory_steel_claymore | magistuarmory_steel_estoc | magistuarmory_steel_flamebladedsword | magistuarmory_steel_flamebladedsword | magistuarmory_steel_katzbalger | magistuarmory_steel_stylet | magistuarmory_steel_zweihander | magistuarmory_stone_bastardsword | magistuarmory_stone_bastardsword | magistuarmory_stone_claymore | magistuarmory_stone_estoc | magistuarmory_stone_flamebladedsword | magistuarmory_stone_flamebladedsword | magistuarmory_stone_katzbalger | magistuarmory_stone_stylet | magistuarmory_stone_zweihander | magistuarmory_tin_bastardsword | magistuarmory_tin_bastardsword | magistuarmory_tin_claymore | magistuarmory_tin_estoc | magistuarmory_tin_flamebladedsword | magistuarmory_tin_flamebladedsword | magistuarmory_tin_katzbalger | magistuarmory_tin_stylet | magistuarmory_tin_zweihander | magistuarmory_wood_bastardsword | magistuarmory_wood_bastardsword | magistuarmory_wood_claymore | magistuarmory_wood_estoc | magistuarmory_wood_flamebladedsword | magistuarmory_wood_flamebladedsword | magistuarmory_wood_katzbalger | magistuarmory_wood_stylet | magistuarmory_wood_zweihander | simplyswords_diamond_claymore | simplyswords_diamond_cutlass | simplyswords_diamond_katana | simplyswords_diamond_longsword | simplyswords_diamond_longsword | simplyswords_diamond_rapier | simplyswords_diamond_sai | simplyswords_diamond_sai | simplyswords_diamond_twinblade | simplyswords_gold_claymore | simplyswords_gold_cutlass | simplyswords_gold_katana | simplyswords_gold_longsword | simplyswords_gold_longsword | simplyswords_gold_rapier | simplyswords_gold_sai | simplyswords_gold_sai | simplyswords_gold_twinblade | simplyswords_hearthflame | simplyswords_iron_claymore | simplyswords_iron_cutlass | simplyswords_iron_katana | simplyswords_iron_longsword | simplyswords_iron_longsword | simplyswords_iron_rapier | simplyswords_iron_sai | simplyswords_iron_sai | simplyswords_iron_twinblade | simplyswords_netherite_claymore | simplyswords_netherite_cutlass | simplyswords_netherite_katana | simplyswords_netherite_longsword | simplyswords_netherite_longsword | simplyswords_netherite_rapier | simplyswords_netherite_sai | simplyswords_netherite_sai | simplyswords_netherite_twinblade | simplyswords_runic_claymore | simplyswords_runic_cutlass | simplyswords_runic_katana | simplyswords_runic_longsword | simplyswords_runic_longsword | simplyswords_runic_rapier | simplyswords_runic_sai | simplyswords_runic_sai | simplyswords_runic_twinblade | simplyswords_soulkeeper | simplyswords_twisted_blade | simplyswords_watcher_claymore | simplyswords_brimmstone_claymore | wom_herrscher | wom_moonless | wom_ruine | wom_satsujin ",
+                        "condition": " l2complements_poseidite_sword | l2complements_sculkium_sword | l2complements_shulkerate_sword | l2complements_totemic_gold_sword | born_in_chaos_v1_dark_ritual_dagger | born_in_chaos_v1_intoxicating_dagger | born_in_chaos_v1_nightmare_scythe | born_in_chaos_v1_sharpened_dark_metal_sword | born_in_chaos_v1_spiritual_sword | goety_dark_scythe | goety_death_scythe |  minecraft_diamond_sword | minecraft_golden_sword | minecraft_iron_sword | minecraft_stone_sword | cataclysm_the_incinerator | enigmaticlegacy_ender_slayer | enigmaticlegacy_etherium_scythe | enigmaticlegacy_etherium_sword | epicfight_diamond_dagger | epicfight_diamond_greatsword | epicfight_diamond_longsword | epicfight_diamond_longsword | epicfight_diamond_tachi | epicfight_golden_dagger | epicfight_golden_greatsword | epicfight_golden_longsword | epicfight_golden_longsword | epicfight_golden_tachi | epicfight_iron_dagger | epicfight_iron_greatsword | epicfight_iron_longsword | epicfight_iron_longsword | epicfight_iron_tachi | epicfight_netherite_dagger | epicfight_netherite_greatsword | epicfight_netherite_longsword | epicfight_netherite_longsword | epicfight_netherite_tachi | epicfight_stone_greatsword | epicfight_uchigatana | magistuarmory_bronze_bastardsword | magistuarmory_bronze_bastardsword | magistuarmory_bronze_claymore | magistuarmory_bronze_estoc | magistuarmory_bronze_flamebladedsword | magistuarmory_bronze_flamebladedsword | magistuarmory_bronze_katzbalger | magistuarmory_bronze_stylet | magistuarmory_bronze_zweihander | magistuarmory_copper_bastardsword | magistuarmory_copper_bastardsword | magistuarmory_copper_claymore | magistuarmory_copper_estoc | magistuarmory_copper_flamebladedsword | magistuarmory_copper_flamebladedsword | magistuarmory_copper_katzbalger | magistuarmory_copper_stylet | magistuarmory_copper_zweihander | magistuarmory_diamond_bastardsword | magistuarmory_diamond_bastardsword | magistuarmory_diamond_claymore | magistuarmory_diamond_estoc | magistuarmory_diamond_flamebladedsword | magistuarmory_diamond_flamebladedsword | magistuarmory_diamond_katzbalger | magistuarmory_diamond_stylet | magistuarmory_diamond_zweihander | magistuarmory_gold_bastardsword | magistuarmory_gold_bastardsword | magistuarmory_gold_claymore | magistuarmory_gold_estoc | magistuarmory_gold_flamebladedsword | magistuarmory_gold_flamebladedsword | magistuarmory_gold_katzbalger | magistuarmory_gold_stylet | magistuarmory_gold_zweihander | magistuarmory_iron_bastardsword | magistuarmory_iron_bastardsword | magistuarmory_iron_claymore | magistuarmory_iron_estoc | magistuarmory_iron_flamebladedsword | magistuarmory_iron_flamebladedsword | magistuarmory_iron_katzbalger | magistuarmory_iron_stylet | magistuarmory_iron_zweihander | magistuarmory_netherite_bastardsword | magistuarmory_netherite_bastardsword | magistuarmory_netherite_claymore | magistuarmory_netherite_estoc | magistuarmory_netherite_flamebladedsword | magistuarmory_netherite_flamebladedsword | magistuarmory_netherite_katzbalger | magistuarmory_netherite_stylet | magistuarmory_netherite_zweihander | magistuarmory_noble_sword | magistuarmory_rusted_bastardsword | magistuarmory_rusted_bastardsword | magistuarmory_silver_bastardsword | magistuarmory_silver_bastardsword | magistuarmory_silver_claymore | magistuarmory_silver_estoc | magistuarmory_silver_flamebladedsword | magistuarmory_silver_flamebladedsword | magistuarmory_silver_katzbalger | magistuarmory_silver_stylet | magistuarmory_silver_zweihander | magistuarmory_steel_bastardsword | magistuarmory_steel_bastardsword | magistuarmory_steel_claymore | magistuarmory_steel_estoc | magistuarmory_steel_flamebladedsword | magistuarmory_steel_flamebladedsword | magistuarmory_steel_katzbalger | magistuarmory_steel_stylet | magistuarmory_steel_zweihander | magistuarmory_stone_bastardsword | magistuarmory_stone_bastardsword | magistuarmory_stone_claymore | magistuarmory_stone_estoc | magistuarmory_stone_flamebladedsword | magistuarmory_stone_flamebladedsword | magistuarmory_stone_katzbalger | magistuarmory_stone_stylet | magistuarmory_stone_zweihander | magistuarmory_tin_bastardsword | magistuarmory_tin_bastardsword | magistuarmory_tin_claymore | magistuarmory_tin_estoc | magistuarmory_tin_flamebladedsword | magistuarmory_tin_flamebladedsword | magistuarmory_tin_katzbalger | magistuarmory_tin_stylet | magistuarmory_tin_zweihander | magistuarmory_wood_bastardsword | magistuarmory_wood_bastardsword | magistuarmory_wood_claymore | magistuarmory_wood_estoc | magistuarmory_wood_flamebladedsword | magistuarmory_wood_flamebladedsword | magistuarmory_wood_katzbalger | magistuarmory_wood_stylet | magistuarmory_wood_zweihander | simplyswords_diamond_claymore | simplyswords_diamond_cutlass | simplyswords_diamond_katana | simplyswords_diamond_longsword | simplyswords_diamond_longsword | simplyswords_diamond_rapier | simplyswords_diamond_sai | simplyswords_diamond_sai | simplyswords_diamond_twinblade | simplyswords_gold_claymore | simplyswords_gold_cutlass | simplyswords_gold_katana | simplyswords_gold_longsword | simplyswords_gold_longsword | simplyswords_gold_rapier | simplyswords_gold_sai | simplyswords_gold_sai | simplyswords_gold_twinblade | simplyswords_hearthflame | simplyswords_iron_claymore | simplyswords_iron_cutlass | simplyswords_iron_katana | simplyswords_iron_longsword | simplyswords_iron_longsword | simplyswords_iron_rapier | simplyswords_iron_sai | simplyswords_iron_sai | simplyswords_iron_twinblade | simplyswords_netherite_claymore | simplyswords_netherite_cutlass | simplyswords_netherite_katana | simplyswords_netherite_longsword | simplyswords_netherite_longsword | simplyswords_netherite_rapier | simplyswords_netherite_sai | simplyswords_netherite_sai | simplyswords_netherite_twinblade | simplyswords_runic_claymore | simplyswords_runic_cutlass | simplyswords_runic_katana | simplyswords_runic_longsword | simplyswords_runic_longsword | simplyswords_runic_rapier | simplyswords_runic_sai | simplyswords_runic_sai | simplyswords_runic_twinblade | simplyswords_soulkeeper | simplyswords_twisted_blade | simplyswords_watcher_claymore | simplyswords_brimstone_claymore | simplyswords_emberlash | simplyswords_waxweaver | simplyswords_tempest | wom_herrscher | wom_moonless | wom_ruine | wom_satsujin ",
                         "expression": "(dropped_xp + max_health) * 0.1"
                     }
                 ],

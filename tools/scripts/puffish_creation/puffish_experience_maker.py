@@ -16,7 +16,7 @@ POST_PATH = "/capabilities/weapons"
 # Defines then pre path to especify if has one ( default is "")
 PRE_PATH = ""
 # Define what words should be included on sources
-INCLUDED_WORDS = ["sword", "claymore"]
+INCLUDED_WORDS = ["sword"]
 
 
 def read_all_mods():
@@ -78,13 +78,13 @@ class StrctureMaker:
     @classmethod
     def iterate_all_items(cls):
         mods = read_all_mods()
-        sources = []
+        sources = {}
         items_dict = ModReader.read_all_the_items()
         for mod in mods:
             items_list = ItemsFilter.filter_by_word(items_dict[mod])
             for item in items_list:
                 cls.conditions.append(f"{mod}_{item}")
-                sources.append(cls.make_source_base(mod, item))
+                sources[f"{mod}_{item}"] = cls.make_source_base(mod, item)
         return sources
 
     @classmethod
@@ -97,12 +97,12 @@ class StrctureMaker:
     @classmethod
     def make_source_base(cls, mod_id, item):
         """Make puffish experience source base"""
-        base = {f"{mod_id}_{item}": {
-                        "type": "weapon",
-                        "data": {
-                            "item": f"{mod_id}:{item}"
-                            }
-                    }}
+        base = {
+                "type": "weapon",
+                "data": {
+                    "item": f"{mod_id}:{item}"
+                    }
+                }
         return base
     
 

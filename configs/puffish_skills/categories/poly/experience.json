@@ -401,6 +401,18 @@
                             "item": "simplyswords:watching_warglaive"
                         }
                     },
+                    "simplyswords_stars_edge": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:stars_edge"
+                        }
+                    },
+                    "simplyswords_wickpiercer": {
+                        "type": "weapon",
+                        "data": {
+                            "item": "simplyswords:wickpiercer"
+                        }
+                    },
                     "wom_agony": {
                         "type": "weapon",
                         "data": {
@@ -454,7 +466,7 @@
                 },
                 "experience": [
                     {
-                        "condition": "minecraft_trident | cataclysm_coral_bardiche | cataclysm_coral_spear | cataclysm_coral_spear | epicfight_diamond_spear | epicfight_golden_spear | epicfight_iron_spear | epicfight_netherite_spear | epicfight_stone_spear | magistuarmory_bronze_concavehalberd | magistuarmory_bronze_guisarme | magistuarmory_bronze_pike | magistuarmory_copper_concavehalberd | magistuarmory_copper_guisarme | magistuarmory_copper_pike | magistuarmory_diamond_concavehalberd | magistuarmory_diamond_guisarme | magistuarmory_diamond_pike | magistuarmory_gold_concavehalberd | magistuarmory_gold_guisarme | magistuarmory_gold_pike | magistuarmory_iron_concavehalberd | magistuarmory_iron_guisarme | magistuarmory_iron_pike | magistuarmory_netherite_concavehalberd | magistuarmory_netherite_guisarme | magistuarmory_netherite_pike | magistuarmory_silver_concavehalberd | magistuarmory_silver_guisarme | magistuarmory_silver_pike | magistuarmory_steel_concavehalberd | magistuarmory_steel_guisarme | magistuarmory_steel_pike | magistuarmory_stone_concavehalberd | magistuarmory_stone_guisarme | magistuarmory_stone_pike | magistuarmory_tin_concavehalberd | magistuarmory_tin_guisarme | magistuarmory_tin_pike | magistuarmory_wood_concavehalberd | magistuarmory_wood_guisarme | magistuarmory_wood_pike | simplyswords_arcanethyst | simplyswords_diamond_glaive | simplyswords_diamond_halberd | simplyswords_diamond_spear | simplyswords_diamond_warglaive | simplyswords_gold_glaive | simplyswords_gold_halberd | simplyswords_gold_spear | simplyswords_gold_warglaive | simplyswords_icewhisper | simplyswords_iron_glaive | simplyswords_iron_halberd | simplyswords_iron_spear | simplyswords_iron_warglaive | simplyswords_netherite_glaive | simplyswords_netherite_halberd | simplyswords_netherite_spear | simplyswords_netherite_warglaive | simplyswords_runic_glaive | simplyswords_runic_halberd | simplyswords_runic_spear | simplyswords_runic_warglaive | simplyswords_thunderbrand | simplyswords_watching_warglaive | wom_agony | wom_diamond_staff | wom_golden_staff | wom_iron_staff | wom_netherite_staff | wom_stone_staff | wom_wooden_staff",
+                        "condition": "minecraft_trident | cataclysm_coral_bardiche | cataclysm_coral_spear | cataclysm_coral_spear | epicfight_diamond_spear | epicfight_golden_spear | epicfight_iron_spear | epicfight_netherite_spear | epicfight_stone_spear | magistuarmory_bronze_concavehalberd | magistuarmory_bronze_guisarme | magistuarmory_bronze_pike | magistuarmory_copper_concavehalberd | magistuarmory_copper_guisarme | magistuarmory_copper_pike | magistuarmory_diamond_concavehalberd | magistuarmory_diamond_guisarme | magistuarmory_diamond_pike | magistuarmory_gold_concavehalberd | magistuarmory_gold_guisarme | magistuarmory_gold_pike | magistuarmory_iron_concavehalberd | magistuarmory_iron_guisarme | magistuarmory_iron_pike | magistuarmory_netherite_concavehalberd | magistuarmory_netherite_guisarme | magistuarmory_netherite_pike | magistuarmory_silver_concavehalberd | magistuarmory_silver_guisarme | magistuarmory_silver_pike | magistuarmory_steel_concavehalberd | magistuarmory_steel_guisarme | magistuarmory_steel_pike | magistuarmory_stone_concavehalberd | magistuarmory_stone_guisarme | magistuarmory_stone_pike | magistuarmory_tin_concavehalberd | magistuarmory_tin_guisarme | magistuarmory_tin_pike | magistuarmory_wood_concavehalberd | magistuarmory_wood_guisarme | magistuarmory_wood_pike | simplyswords_arcanethyst | simplyswords_diamond_glaive | simplyswords_diamond_halberd | simplyswords_diamond_spear | simplyswords_diamond_warglaive | simplyswords_gold_glaive | simplyswords_gold_halberd | simplyswords_gold_spear | simplyswords_gold_warglaive | simplyswords_icewhisper | simplyswords_iron_glaive | simplyswords_iron_halberd | simplyswords_iron_spear | simplyswords_iron_warglaive | simplyswords_netherite_glaive | simplyswords_netherite_halberd | simplyswords_netherite_spear | simplyswords_netherite_warglaive | simplyswords_runic_glaive | simplyswords_runic_halberd | simplyswords_runic_spear | simplyswords_runic_warglaive | simplyswords_thunderbrand | simplyswords_watching_warglaive | simplyswords_stars_edge | simplyswords_wickpiercer | wom_agony | wom_diamond_staff | wom_golden_staff | wom_iron_staff | wom_netherite_staff | wom_stone_staff | wom_wooden_staff",
                         "expression": "(dropped_xp + max_health) * 0.1"
                     }
                 ],
